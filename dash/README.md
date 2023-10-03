@@ -15,4 +15,5 @@ You can use one of this options:
 - Dash Mantine Components
 
 Here I can acess more than 100 examples of Dash components interacting with Plotly graphs
-https://dash-example-index.herokuapp.com/
+
+- https://dash-example-index.herokuapp.com/
