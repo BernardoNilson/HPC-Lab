@@ -21,8 +21,8 @@ public class ServerTask {
         // ExecutorService threadPool = Executors.newFixedThreadPool(5);
         ExecutorService threadPool = Executors.newCachedThreadPool();
 
-        // Loop para aceitar novos clientes
-        while (true) {
+        // Loop para aceitar novos clientes !threadPool.isTerminated()
+        while (!threadPool.isShutdown()) {
             // Aceita o cliente na porta 12345 e informa para qual porta a conexão foi direcionada.
             Socket socket = server.accept();
             System.out.println("Client accepted " + socket.getPort());
@@ -31,17 +31,20 @@ public class ServerTask {
             DistributeTasks distributeTasks = new DistributeTasks(socket);
             threadPool.execute(distributeTasks);
 
-            // Informa todas as threads conectadas ao servidor
-            Set<Thread> allThreads = Thread.getAllStackTraces().keySet();
-            for (Thread thread : allThreads){
-                System.out.println(thread.getName());
-            }
-
-            // Informa a quantidade de processadores disponíveis
-            Runtime runtime = Runtime.getRuntime();
-            int processorCount = runtime.availableProcessors();
-            System.out.println("Available processors: " + processorCount);
         }
+
+        // Informa todas as threads conectadas ao servidor
+        Set<Thread> allThreads = Thread.getAllStackTraces().keySet();
+        for (Thread thread : allThreads){
+            System.out.println(thread.getName());
+        }
+
+        // Informa a quantidade de processadores disponíveis
+        Runtime runtime = Runtime.getRuntime();
+        int processorCount = runtime.availableProcessors();
+        System.out.println("Available processors: " + processorCount);
+
+        server.close();
+        threadPool.shutdown();
     }
-    
 }
