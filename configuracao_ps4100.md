@@ -1,3 +1,4 @@
+manual do EqualLogic PS4100 da Dell: [https://dl.dell.com/manuals/all-products/esuprt_ser_stor_net/esuprt_equallogic/equallogic-ps4100x_setup-guide_en-us.pdf](https://dl.dell.com/manuals/all-products/esuprt_ser_stor_net/esuprt_equallogic/equallogic-ps4100x_setup-guide_en-us.pdf)
 Boot de um PenDrive com Ubuntu 22.04
 
 inicia a máquina
