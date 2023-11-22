@@ -50,21 +50,21 @@ Acesso padrão ao Storage, segundo o manual:
 - password: grpadmin
 
 Nas configurações de rede do LAD: configuramos dois IPs estáticos para o storage:
-- ps4100mng: 192.168.1.82 - Gerência do Storage 
+- ps4100mgt: 192.168.1.82 - Gerência do Storage 
 - ps4100data: 172.17.1.82 - RAID de dados
-
-
+    
+~~~
            Welcome to Group Manager
 
         Copyright 2001-2014 Dell Inc.
 
 
+netmgtd:1700722419.77:rcc_util.c:1024:INFO:25.2.9:CLI: Login to account grpadmin succeeded, using lo.
+netmgtd:1700722419.77:rcc_util.c:1032:AUDIT:25.7.0:CLI: Login to account grpadmin succeeded, using l.
 
-563:2:netmgtd:21-Nov-2023 01:55:08.490002:rcc_util.c:1024:INFO::25.2.9:CLI: Log.
 It appears that the storage array has not been configured. 
-Would you like to configure the array now ? (y/n) [n]
+Would you like to configure the array now ? (y/n) [n]y
 
-y
 
                 Group Manager Setup Utility
 
@@ -79,3 +79,66 @@ y
 
    The battery is not completely charged. It is recommended that
    you wait until the battery is completely charged before running setup.
+
+   Do you want to proceed (yes | no ) [no]: yes
+
+ Initializing.  This may take several minutes to complete.
+
+ Enter the network configuration for the array.
+
+   Member name []: ps4100mgt
+   Network interface [eth0]: 
+   IP address for network interface []: 192.168.1.82
+   Netmask [255.255.255.0]: 255.255.255.0
+   Default gateway [192.168.1.1]: 192.168.1.254
+
+ Initializing interface eth0.  This may take a minute.....
+
+ Enter the IP address and name of the group that the array will join.
+
+   Group name []: ProxGroup
+   Group IP address []: 192.168.1.83
+
+ Searching to see if the group exists.  This may take a few minutes.
+
+ The group does not exist or currently cannot be reached. Make sure
+ you have entered the correct group IP address and group name.
+
+   Do you want to create a new group (yes | no) [yes]: yes
+
+       Group Configuration
+
+  Group Name:                     ProxGroup
+  Group IP address:               192.168.1.83
+
+   Do you want to use the group settings shown above (yes | no) [yes]: y
+
+   Do you want to use the group settings shown above (yes | no) [yes]: y
+   Password for managing group membership:
+   Retype password for verification:
+
+   Password for the default group administration(grpadmin) account:
+   Retype password for verification:
+
+
+ Saving the configuration...
+
+Waiting for configuration to become active......Done
+
+ Group ProxGroup has been created with one member.
+ Use the Group Manager GUI or CLI to set the RAID policy
+ for the member.  You can then create a volume which
+ a host can connect to using an iSCSI initiator.
+
+
+ To access the Group Manager GUI, specify http://group_ip_address in
+ a Web browser window.  To access the CLI, use telnet or SSH to
+ connect to the group IP address from a remote terminal, or attach a
+ console terminal directly to a serial port on a group member's
+ active control module.  Log in to the default group administration
+ account (grpadmin) using the password you specified when creating
+ this group. See the Group Administration manual for more
+ information.
+
+ProxGroup> 
+~~
