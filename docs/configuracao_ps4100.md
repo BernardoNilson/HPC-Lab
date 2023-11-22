@@ -1,13 +1,17 @@
-manual do EqualLogic PS4100 da Dell: [https://dl.dell.com/manuals/all-products/esuprt_ser_stor_net/esuprt_equallogic/equallogic-ps4100x_setup-guide_en-us.pdf](https://dl.dell.com/manuals/all-products/esuprt_ser_stor_net/esuprt_equallogic/equallogic-ps4100x_setup-guide_en-us.pdf)
-Boot de um PenDrive com Ubuntu 22.04
+# Instalação e configuração do Storage Equal Logic PS4100 da Dell ao ProxMox
 
-inicia a máquina
-ativa as bibliotecas no app software and Update
+> Manual do EqualLogic PS4100: [https://dl.dell.com/manuals/all-products/esuprt_ser_stor_net/esuprt_equallogic/equallogic-ps4100x_setup-guide_en-us.pdf](https://dl.dell.com/manuals/all-products/esuprt_ser_stor_net/esuprt_equallogic/equallogic-ps4100x_setup-guide_en-us.pdf)
 
+Estamos configurando em uma máquina qualquer com o "Try Ubuntu 22.04"
+
+Precisamos ativar as bibliotecas no app "Software and Update"
+
+
+~~~
 sudo apt update
 sudo apt install minicom
-
 sudo minicom -s -c on
+~~~
             +-----[configuration]------+
             | Filenames and paths      |
             | File transfer protocols  |
@@ -19,8 +23,10 @@ sudo minicom -s -c on
             | Exit                     |
             | Exit from Minicom        |
             +--------------------------+
-configurações usadas
-+-----------------------------------------------------------------------+
+            
+Usamos as seguintes configurações:
+
+    +-----------------------------------------------------------------------+
     | A -    Serial Device      : /dev/ttyS0                                |
     | B - Lockfile Location     : /var/lock                                 |
     | C -   Callin Program      :                                           |
@@ -39,15 +45,13 @@ configurações usadas
     |    Change which setting?                                              |
     +-----------------------------------------------------------------------+
 
-login grpadmin
-password grpadmin
+Acesso padrão ao Storage, segundo o manual:
+- login: grpadmin
+- password: grpadmin
 
-configuramos ip estático para o storage, tanto interface de gerência quanto interface de dados
-
-ps4100mng
-192.168.1.82
-ps4100data
-172.17.1.82
+Nas configurações de rede do LAD: configuramos dois IPs estáticos para o storage:
+- ps4100mng: 192.168.1.82 - Gerência do Storage 
+- ps4100data: 172.17.1.82 - RAID de dados
 
 
            Welcome to Group Manager
