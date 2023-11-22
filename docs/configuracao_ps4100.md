@@ -7,11 +7,11 @@ Estamos configurando em uma máquina qualquer com o "Try Ubuntu 22.04"
 Precisamos ativar as bibliotecas no app "Software and Update"
 
 
-~~~
+
 sudo apt update
 sudo apt install minicom
 sudo minicom -s -c on
-~~~
+
             +-----[configuration]------+
             | Filenames and paths      |
             | File transfer protocols  |
@@ -149,16 +149,49 @@ ProxGroup>
 
 Change to the directory in which you want to install. Type:
 
-    cd directory_path_name
+cd directory_path_name
     
 For example, to install the software in the /usr/java/ directory, Type:
 
-    cd /usr/java/
+cd /usr/java/
     
 Move the .tar.gz archive binary to the current directory. Unpack the tarball and install Java
 
-    sudo tar zxvf jre-8u241-linux-x64.tar.gz
+sudo tar zxvf jre-8u241-linux-x64.tar.gz
 
-    The Java files are installed in a directory called jre1.8.0_241 in the current directory. In this example, it is installed in the /usr/java/jre1.8.0_241 directory. When the installation has completed, you will see the word Done.
+The Java files are installed in a directory called jre1.8.0_241 in the current directory. In this example, it is installed in the /usr/java/jre1.8.0_241 directory. When the installation has completed, you will see the word Done.
     Delete the .tar.gz file if you want to save disk space.
+
+Set environment variables
+
+ubuntu@ubuntu:/usr/bin/java/jre1.8.0_241$ export JAVA_HOME=/usr/bin/java/jre1.8.0_241
+ubuntu@ubuntu:/usr/bin/java/jre1.8.0_241$ export PATH=$JAVA_HOME/bin/:$PATH
+
+ubuntu@ubuntu:/usr/bin/java/jre1.8.0_241$ java -version
+
+    java version "1.8.0_241"
+    Java(TM) SE Runtime Environment (build 1.8.0_241-b07)
+    Java HotSpot(TM) 64-Bit Server VM (build 25.241-b07, mixed mode)
+    ubuntu@ubuntu:/usr/bin/java/jre1.8.0_241$ 
+
+Os comandos foram adicionamos manualmente de forma temporária, para adicionar ao iniciar o shell adcionei direto no .bashrc
+
+Ao acessar o endereço web http://192.168.2.83/ e cancelar a operação. Podemos lançar como uma aplicação Java, ele baixa um arquivo groupmgr.jnlp
+
+Antes, precisamos adicionar os sites na nossa lista de site sem restrição do Java. Para isso:
+
+/usr/bin/java/jre1.8.0_241$ ./bin/ControlPanel 
+
+Vamos em Security > Edit Site List > Add e colocamos o nosso endereço.
+
+Com o Java SE 8 instalado no compuatador, executamos o seguinte comando javaws `javaws http://192.168.1.83/groupmgr.jnlp`.
+
+## Interface Web - Group Manager
+
+Finalizamos a criação do membro criado com as seguintes opções:
+
+    RAID configuration	[IMG=/images/yellowled16.png] initializing
+    RAID policy	RAID 6
+    Estimated member capacity	7.82 TB
+    Expand group capacity	immediate
 
