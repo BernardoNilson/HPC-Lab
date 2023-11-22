@@ -195,3 +195,8 @@ Finalizamos a criação do membro criado com as seguintes opções:
     Estimated member capacity	7.82 TB
     Expand group capacity	immediate
 
+ALguns pontos interessantes:
+- https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi28_j41tiCAxWmqZUCHUZrCHEQtwJ6BAgPEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPBl2N5_QQkM&usg=AOvVaw03Ecxm85O18-pN_tWyy5vL&opi=89978449
+- https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi28_j41tiCAxWmqZUCHUZrCHEQFnoECAwQAQ&url=https%3A%2F%2Fforum.proxmox.com%2Fthreads%2Fproxmox-ve-and-dell-equallogic-storage-iscsi.90872%2F&usg=AOvVaw1dQ3vz-HUyYw5E5CrcMcjp&opi=89978449
+- https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjqp_3E19iCAxXxs5UCHatrA5QQFnoECAsQAQ&url=https%3A%2F%2Fcommunity.spiceworks.com%2Ftopic%2F322351-how-to-configure-a-dell-equalogic-ps4100-san&usg=AOvVaw1fc47ai8_4Db6pF63EcTKx&opi=89978449
+- https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjqp_3E19iCAxXxs5UCHatrA5QQtwJ6BAgNEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwY66t_Ut3gU&usg=AOvVaw2g0gBl5IDMknd0TT5WYEFL&opi=89978449
