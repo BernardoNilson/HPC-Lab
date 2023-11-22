@@ -141,4 +141,24 @@ Waiting for configuration to become active......Done
  information.
 
 ProxGroup> 
-~~
+~~~
+
+## Instalando Java JRE SE 8
+[https://download.oracle.com/otn/java/jdk/8u241-b07/1f5b5a70bf22433b84d0e960903adac8/jre-8u241-linux-x64.tar.gz](https://download.oracle.com/otn/java/jdk/8u241-b07/1f5b5a70bf22433b84d0e960903adac8/jre-8u241-linux-x64.tar.gz)
+
+
+Change to the directory in which you want to install. Type:
+
+    cd directory_path_name
+    
+For example, to install the software in the /usr/java/ directory, Type:
+
+    cd /usr/java/
+    
+Move the .tar.gz archive binary to the current directory. Unpack the tarball and install Java
+
+    sudo tar zxvf jre-8u241-linux-x64.tar.gz
+
+    The Java files are installed in a directory called jre1.8.0_241 in the current directory. In this example, it is installed in the /usr/java/jre1.8.0_241 directory. When the installation has completed, you will see the word Done.
+    Delete the .tar.gz file if you want to save disk space.
+
