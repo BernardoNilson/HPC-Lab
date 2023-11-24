@@ -210,3 +210,9 @@ Sendo assim, para executar a aplicação:
 `/usr/java/jre1.8.0_241/bin/javaws http://192.168.1.83/groupmgr.jnlp`
 
 Para me facilitar, coloquei o comando em um arquivo bash oculto.
+
+# Anotações
+
+[https://forum.proxmox.com/threads/lvm-thin-over-iscsi-and-live-migration.27638/](https://forum.proxmox.com/threads/lvm-thin-over-iscsi-and-live-migration.27638/)https://forum.proxmox.com/threads/lvm-thin-over-iscsi-and-live-migration.27638/
+Senha do ProxMox: L@bL@D2023
+
