@@ -144,6 +144,7 @@ ProxGroup>
 ~~~
 
 ## Instalando Java JRE SE 8
+[https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html)
 [https://download.oracle.com/otn/java/jdk/8u241-b07/1f5b5a70bf22433b84d0e960903adac8/jre-8u241-linux-x64.tar.gz](https://download.oracle.com/otn/java/jdk/8u241-b07/1f5b5a70bf22433b84d0e960903adac8/jre-8u241-linux-x64.tar.gz)
 
 
@@ -200,3 +201,12 @@ ALguns pontos interessantes:
 - https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi28_j41tiCAxWmqZUCHUZrCHEQFnoECAwQAQ&url=https%3A%2F%2Fforum.proxmox.com%2Fthreads%2Fproxmox-ve-and-dell-equallogic-storage-iscsi.90872%2F&usg=AOvVaw1dQ3vz-HUyYw5E5CrcMcjp&opi=89978449
 - https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjqp_3E19iCAxXxs5UCHatrA5QQFnoECAsQAQ&url=https%3A%2F%2Fcommunity.spiceworks.com%2Ftopic%2F322351-how-to-configure-a-dell-equalogic-ps4100-san&usg=AOvVaw1fc47ai8_4Db6pF63EcTKx&opi=89978449
 - https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjqp_3E19iCAxXxs5UCHatrA5QQtwJ6BAgNEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwY66t_Ut3gU&usg=AOvVaw2g0gBl5IDMknd0TT5WYEFL&opi=89978449
+
+## Executando no meu PC
+
+Assim como os passos anteriores, eu fiz a instalação do pacote jre1.8.0_241 no diretório /usr/java. E descompactei do arquivo.
+
+Sendo assim, para executar a aplicação:
+`/usr/java/jre1.8.0_241/bin/javaws http://192.168.1.83/groupmgr.jnlp`
+
+Para me facilitar, coloquei o comando em um arquivo bash oculto.
