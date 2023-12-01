@@ -214,5 +214,6 @@ Para me facilitar, coloquei o comando em um arquivo bash oculto.
 # Anotações
 
 [https://forum.proxmox.com/threads/lvm-thin-over-iscsi-and-live-migration.27638/](https://forum.proxmox.com/threads/lvm-thin-over-iscsi-and-live-migration.27638/)https://forum.proxmox.com/threads/lvm-thin-over-iscsi-and-live-migration.27638/
-Senha do ProxMox: L@bL@D2023
 
+Senha do ProxMox: L@bL@D2023
+Senha do Storage Dell: admin2204
