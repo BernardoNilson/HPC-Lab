@@ -217,3 +217,7 @@ Para me facilitar, coloquei o comando em um arquivo bash oculto.
 
 Senha do ProxMox: L@bL@D2023
 Senha do Storage Dell: admin2204
+Trocamos o IP Address do membro pelo IP Address do grupo, e vice-versa.
+  
+Vídeos:
+Configura o Storage pelo KITTY
