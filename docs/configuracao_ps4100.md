@@ -177,7 +177,7 @@ ubuntu@ubuntu:/usr/bin/java/jre1.8.0_241$ java -version
 
 Os comandos foram adicionamos manualmente de forma temporária, para adicionar ao iniciar o shell adcionei direto no .bashrc
 
-Ao acessar o endereço web http://192.168.2.83/ e cancelar a operação. Podemos lançar como uma aplicação Java, ele baixa um arquivo groupmgr.jnlp
+Ao acessar o endereço web http://192.168.1.82/ e cancelar a operação. Podemos lançar como uma aplicação Java, ele baixa um arquivo groupmgr.jnlp
 
 Antes, precisamos adicionar os sites na nossa lista de site sem restrição do Java. Para isso:
 
