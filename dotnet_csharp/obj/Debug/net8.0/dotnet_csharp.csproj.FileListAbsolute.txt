@@ -1,0 +1,15 @@
+/home/bernardo/Documents/HPC-Lab/dotnet_csharp/bin/Debug/net8.0/dotnet_csharp
+/home/bernardo/Documents/HPC-Lab/dotnet_csharp/bin/Debug/net8.0/dotnet_csharp.deps.json
+/home/bernardo/Documents/HPC-Lab/dotnet_csharp/bin/Debug/net8.0/dotnet_csharp.runtimeconfig.json
+/home/bernardo/Documents/HPC-Lab/dotnet_csharp/bin/Debug/net8.0/dotnet_csharp.dll
+/home/bernardo/Documents/HPC-Lab/dotnet_csharp/bin/Debug/net8.0/dotnet_csharp.pdb
+/home/bernardo/Documents/HPC-Lab/dotnet_csharp/obj/Debug/net8.0/dotnet_csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/bernardo/Documents/HPC-Lab/dotnet_csharp/obj/Debug/net8.0/dotnet_csharp.AssemblyInfoInputs.cache
+/home/bernardo/Documents/HPC-Lab/dotnet_csharp/obj/Debug/net8.0/dotnet_csharp.AssemblyInfo.cs
+/home/bernardo/Documents/HPC-Lab/dotnet_csharp/obj/Debug/net8.0/dotnet_csharp.csproj.CoreCompileInputs.cache
+/home/bernardo/Documents/HPC-Lab/dotnet_csharp/obj/Debug/net8.0/dotnet_csharp.sourcelink.json
+/home/bernardo/Documents/HPC-Lab/dotnet_csharp/obj/Debug/net8.0/dotnet_csharp.dll
+/home/bernardo/Documents/HPC-Lab/dotnet_csharp/obj/Debug/net8.0/refint/dotnet_csharp.dll
+/home/bernardo/Documents/HPC-Lab/dotnet_csharp/obj/Debug/net8.0/dotnet_csharp.pdb
+/home/bernardo/Documents/HPC-Lab/dotnet_csharp/obj/Debug/net8.0/dotnet_csharp.genruntimeconfig.cache
+/home/bernardo/Documents/HPC-Lab/dotnet_csharp/obj/Debug/net8.0/ref/dotnet_csharp.dll
