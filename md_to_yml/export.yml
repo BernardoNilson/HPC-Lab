@@ -14,246 +14,374 @@
   doi: https://doi.org/10.1145/3555776.3577739
   title: Reducing Power Consumption during Server Maintenance on Edge Computing Infrastructures
   type: "Disserta\xE7\xE3o"
-  vehicle: Proceedings of the 38th ACM/SIGAPP Symposium on Applied Computing / PUCRS
+  vehicle:
+    Proceedings of the 38th ACM/SIGAPP Symposium on Applied Computing / PUCRS
     / Dell Brasil
   year: 2023
-- authors: Fernanda de Jesus Trindade
+- authors: "Fernanda de Jesus Trindade "
   doi: https://tede2.pucrs.br/tede2/handle/tede/10707
-  title: "Gen\xF4mica evolutiva do g\xEAnero Leopardus (Mammalia, felidae) com \xEA\
+  title:
+    "Gen\xF4mica evolutiva do g\xEAnero Leopardus (Mammalia, felidae) com \xEA\
     nfase no processo de hibrida\xE7\xE3o entre L. Guttulus e L. Geoffroyi"
   type: Tese de Doutorado
   vehicle: TEDE PUCRS
   year: 2023
+- authors:
+    Gabriel Fonseca Silva, Paulo Ricardo Knob, Rubens Halbig Montanha, Soraia
+    Raupp Musse
+  doi: https://dx.doi.org/10.2139/ssrn.4385713
+  title: Evaluation and Comparison of Crowd Scenarios
+  type: "Artigo Cient\xEDfico"
+  vehicle: "Graphical Models Journal (Qualis: A2)"
+  year: 2023
 - authors: Paulo Ricardo Knob, Natalia Dal Pizzol, Soraia Raupp Musse, Catherine Pelachaud
   doi: https://link.springer.com/article/10.1007/s00371-023-02994-9
-  title: 'Arthur and Bella: multi-purpose empathetic AI assistants for daily conversations'
-  type: "Artigo cient\xEDfico"
+  title: "Arthur and Bella: multi-purpose empathetic AI assistants for daily conversations"
+  type: "Artigo Cient\xEDfico"
   vehicle: TVCJ (Qualis - A4)
   year: 2023
 - authors: Omar Rojas Padilla
   doi: "Tese ainda n\xE3o dispon\xEDvel no TEDE"
-  title: 'Contributions to the Systematics and Taxonomy of Syncope Walker, 1973 (Microhylidae:
-    Chiasmocleis)'
+  title:
+    "Contributions to the Systematics and Taxonomy of Syncope Walker, 1973 (Microhylidae:
+    Chiasmocleis)"
   type: Tese de Doutorado
   vehicle: TEDE
   year: 2023
-- authors: "Victor M. Zucchetti*, Omar Rojas-Padilla*, Iuri R. Dias, Mirco Sol\xE9\
+- authors:
+    "Victor M. Zucchetti*, Omar Rojas-Padilla*, Iuri R. Dias, Mirco Sol\xE9\
     , Victor G.D. Orrico, Santiago Castroviejo-Fisher*"
   doi: https://doi.org/10.11646/zootaxa.5249.3.1
-  title: 'An elusive giant: A new species of Vitreorana Guayasamin et al., 2009 (Anura:
+  title:
+    "An elusive giant: A new species of Vitreorana Guayasamin et al., 2009 (Anura:
     Centrolenidae) from the northern Atlantic Forest with an osteological description
-    and comments on integumentary spicules'
-  type: "Artigo cient\xEDfico"
+    and comments on integumentary spicules"
+  type: "Artigo Cient\xEDfico"
   vehicle: Zootaxa - Qualis A4
   year: 2023
-- authors: "Miguel G. Xavier; Carlos H. C. Cano; Vin\xEDcius Meyer; Cesar A. F. De\
+- authors:
+    "Miguel G. Xavier; Carlos H. C. Cano; Vin\xEDcius Meyer; Cesar A. F. De\
     \ Rose"
   doi: https://doi.org/10.1109/SBAC-PAD55451.2022.00034
-  title: 'IntP: Quantifying cross-application interference via system-level instrumentation'
-  type: "Artigo cient\xEDfico"
-  vehicle: 2022 IEEE 34th International Symposium on Computer Architecture and High
+  title: "IntP: Quantifying cross-application interference via system-level instrumentation"
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    2022 IEEE 34th International Symposium on Computer Architecture and High
     Performance Computing (SBAC-PAD)
+  year: 2022
+- authors:
+    "Vin\xEDcius Meyer, Matheus L. da Silva, Dionatr\xE3 F. Kirchoff, Cesar\
+    \ A.F. De Rose"
+  doi: https://doi.org/10.1016/j.jss.2022.111491
+  title:
+    "IADA: A dynamic interference-aware cloud scheduling architecture for latency-sensitive
+    workloads"
+  type: "Artigo Cient\xEDfico"
+  vehicle: Journal of Systems and Software, Volume 194, December 2022, 111491
+  year: 2022
+- authors: HOPF, F. S. M
+  doi: " "
+  title: "Prospec\xE7\xE3o de enoil-redutases alternativas em Mycobacterium tuberculosis"
+  type: Tese de Doutorado
+  vehicle:
+    "Tese (Doutorado em Biologia Celular e Molecular) \u2013 Pontif\xEDcia\
+    \ Universidade Cat\xF3lica do Rio Grande do Sul (PUCRS)"
   year: 2022
 - authors: GALINA, L
   doi: https://tede2.pucrs.br/tede2/handle/tede/10134
-  title: "Avalia\xE7\xE3o da enzima 3-desoxi-D-arabino-heptulosonato-7-fostato sintase\
+  title:
+    "Avalia\xE7\xE3o da enzima 3-desoxi-D-arabino-heptulosonato-7-fostato sintase\
     \ (DAHPS) como alvo molecular vulner\xE1vel para o desenvolvimento de novos compostos\
     \ antimicobacterianos"
   type: Tese de Doutorado
-  vehicle: "Tese (Doutorado em Medicina e Ci\xEAncias da Sa\xFAde) \u2013 Pontif\xED\
+  vehicle:
+    "Tese (Doutorado em Medicina e Ci\xEAncias da Sa\xFAde) \u2013 Pontif\xED\
     cia Universidade Cat\xF3lica do Rio Grande do Sul (PUCRS)"
   year: 2022
-- authors: de Souza EV, Dalberto PF, Machado VP, Canedo Miranda A, Saghatelian A,
+- authors:
+    de Souza EV, Dalberto PF, Machado VP, Canedo Miranda A, Saghatelian A,
     Machado P, Basso LA, Bizarro CV
   doi: https://doi.org/10.1093/bioinformatics/btac115
-  title: "\xB5ProteInS - a proteogenomics pipeline for finding novel bacterial microproteins\
+  title:
+    "\xB5ProteInS - a proteogenomics pipeline for finding novel bacterial microproteins\
     \ encoded by small ORFs"
   type: Artigo em Revista
-  vehicle: "Bioinformatics, Volume 38, Issue 9, 1 May 2022, Pages 2612\u20132614 (Fator\
+  vehicle:
+    "Bioinformatics, Volume 38, Issue 9, 1 May 2022, Pages 2612\u20132614 (Fator\
     \ de impacto: 6.937; Qualis A1 \u2013 CBI)"
+  year: 2022
+- authors:
+    Fernanda S. M. Hopf, Candida D. Roth, Eduardo V. de Souza, Luiza Galina,
+    Alexia M. Czeczot, Pablo Machado, Luiz A. Basso, Cristiano V. Bizarro
+  doi: https://doi.org/10.3389/fmicb.2022.891610
+  title:
+    "Bacterial Enoyl-Reductases: The Ever-Growing List of Fabs, Their Mechanisms
+    and Inhibition"
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "Frontiers in Microbiology (EISSN: 1664-302X) / Frontiers Media SA / Qualis
+    A2 (CB1) / Journal Impact Factor (JCR 2022): 5.2"
+  year: 2022
+- authors: Pedro Henrique Negreiros Vara
+  doi: https://tede2.pucrs.br/tede2/handle/tede/10538
+  title:
+    "Desenvolvimento de plataforma para produ\xE7\xE3o de vacina baseada em BCG\
+    \ recombinante (rBCG) para a preven\xE7\xE3o de infec\xE7\xF5es por SARS-CoV-2"
+  type: "Disserta\xE7\xE3o de Mestrado"
+  vehicle: TEDE PUCRS
+  year: 2022
+- authors: Fernanda Souza Macchi Hopf
+  doi: https://tede2.pucrs.br/tede2/handle/tede/10338
+  title: "Prospec\xE7\xE3o de enoil-redutases alternativas em Mycobacterium tuberculosis"
+  type: Tese de Doutorado
+  vehicle: TEDE PUCRS
+  year: 2022
+- authors: Talita Freitas de Freitas
+  doi: https://tede2.pucrs.br/tede2/handle/tede/10473
+  title:
+    Estudos funcionais de potenciais inibidores da enzima chiquimato quinase
+    de Mycobacterium tuberculosis
+  type: Tese de Doutorado
+  vehicle: TEDE PUCRS
   year: 2022
 - authors: Adriano Vogel
   doi: https://tede2.pucrs.br/tede2/handle/tede/10232
-  title: Self-adaptive abstractions for efficient high-level parallel computing in
+  title:
+    Self-adaptive abstractions for efficient high-level parallel computing in
     multi-cores
   type: Tese de Doutorado
-  vehicle: "Tese (Doutorado em Ci\xEAncia da Computa\xE7\xE3o) - Pontif\xEDcia Universidade\
+  vehicle:
+    "Tese (Doutorado em Ci\xEAncia da Computa\xE7\xE3o) - Pontif\xEDcia Universidade\
     \ Cat\xF3lica do Rio Grande do Sul"
   year: 2022
-- authors: "Renato Barreto Hoffmann, J\xFAnior L\xF6ff, Dalvan Griebler, Luiz Gustavo\
+- authors:
+    "Renato Barreto Hoffmann, J\xFAnior L\xF6ff, Dalvan Griebler, Luiz Gustavo\
     \ Fernandes"
   doi: https://doi.org/10.1007/s11227-021-04182-9
-  title: "OpenMP as runtime for providing high\u2011level stream parallelism on multi\u2011\
+  title:
+    "OpenMP as runtime for providing high\u2011level stream parallelism on multi\u2011\
     cores"
   type: Artigo em Revista
   vehicle: The Journal of Supercomputing. Qualis A2
   year: 2022
-- authors: Adriano Marques Garcia, Dalvan Griebler, Luiz G. L. Fernandes, Claudio
+- authors:
+    Adriano Marques Garcia, Dalvan Griebler, Luiz G. L. Fernandes, Claudio
     Schepke
   doi: https://doi.org/10.1007/s00607-021-01025-6
-  title: 'SPBench: a framework for creating benchmarks of stream processing applications'
+  title: "SPBench: a framework for creating benchmarks of stream processing applications"
   type: Artigo em Revista
   vehicle: Computing. Qualis A2
   year: 2022
-- authors: Adriano Marques Garcia, Dalvan Griebler, Luiz G. L. Fernandes, Claudio
+- authors:
+    Adriano Marques Garcia, Dalvan Griebler, Luiz G. L. Fernandes, Claudio
     Schepke
   doi: https://doi.org/10.1109/PDP55904.2022.00011
-  title: Evaluating Micro-batch and Data Frequency for Stream Processing Applications
+  title:
+    Evaluating Micro-batch and Data Frequency for Stream Processing Applications
     on Multi-cores
   type: "Artigo em Confer\xEAncia"
-  vehicle: Euromicro International Conference on Parallel, Distributed, and Network-Based
+  vehicle:
+    Euromicro International Conference on Parallel, Distributed, and Network-Based
     Processing (PDP). Qualis A3
   year: 2022
 - authors: "J\xFAnior L\xF6ff; Renato B. Hoffmann; Dalvan Griebler; Luiz G. Fernandes;"
   doi: https://doi.org/10.1016/j.cola.2022.101160
   title: Combining stream with data parallelism abstractions for multi-cores
-  type: "Artigo cient\xEDfico"
+  type: "Artigo Cient\xEDfico"
   vehicle: Journal of Computer Languages - Volume 73, December 2022, 101160
   year: 2022
-- authors: "J\xFAnior L\xF6ff; Renato B. Hoffmann; Ricardo Pieper; Dalvan Griebler;\
+- authors:
+    "J\xFAnior L\xF6ff; Renato B. Hoffmann; Ricardo Pieper; Dalvan Griebler;\
     \ Luiz G. Fernandes;"
   doi: https://doi.org/10.1007/s10766-022-00737-2
-  title: 'DSParLib: A C++ Template Library for Distributed Stream Parallelism'
-  type: "Artigo cient\xEDfico"
+  title: "DSParLib: A C++ Template Library for Distributed Stream Parallelism"
+  type: "Artigo Cient\xEDfico"
   vehicle: International Journal of Parallel Programming
   year: 2022
 - authors: CARLOS HENRIQUE KAYSER
   doi: https://tede2.pucrs.br/tede2/handle/tede/10786
-  title: Minimizing container-based applications sla violations on edge computing
+  title:
+    Minimizing container-based applications sla violations on edge computing
     environments
   type: "Disserta\xE7\xE3o de Mestrado"
-  vehicle: TEDE PUCRS
+  vehicle: "TEDE PUCRS "
   year: 2022
-- authors: Souza, P. S., Ferreto, T. C., Rossi, F. D., & Calheiros, R. N.
+- authors: "Souza, P. S., Ferreto, T. C., Rossi, F. D., & Calheiros, R. N. "
   doi: https://doi.org/10.1109/LCOMM.2022.3150243
   title: Location-Aware Maintenance Strategies for Edge Computing Infrastructures
   type: Artigo em Revista
-  vehicle: 'IEEE Communications Letters (Volume: 26, Issue: 4, April 2022)'
+  vehicle: "IEEE Communications Letters (Volume: 26, Issue: 4, April 2022)"
   year: 2022
-- authors: "Marcos Paulo Konzen, Patric Lincoln Ramires Izolan, F\xE1bio Diniz Griesang,\
+- authors:
+    "Marcos Paulo Konzen, Patric Lincoln Ramires Izolan, F\xE1bio Diniz Griesang,\
     \ Paulo Silas Severo De Souza, Tiago Coelho Ferreto, Arthur Francisco Lorenzon,\
     \ Marcelo Caggiani Luizelli, Julio Carlos Balzano De Mattos, Cinara Ewerling Da\
-    \ Rosa and F\xE1bio J\xFAnior Rossi"
+    \ Rosa and F\xE1bio J\xFAnior Rossi "
   doi: http://dx.doi.org/10.5220/0011084100003200
   title: Multivariate Interpolation at the Edge to Infer Faulty IoT Sensor Metrics
   type: "Artigo em Confer\xEAncia"
-  vehicle: Proceedings of the 12th International Conference on Cloud Computing and
-    Services Science CLOSER - Volume 1, 280-287, 2022
+  vehicle:
+    "Proceedings of the 12th International Conference on Cloud Computing and
+    Services Science CLOSER - Volume 1, 280-287, 2022 "
   year: 2022
-- authors: "Paulo Souza, Miguel Neves, Carlos Kayser, Felipe Rubin, Conrado Boeira,\
+- authors:
+    "Paulo Souza, Miguel Neves, Carlos Kayser, Felipe Rubin, Conrado Boeira,\
     \ Jo\xE3o Moreira, Bernardo Bordin and Tiago Ferreto"
   doi: https://doi.org/10.5220/0011085100003200
-  title: Predicting and Avoiding SLA Violations of Containerized Applications using
+  title:
+    Predicting and Avoiding SLA Violations of Containerized Applications using
     Machine Learning and Elasticity
   type: "Artigo em Confer\xEAncia"
-  vehicle: Proceedings of the 12th International Conference on Cloud Computing and
-    Services Science CLOSER - Volume 1, 74-85, 2022
+  vehicle:
+    "Proceedings of the 12th International Conference on Cloud Computing and
+    Services Science CLOSER - Volume 1, 74-85, 2022 "
+  year: 2022
+- authors: "Lourdes Yliana Echevarr\xEDa Espinosa"
+  doi: " "
+  title: "Phylogenetic systematics of egg-brooding frogs (Anura: Hemiphractidae)"
+  type: Tese de Doutorado
+  vehicle:
+    "Tese de Doutorado Pontif\xEDcia Universidade Cat\xF3lica do Rio Grande\
+    \ do Sul (PUCRS)"
   year: 2022
 - authors: TARABINI, Renata Fioravanti et al
   doi: https://doi.org/10.3389/fimmu.2021.812176
-  title: Large-Scale Structure-Based Screening of Potential T Cell Cross-Reactivities
+  title:
+    Large-Scale Structure-Based Screening of Potential T Cell Cross-Reactivities
     Involving Peptide-Targets From BCG Vaccine and SARS-CoV-2
   type: Artigo em Revista
   vehicle: Frontiers in Immunology, p. 5858, 2022
   year: 2022
-- authors: Paesi S, Schiavenin A, Almeida LG, Andreis D, Magrini FE, Marconatto L,
+- authors:
+    Paesi S, Schiavenin A, Almeida LG, Andreis D, Magrini FE, Marconatto L,
     Borges LGA, Giongo A
   doi: https://doi.org/10.1007/s43153-021-00212-4
-  title: Comparison of two different kinds of seed sludge and characterization of
+  title:
+    Comparison of two different kinds of seed sludge and characterization of
     microorganisms producing hydrogen and soluble metabolites from raw glycerol
   type: Artigo em Revista
-  vehicle: 'Brazilian Journal of Chemical Engineering 39: 387-402'
+  vehicle: "Brazilian Journal of Chemical Engineering 39: 387-402"
   year: 2022
-- authors: dos Santos VHJ, Engelmann PM, Marconatto L, Borges LGA, Palhano PL, Augustin
+- authors:
+    dos Santos VHJ, Engelmann PM, Marconatto L, Borges LGA, Palhano PL, Augustin
     AH, Rodrigues LF, Ketzer JMM, Giongo A
   doi: https://doi.org/10.1016/j.wasman.2022.01.014
-  title: 'Exploratory analysis of the microbial community profile of the municipal
-    solid waste leachate treatment system: a case study'
+  title:
+    "Exploratory analysis of the microbial community profile of the municipal
+    solid waste leachate treatment system: a case study"
   type: Artigo em Revista
-  vehicle: 'Waste Management 141: 125-135'
+  vehicle: "Waste Management 141: 125-135"
   year: 2022
-- authors: "Vieira CK, Borges LGA, Bertolini JG, Soares CRFS, Giongo A, St\xFCrmer\
+- authors:
+    "Vieira CK, Borges LGA, Bertolini JG, Soares CRFS, Giongo A, St\xFCrmer\
     \ SL"
   doi: https://doi.org/10.1016/j.scitotenv.2021.149843
-  title: Does a decrease in microbial biomass alter mycorrhizal attributes and soil
+  title:
+    Does a decrease in microbial biomass alter mycorrhizal attributes and soil
     quality indicators in coal mining areas under revegetation process?
   type: Artigo em Revista
-  vehicle: 'Science of the Total Environment 802: 149843'
+  vehicle: "Science of the Total Environment 802: 149843"
+  year: 2022
+- authors: Eduardo Moreira da Silva
+  doi: " "
+  title:
+    "DIVERSIDADE DE COMUNIDADES DE CIANOBACT\xC9RIAS DE \xC1GUA DOCE: UMA ABORDAGEM\
+    \ METAGEN\xD4MICA"
+  type: "Disserta\xE7\xE3o de Mestrado"
+  vehicle: "Disserta\xE7\xE3o de Mestrado da PUCRS"
   year: 2022
 - authors: "Giongo, A., dos Anjos Borges, L.G., Sim\xE3o, T.L.L. et al"
   doi: https://doi.org/10.1007/s00248-022-02101-w
-  title: Structure and Dynamics of Periphyton in a Neotropical Freshwater Lake, with
+  title:
+    Structure and Dynamics of Periphyton in a Neotropical Freshwater Lake, with
     Emphasis on Ciliates and Their Relationships with Bacterial Taxa
-  type: "Artigo cient\xEDfico"
+  type: "Artigo Cient\xEDfico"
   vehicle: "Microb Ecol 86, 187\u2013199 (2023)."
   year: 2022
 - authors: Paesi, S., Schiavenin, A., Almeida, L.G. et al
   doi: https://doi.org/10.1007/s43153-021-00212-4
-  title: 'Exploratory analysis of the microbial community profile of the municipal
-    solid waste leachate treatment system: a case study'
-  type: "Artigo cient\xEDfico"
-  vehicle: "Brazilian Journal of Chemical Engineering volume 39, pages 387\u2013402\
+  title:
+    "Exploratory analysis of the microbial community profile of the municipal
+    solid waste leachate treatment system: a case study"
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "Brazilian Journal of Chemical Engineering volume 39, pages 387\u2013402\
     \ (2022)"
   year: 2022
-- authors: dos Santos VHJ, Engelmann PM, Marconatto L, Borges LGA, Palhano PL, Augustin
+- authors:
+    dos Santos VHJ, Engelmann PM, Marconatto L, Borges LGA, Palhano PL, Augustin
     AH, Rodrigues LF, Ketzer JMM, Giongo A
   doi: https://doi.org/10.1016/j.wasman.2022.01.014
-  title: Comparison of two different kinds of seed sludge and characterization of
+  title:
+    Comparison of two different kinds of seed sludge and characterization of
     microorganisms producing hydrogen and soluble metabolites from raw glycerol
-  type: "Artigo cient\xEDfico"
+  type: "Artigo Cient\xEDfico"
   vehicle: Waste Management - Volume 141, 15 March 2022, Pages 125-135
   year: 2022
-- authors: "Vieira CK, Borges LGA, Bertolini JG, Soares CRFS, Giongo A, St\xFCrmer\
+- authors:
+    "Vieira CK, Borges LGA, Bertolini JG, Soares CRFS, Giongo A, St\xFCrmer\
     \ SL"
   doi: https://doi.org/10.1016/j.scitotenv.2021.149843
-  title: Does a decrease in microbial biomass alter mycorrhizal attributes and soil
+  title:
+    Does a decrease in microbial biomass alter mycorrhizal attributes and soil
     quality indicators in coal mining areas under revegetation process?
-  type: "Artigo cient\xEDfico"
-  vehicle: 'Science of the Total Environment 802: 149843'
+  type: "Artigo Cient\xEDfico"
+  vehicle: "Science of the Total Environment 802: 149843"
   year: 2022
-- authors: Vera de Ferran, Henrique Vieira Figueiro, Fernanda de Jesus Trindade, Oliver
+- authors:
+    Vera de Ferran, Henrique Vieira Figueiro, Fernanda de Jesus Trindade, Oliver
     Smith, Mikkel-Holger S. Sinding, Cristine S. Trinca, Gabriele Zenato Lazzari,
     Geraldine Veron, Juliana A. Vianna, Filippo Barbanera, Sergei Kliver, Natalia
     Serdyukova, Tatiana Bulyonkova, Oliver A. Ryder,  M. Thomas P. Gilbert, Klaus-Peter
     Koepfli e Eduardo Eizirik
   doi: https://doi.org/10.1016/j.cub.2022.06.036
   title: "Phylogenomics of the world\u2019s otters"
-  type: "Artigo cient\xEDfico"
-  vehicle: 'Current Biology, Volume 32, Issue 16, 22 August 2022, Pages 3650-3658.e4,
-    Qualis: A1'
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "Current Biology, Volume 32, Issue 16, 22 August 2022, Pages 3650-3658.e4,
+    Qualis: A1"
   year: 2022
-- authors: "Gustavo P Lorenzana, Henrique V Figueir\xF3, Christopher B Kaelin, Gregory\
+- authors:
+    "Gustavo P Lorenzana, Henrique V Figueir\xF3, Christopher B Kaelin, Gregory\
     \ S Barsh, Jeremy Johnson, Elinor Karlsson, Ronaldo G Morato, D\xEAnis A Sana,\
     \ Laury Cullen, Joares A May Jr, Edsel A Moraes Jr, Daniel L Z Kantek, Leandro\
     \ Silveira, William J Murphy, Oliver A Ryder, Eduardo Eizirik"
   doi: https://doi.org/10.1016/j.jgg.2021.10.006
-  title: Whole-genome sequences shed light on the demographic history and contemporary
+  title:
+    Whole-genome sequences shed light on the demographic history and contemporary
     genetic erosion of free-ranging jaguar (Panthera onca) populations
-  type: "Artigo cient\xEDfico"
-  vehicle: 'Journal of Genetics and Genomics, Volume 49, Issue 1, January 2022, Pages
-    77-80, Qualis: C'
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "Journal of Genetics and Genomics, Volume 49, Issue 1, January 2022, Pages
+    77-80, Qualis: C"
   year: 2022
-- authors: "Jorge L. Ramirez, Jonas Lescroart, Henrique V. Figueir\xF3, Juan Pablo\
+- authors:
+    "Jorge L. Ramirez, Jonas Lescroart, Henrique V. Figueir\xF3, Juan Pablo\
     \ Torres-Florez, Priscilla M. S. Villela, Luiz L. Coutinho, Patricia D. Freitas,\
     \ Warren E. Johnson, Agostinho Antunes, Pedro M. Galetti, Jr, Eduardo Eizirik"
   doi: https://doi.org/10.1093/molbev/msac117
-  title: Genomic Signatures of Divergent Ecological Strategies in a Recent Radiation
+  title:
+    Genomic Signatures of Divergent Ecological Strategies in a Recent Radiation
     of Neotropical Wild Cats
-  type: "Artigo cient\xEDfico"
-  vehicle: 'Molecular Biology and Evolution, Volume 39, Issue 6, June 2022, msac117,
-    Qualis: A1'
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "Molecular Biology and Evolution, Volume 39, Issue 6, June 2022, msac117,
+    Qualis: A1"
   year: 2022
-- authors: "Daniel E. Chavez , Ilan Gronau, Taylor Hains, Rebecca B. Dikow, Paul B.\
+- authors:
+    "Daniel E. Chavez , Ilan Gronau, Taylor Hains, Rebecca B. Dikow, Paul B.\
     \ Frandsen , Henrique V. Figueir\xF3 , Fabr\xEDcio S. Garcez, Ligia Tchaicka ,\
     \ Rog\xE9rio C. de Paula , Fl\xE1vio H. G. Rodrigues, Rodrigo S. P. Jorge, Edson\
     \ S. Lima, Nucharin Songsasen, Warren E. Johnson, Eduardo , Klaus-Peter Koepfli,\
-    \ and Robert K. Wayne"
+    \ and Robert K. Wayne "
   doi: https://doi.org/10.1073/pnas.2205986119
-  title: Comparative genomics uncovers the evolutionary history, demography, and molecular
+  title:
+    Comparative genomics uncovers the evolutionary history, demography, and molecular
     adaptations of South American canids
-  type: "Artigo cient\xEDfico"
-  vehicle: 'Proceedings of the National Academy of Sciences (PNAS), Vol. 119, No.
-    34, Qualis: A1'
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "Proceedings of the National Academy of Sciences (PNAS), Vol. 119, No.
+    34, Qualis: A1"
   year: 2022
 - authors: Bruno Avila Farenzena, Jorge Hugo Silvestrini
   doi: https://doi.org/10.1016/j.compfluid.2021.105209
@@ -263,18 +391,22 @@
   year: 2022
 - authors: E. P. Francisco, L. F. R. Espath, S. Laizet, J. H. Silvestrini, V. M. Calo
   doi: https://doi.org/10.1063/5.0087595
-  title: Direct numerical simulations of intrusive density- and particle-driven gravity
+  title:
+    Direct numerical simulations of intrusive density- and particle-driven gravity
     currents
   type: "Artigo Cient\xEDfico"
   vehicle: Physics of Fluids 34, 045116 (2022)
   year: 2022
-- authors: "Michel Stefanello, Ricardo A. S. Frantz, Ot\xE1vio Acevedo, Gervasio Degrazia,\
+- authors:
+    "Michel Stefanello, Ricardo A. S. Frantz, Ot\xE1vio Acevedo, Gervasio Degrazia,\
     \ Jorge H. Silvestrini"
   doi: https://doi.org/10.1002/qj.4376
-  title: Horizontal meandering in direct numerical simulations of the stable boundary
+  title:
+    Horizontal meandering in direct numerical simulations of the stable boundary
     layer
   type: "Artigo Cient\xEDfico"
-  vehicle: "Quarterly Journal of the Royal Meteorological Society, 148(749), 3604\u2013\
+  vehicle:
+    "Quarterly Journal of the Royal Meteorological Society, 148(749), 3604\u2013\
     3621"
   year: 2022
 - authors: F.D. Vianna, B.A. Farenzena, M.S. Pinho, J.H. Silvestrini
@@ -285,231 +417,352 @@
   year: 2022
 - authors: Karina Ruschel, J.H. Silvestrini
   doi: https://tede2.pucrs.br/tede2/handle/tede/10526
-  title: "Simula\xE7\xE3o num\xE9rica de correntes de densidade em configura\xE7\xE3\
+  title:
+    "Simula\xE7\xE3o num\xE9rica de correntes de densidade em configura\xE7\xE3\
     o n\xE3o-confinada com alimenta\xE7\xE3o cont\xEDnua"
-  type: Tese de doutorado
+  type: Tese de Doutorado
   vehicle: TEDE PUCRS - Engenharia e Tecnologia de Materiais
   year: 2022
 - authors: Gabriel Fonseca Silva, Paulo Knob, Rubens Montanha, Soraia Musse
   doi: https://doi.org/10.1109/SBGAMES56371.2022.9961084
-  title: 'WebCrowds: An Authoring Tool for Crowd Simulation'
-  type: "Artigo cient\xEDfico"
-  vehicle: "Simp\xF3sio Brasileiro de Jogos e Entretenimento Digital - SBGames (Qualis:\
+  title: "WebCrowds: An Authoring Tool for Crowd Simulation"
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "Simp\xF3sio Brasileiro de Jogos e Entretenimento Digital - SBGames (Qualis:\
     \ A4)"
   year: 2022
 - authors: Paulo Ricardo Knob e Soraia Raupp Musse
   doi: https://tede2.pucrs.br/tede2/handle/tede/10484
   title: Modeling an empathetic embodied conversational agent
-  type: Tese
+  type: Tese de Doutorado
   vehicle: TEDE PUCRS
   year: 2022
-- authors: Omar Rojas-Padilla*, Giussepe Gagliardi-Urrutia, Ehiko J., Rios-Alva, Santiago
+- authors: AUGUSTO GABRIEL DE LARA E RENAN DE SOUZA SILVA
+  doi: " "
+  title:
+    "CONTROLE DE EQUIPAMENTOS DE PROTE\xC7\xC3O INDIVIDUAL ATRAV\xC9S DE RECONHECIMENTO\
+    \ DE IMAGENS POR INTELIG\xCANCIA ARTIFICIAL"
+  type: "Trabalho de Conclus\xE3o de Curso"
+  vehicle: TCC
+  year: 2022
+- authors: RODRIGO FLEITH
+  doi: " "
+  title:
+    "REDU\xC7\xC3O DE RU\xCDDO EM SINAL DE \xC1UDIO UTILIZANDO T\xC9CNICAS DE\
+    \ REDES NEURAIS"
+  type: "Trabalho de Conclus\xE3o de Curso"
+  vehicle: TCC
+  year: 2022
+- authors:
+    Omar Rojas-Padilla*, Giussepe Gagliardi-Urrutia, Ehiko J., Rios-Alva, Santiago
     Castroviejo-Fisher*
   doi: https://doi.org/10.11646/zootaxa.5195.1.2
-  title: "An elusive giant: A new species of Chiasmocleis M\xE9hely, 1904 (Anura:\
+  title:
+    "An elusive giant: A new species of Chiasmocleis M\xE9hely, 1904 (Anura:\
     \ Microhylidae) from the Peruvian Amazonia"
-  type: "Artigo cient\xEDfico"
+  type: "Artigo Cient\xEDfico"
   vehicle: Zootaxa - Qualis A4
   year: 2022
 - authors: DALBERTO, P. F.
   doi: https://tede2.pucrs.br/tede2/handle/tede/9772
-  title: "Identifica\xE7\xE3o de microprote\xEDnas codificadas por pequenas ORFs em\
+  title:
+    "Identifica\xE7\xE3o de microprote\xEDnas codificadas por pequenas ORFs em\
     \ Mycolicibacterium smegmatis (Mycobacterium smegmatis) por meio de an\xE1lise\
     \ proteogen\xF4mica"
   type: Tese de Doutorado
-  vehicle: "Tese (Doutorado em Biologia Celular e Molecular) \u2013 Pontif\xEDcia\
+  vehicle:
+    "Tese (Doutorado em Biologia Celular e Molecular) \u2013 Pontif\xEDcia\
     \ Universidade Cat\xF3lica do Rio Grande do Sul (PUCRS)"
   year: 2021
-- authors: Czeczot AM, Roth CD, Ducati RG, Pissinate K, Rambo RS, Timmers LFSM, Abbadi
+- authors:
+    Czeczot AM, Roth CD, Ducati RG, Pissinate K, Rambo RS, Timmers LFSM, Abbadi
     BL, Macchi FS, Pestana VZ, Basso LA, Machado P, Bizarro CV
-  doi: "https://doi.org/10.1080/14756366.2021.1900157 (Fator de impacto: 5.051; Qualis\
+  doi:
+    "https://doi.org/10.1080/14756366.2021.1900157 (Fator de impacto: 5.051; Qualis\
     \ A1 \u2013 CBI)"
-  title: '8-Mercaptoguanine-based inhibitors of Mycobacterium tuberculosis dihydroneopterin
-    aldolase: synthesis, in vitro inhibition and docking studies'
+  title:
+    "8-Mercaptoguanine-based inhibitors of Mycobacterium tuberculosis dihydroneopterin
+    aldolase: synthesis, in vitro inhibition and docking studies"
   type: Artigo em Revista
-  vehicle: "Journal of Enzyme Inhibition and Medicinal Chemistry (Fator de impacto:\
+  vehicle:
+    "Journal of Enzyme Inhibition and Medicinal Chemistry (Fator de impacto:\
     \ 5.051; Qualis A1 \u2013 CBI)"
   year: 2021
-- authors: Duque-Villegas MA, Abbadi BL, Romero PR, Matter LB, Galina L, Dalberto
+- authors:
+    Duque-Villegas MA, Abbadi BL, Romero PR, Matter LB, Galina L, Dalberto
     PF, Rodrigues-Junior VDS, Ducati RG, Roth CD, Rambo RS, de Souza EV, Perello MA,
     Morbidoni HR, Machado P, Basso LA, Bizarro CV
   doi: https://doi.org/10.1128/Spectrum.00009-21
-  title: EPSP Synthase-Depleted Cells Are Aromatic Amino Acid Auxotrophs in Mycobacterium
+  title:
+    EPSP Synthase-Depleted Cells Are Aromatic Amino Acid Auxotrophs in Mycobacterium
     smegmatis
   type: Artigo em Revista
   vehicle: "Microbiology Spectrum (Fator de impacto: 7.171; Qualis A1 \u2013 CBI)"
   year: 2021
 - authors: Adriano Vogel, Dalvan Griebler, Luiz Gustavo Fernandes
   doi: https://doi.org/10.1002/spe.2948
-  title: Providing high-level self-adaptive abstractions for stream parallelism on
+  title:
+    Providing high-level self-adaptive abstractions for stream parallelism on
     multicores
   type: Artigo em Revista
-  vehicle: 'Software: Practice and Experience. Qualis A3'
+  vehicle: "Software: Practice and Experience. Qualis A3"
   year: 2021
-- authors: Adriano Vogel, Gabriele Mencagli, Dalvan Griebler, Marco Danelutto, Luiz
+- authors:
+    Adriano Vogel, Gabriele Mencagli, Dalvan Griebler, Marco Danelutto, Luiz
     Gustavo Fernandes
   doi: https://doi.org/10.1109/PDP52278.2021.00022
   title: Towards On-the-fly Self-Adaptation of Stream Parallel Patterns
   type: "Artigo em Confer\xEAncia"
-  vehicle: Euromicro International Conference on Parallel, Distributed, and Network-Based
+  vehicle:
+    Euromicro International Conference on Parallel, Distributed, and Network-Based
     Processing (PDP). Qualis A3
   year: 2021
-- authors: Adriano Vogel, Gabriele Mencagli, Dalvan Griebler, Marco Danelutto, Luiz
+- authors:
+    Adriano Vogel, Gabriele Mencagli, Dalvan Griebler, Marco Danelutto, Luiz
     Gustavo Fernandes
   doi: https://doi.org/10.1007/s00607-021-00998-8
   title: Online and transparent self-adaptation of stream parallel patterns
   type: Artigo em Revista
   vehicle: Computing. Qualis A2
   year: 2021
-- authors: "J\xFAnior L\xF6ff, Renato Barreto Hoffmann, Dalvan Griebler, Luiz Gustavo\
+- authors:
+    "J\xFAnior L\xF6ff, Renato Barreto Hoffmann, Dalvan Griebler, Luiz Gustavo\
     \ Fernandes"
   doi: https://doi.org/10.1145/3475061.3475078
   title: High-Level Stream and Data Parallelism in C++ for Multi-Cores
   type: "Artigo em Confer\xEAncia"
-  vehicle: "25th Brazilian Symposium on Programming Languages (SBLP\u201921). Qualis\
+  vehicle:
+    "25th Brazilian Symposium on Programming Languages (SBLP\u201921). Qualis\
     \ A4"
   year: 2021
 - authors: "J\xFAnior L\xF6ff, Dalvan Griebler, Luiz Gustavo Fernandes"
   doi: https://sol.sbc.org.br/journals/index.php/reic/article/view/2083
-  title: "Melhorando a Gera\xE7\xE3o Autom\xE1tica de C\xF3digo Paralelo para o Paradigma\
+  title:
+    "Melhorando a Gera\xE7\xE3o Autom\xE1tica de C\xF3digo Paralelo para o Paradigma\
     \ de Processamento de Stream em Multi-cores"
   type: Artigo em Revista
-  vehicle: "Revista Eletr\xF4nica de Inicia\xE7\xE3o Cient\xEDfica. 2\xBA lugar no\
+  vehicle:
+    "Revista Eletr\xF4nica de Inicia\xE7\xE3o Cient\xEDfica. 2\xBA lugar no\
     \ concurso de trabalhos de IC: https://csbc.ufsc.br/conheca-os-top-3-do-ctic-2021/"
   year: 2021
-- authors: Adriano Marques Garcia, Dalvan Griebler, Luiz G. L. Fernandes, Claudio
+- authors:
+    Adriano Marques Garcia, Dalvan Griebler, Luiz G. L. Fernandes, Claudio
     Schepke
   doi: https://doi.org/10.1109/PDP52278.2021.00021
-  title: Introducing a Stream Processing Framework for Assessing Parallel Programming
+  title:
+    Introducing a Stream Processing Framework for Assessing Parallel Programming
     Interfaces
   type: "Artigo em Confer\xEAncia"
-  vehicle: Euromicro International Conference on Parallel, Distributed, and Network-Based
+  vehicle:
+    Euromicro International Conference on Parallel, Distributed, and Network-Based
     Processing (PDP). Qualis A3
+  year: 2021
+- authors: Luis Augusto Dias Knob, Tiago Coelho Ferreto
+  doi: https://tede2.pucrs.br/tede2/handle/tede/10148
+  title: Improving Container Deployment Latency in Distributed Edge Infrastructures
+  type: Tese de Doutorado
+  vehicle:
+    "Tese (Doutorado em Ci\xEAncia da Computa\xE7\xE3o) - Pontif\xEDcia Universidade\
+    \ Cat\xF3lica do Rio Grande do Sul"
+  year: 2021
+- authors: Kairo Cesar Pinto Tavares, Tiago Coelho Ferreto
+  doi: " "
+  title:
+    "P4-ONIDS: P4-Based Pre-Filtering NIDS Solution Optimized for Constrained
+    Programmable Data Planes in SDN"
+  type: "Disserta\xE7\xE3o de Mestrado"
+  vehicle: " "
+  year: 2021
+- authors: "\xC2ngelo Nery Vieira Crestani, Tiago Coelho Ferreto"
+  doi: " "
+  title:
+    "LMA - Uma estrat\xE9gia de migra\xE7\xE3o de servi\xE7os proativa em ambientes\
+    \ de Edge Computing"
+  type: "Disserta\xE7\xE3o de Mestrado"
+  vehicle: " "
   year: 2021
 - authors: TAVARES, Kairo; FERRETO, Tiago Coelho
   doi: https://doi.org/10.5753/sbrc.2021.16738
-  title: 'P4-ONIDS: A P4-based NIDS optimized for constrained programmable data planes
-    in SDN'
+  title:
+    "P4-ONIDS: A P4-based NIDS optimized for constrained programmable data planes
+    in SDN"
   type: "Artigo em Confer\xEAncia"
-  vehicle: "Anais do XXXIX Simp\xF3sio Brasileiro de Redes de Computadores e Sistemas\
+  vehicle:
+    "Anais do XXXIX Simp\xF3sio Brasileiro de Redes de Computadores e Sistemas\
     \ Distribu\xEDdos. p. 434-447"
   year: 2021
 - authors: KNOB, Luis Augusto Dias; KAYSER, Carlos Henrique; FERRETO, Tiago
   doi: 10.1109/ISCC53001.2021.9631490
-  title: Improving Container Deployment in Edge Computing Using the Infrastructure
+  title:
+    Improving Container Deployment in Edge Computing Using the Infrastructure
     Aware Scheduling Algorithm
   type: "Artigo em Confer\xEAncia"
-  vehicle: 2021 IEEE Symposium on Computers and Communications (ISCC). IEEE, 2021.
+  vehicle:
+    2021 IEEE Symposium on Computers and Communications (ISCC). IEEE, 2021.
     p. 1-6
   year: 2021
 - authors: KNOB, Luis Augusto Dias et al
   doi: 10.1109/IC2E52221.2021.00029
-  title: Community-based placement of registries to speed up application deployment
+  title:
+    Community-based placement of registries to speed up application deployment
     on Edge Computing
   type: "Artigo em Confer\xEAncia"
-  vehicle: 2021 IEEE International Conference on Cloud Engineering (IC2E). IEEE, 2021.
+  vehicle:
+    2021 IEEE International Conference on Cloud Engineering (IC2E). IEEE, 2021.
     p. 147-153
   year: 2021
 - authors: BOEIRA, Conrado et al
   doi: 10.1109/CloudNet53349.2021.9657138
   title: Characterizing network performance of single-node large-scale container deployments
   type: "Artigo em Confer\xEAncia"
-  vehicle: 2021 IEEE 10th International Conference on Cloud Networking (CloudNet).
+  vehicle:
+    2021 IEEE 10th International Conference on Cloud Networking (CloudNet).
     IEEE, 2021. p. 97-103
   year: 2021
 - authors: WEBER, Julia Silva; NEVES, Miguel; FERRETO, Tiago
   doi: https://doi.org/10.1186/s13173-021-00113-x
-  title: 'VANET simulators: an updated review'
+  title: "VANET simulators: an updated review"
   type: Artigo em Revista
   vehicle: Journal of the Brazilian Computer Society, v. 27, n. 1, p. 1-31, 2021
   year: 2021
 - authors: KNOB, Luis Augusto Dias et al
   doi: 10.1145/3468737.3494100
-  title: Enforcing deployment latency SLA in edge infrastructures through multi-objective
+  title:
+    Enforcing deployment latency SLA in edge infrastructures through multi-objective
     genetic scheduler
   type: "Artigo em Confer\xEAncia"
-  vehicle: Proceedings of the 14th IEEE/ACM International Conference on Utility and
+  vehicle:
+    Proceedings of the 14th IEEE/ACM International Conference on Utility and
     Cloud Computing. 2021. p. 1-9
   year: 2021
-- authors: Magda Lahorgue Nunes, Nathalia Bianchini Esper, Alexandre Rosa Franco,
+- authors:
+    Magda Lahorgue Nunes, Nathalia Bianchini Esper, Alexandre Rosa Franco,
     Graciane Radaelli, Ricardo Bernardi Soder, Rodrigo Bomfim, Felipe Kalil Neto,
     Fernando Gameleira, Mirna Wetters Portuguez, Jaderson Costa da Costa.
   doi: https://www.sciencedirect.com/science/article/pii/S1059131120303538
-  title: 'Epilepsy after congenital Zika virus infection: EEG and neuroimaging features'
+  title: "Epilepsy after congenital Zika virus infection: EEG and neuroimaging features"
   type: Artigo em Revista
   vehicle: Seizure, fator de impacto 3.184
   year: 2021
-- authors: Pedro Ballester, Laura Tomaz da Silva, Matheus Marcon, Nathalia Bianchini
+- authors:
+    Pedro Ballester, Laura Tomaz da Silva, Matheus Marcon, Nathalia Bianchini
     Esper, Benicio Frey, Augusto Buchweitz, Felipe Meneguzzi
   doi: https://www.frontiersin.org/articles/10.3389/fpsyt.2021.598518/full
-  title: 'Predicting brain age at the slice level: convolutional neural networks and
-    consequences for interpretability'
+  title:
+    "Predicting brain age at the slice level: convolutional neural networks and
+    consequences for interpretability"
   type: Artigo em Revista
   vehicle: Frontiers in Psychiatry, fator de impacto 3.532
   year: 2021
-- authors: Laura Tomaz da Silva, Nathalia Bianchin iEsper, Duncan Ruiz, Felipe Meneguzzi,
+- authors:
+    "Wyllians Vendramini Borelli, Eduardo Leal-Concei\xE7\xE3o, Michele Alberton\
+    \ Andrade, Nathalia Bianchini Esper, Paula Kopschina Feltes, Ricardo Bernardi\
+    \ Soder, Cristina Sebasti\xE3o Matushita, Louise Mross Hartmann, Graciane Radaelli,\
+    \ Lucas Porcello Schilling, Cristina Moriguchi-Jeckel, Ana Maria Marques da Silva,\
+    \ Mirna Wetters Portuguez, Alexandre Rosa Franco, Jaderson Costa da Costa"
+  doi: https://content.iospress.com/articles/journal-of-alzheimers-disease/jad210063
+  title:
+    Increased glucose activity in subgenual anterior cingulate and hippocampus
+    of high performing older adults, despite amyloid burden
+  type: "Artigo Cient\xEDfico"
+  vehicle: Publicado no Journal of Alzheimer's Disease, fator de impacto 4.472
+  year: 2021
+- authors:
+    Laura Tomaz da Silva, Nathalia Bianchin iEsper, Duncan Ruiz, Felipe Meneguzzi,
     Augusto Buchweitz
   doi: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8458961/
-  title: Visual explanation for identification of the brain bases for developmental
+  title:
+    Visual explanation for identification of the brain bases for developmental
     dyslexia on fMRI data
-  type: "Artigo cient\xEDfico"
-  vehicle: Publicado na Frontiers in computational neuroscience, fator de impacto
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    Publicado na Frontiers in computational neuroscience, fator de impacto
     2.99
+  year: 2021
+- authors: Aline Kotoski, Augusto Buchweitz
+  doi: https://tede2.pucrs.br/tede2/handle/tede/10107
+  title:
+    "Banco para compartilhamento de imagens do INSCER : estudos de FMRI e sMRI\
+    \ de crian\xE7as, adolescentes e adultos brasileiros"
+  type: "Disserta\xE7\xE3o de Mestrado"
+  vehicle:
+    "Disserta\xE7\xE3o (Mestrado em Medicina e Ci\xEAncias da Sa\xFAde) \u2013\
+    \ Pontif\xEDcia Universidade Cat\xF3lica do Rio Grande do Sul (PUCRS)"
+  year: 2021
+- authors: Eduardo Moreira da Silva
+  doi: " "
+  title:
+    "DIVERSIDADE DE COMUNIDADES DE CIANOBACT\xC9RIAS DE \xC1GUA DOCE: UMA ABORDAGEM\
+    \ METAGEN\xD4MICA"
+  type: "Disserta\xE7\xE3o de Mestrado"
+  vehicle: " "
   year: 2021
 - authors: Antunes TC, Marconatto L, Borges LGA, Giongo A, van der Sand ST
   doi: https://doi.org/10.4136/ambi-agua.2655
-  title: Analysis of microbial community biodiversity in activated sludge from a petrochemical
+  title:
+    Analysis of microbial community biodiversity in activated sludge from a petrochemical
     plant
   type: Artigo em Revista
-  vehicle: 'Ambiente & Agua 16: e2655'
+  vehicle: "Ambiente & Agua 16: e2655"
   year: 2021
 - authors: Magrini FE, Almeida GM, Soares DM, Borges LGA, Marconatto L, Giongo A
   doi: https://doi.org/10.1007/s00284-021-02527-4
-  title: Variation of the prokaryotic and eukaryotic communities after distinct methods
+  title:
+    Variation of the prokaryotic and eukaryotic communities after distinct methods
     of thermal pretreatment of the inoculum in hydrogen-production reactors from sugarcane
     vinasse
   type: Artigo em Revista
-  vehicle: 'Current Microbiology 78: 2682-2694'
+  vehicle: "Current Microbiology 78: 2682-2694"
   year: 2021
-- authors: Marder M, Bucker F, Konrad O, Marconatto L, Borges LGA, Giongo A, Granada
+- authors:
+    Marder M, Bucker F, Konrad O, Marconatto L, Borges LGA, Giongo A, Granada
     CE
   doi: https://doi.org/10.1016/j.jclepro.2021.125959
-  title: "Effect of the acclimated inoculant on improving the potential for biogas\
+  title:
+    "Effect of the acclimated inoculant on improving the potential for biogas\
     \ production at room temperature (~28\xBA C) subjected to daily variations"
   type: Artigo em Revista
-  vehicle: 'Journal of Cleaner Production 292: 125959'
+  vehicle: "Journal of Cleaner Production 292: 125959"
   year: 2021
 - authors: Serbent MP, Borges LGA, Quadros A, Marconatto L, Tavares LBB, Giongo A
   doi: 10.1007/s11356-020-10614-5
-  title: Prokaryotic and eukaryotic communities in an experimental rice plantation
+  title:
+    Prokaryotic and eukaryotic communities in an experimental rice plantation
     under long-term use of pesticides
   type: Artigo em Revista
   vehicle: Environmental Science and Pollution Research
   year: 2021
-- authors: "Leandro de Mattos Pereira, Milene Pereira Guimar\xE3es de Jezuz, Amaranta\
+- authors:
+    "Leandro de Mattos Pereira, Milene Pereira Guimar\xE3es de Jezuz, Amaranta\
     \ Ramos Rangel, Bruna Dalcin Baldasso, Amanda Bungi Zaluski, Carlos Graeff-Teixeira,\
     \ Alessandra Loureiro Morassutti"
   doi: 10.1017/S0031182021000469
-  title: De novo transcriptome reveals blood coagulation/antithrombin factors and
+  title:
+    De novo transcriptome reveals blood coagulation/antithrombin factors and
     infection mechanisms in Angiostrongylus cantonensis adult worms
   type: Artigo em Revista
   vehicle: Parasitology. 2021 Jun;148(7):857-870.
   year: 2021
-- authors: Lettieri, G. M., Santiago, L. M., Lettieri, G. C., Borges, L. G., Marconatto,
-    L., De Oliveira, L. A., & Salles, L. P.
+- authors:
+    "Lettieri, G. M., Santiago, L. M., Lettieri, G. C., Borges, L. G., Marconatto,
+    L., De Oliveira, L. A., & Salles, L. P. "
   doi: https://doi.org/10.3389/fcimb.2021.720790
-  title: "Oral Phenotype and Salivary Microbiome of Individuals With Papillon\u2013\
+  title:
+    "Oral Phenotype and Salivary Microbiome of Individuals With Papillon\u2013\
     Lef\xE8vre Syndrome"
-  type: "Artigo cient\xEDfico"
+  type: "Artigo Cient\xEDfico"
   vehicle: Frontiers in Cellular and Infection Microbiology, 11, 720790
   year: 2021
-- authors: "Fernanda J Trindade, Ma\xEDra R Rodrigues, Henrique V Figueir\xF3, Gang\
+- authors:
+    "Fernanda J Trindade, Ma\xEDra R Rodrigues, Henrique V Figueir\xF3, Gang\
     \ Li, William J Murphy e Eduardo Eizirik"
   doi: https://doi.org/10.1093/molbev/msab222
-  title: Genome-Wide SNPs Clarify a Complex Radiation and Support Recognition of an
+  title:
+    Genome-Wide SNPs Clarify a Complex Radiation and Support Recognition of an
     Additional Cat Species
-  type: "Artigo cient\xEDfico"
-  vehicle: "Molecular Biology and Evolution, Volume 38, Issue 11, November 2021, Pages\
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "Molecular Biology and Evolution, Volume 38, Issue 11, November 2021, Pages\
     \ 4987\u20134991, Qualis: A1"
   year: 2021
 - authors: Vera de Ferran
@@ -520,190 +773,296 @@
   year: 2021
 - authors: Filipi Damasceno Vianna
   doi: https://hdl.handle.net/10923/20697
-  title: "Fei\xE7\xF5es espa\xE7o-temporais em correntes de gravidade usando m\xE9\
+  title:
+    "Fei\xE7\xF5es espa\xE7o-temporais em correntes de gravidade usando m\xE9\
     todos de vis\xE3o computacional"
   type: Tese de Doutorado
-  vehicle: "Tese (Doutorado em Engenharia e Tecnologia de Materiais) \u2013 Pontif\xED\
+  vehicle:
+    "Tese (Doutorado em Engenharia e Tecnologia de Materiais) \u2013 Pontif\xED\
     cia Universidade Cat\xF3lica do Rio Grande do Sul (PUCRS)"
   year: 2021
 - authors: Guilherme Torres Marques Vidal
   doi: https://tede2.pucrs.br/tede2/handle/tede/10069
-  title: "Simula\xE7\xF5es de correntes de turbidez bi-dispersas na configura\xE7\xE3\
+  title:
+    "Simula\xE7\xF5es de correntes de turbidez bi-dispersas na configura\xE7\xE3\
     o lock-release com valores diferentes de Schmidt"
   type: "Disserta\xE7\xE3o de Mestrado"
-  vehicle: "Disserta\xE7\xE3o (Mestrado em Engenharia e Tecnologia de Materiais) \u2013\
+  vehicle:
+    "Disserta\xE7\xE3o (Mestrado em Engenharia e Tecnologia de Materiais) \u2013\
     \ Pontif\xEDcia Universidade Cat\xF3lica do Rio Grande do Sul (PUCRS)"
   year: 2021
 - authors: Felipe N. Schuch, Eckart Meiburg, Jorge H. Silvestrini
   doi: https://doi.org/10.1016/j.cageo.2021.104880
-  title: 'Plunging criterion for particle-laden flows over sloping bottoms: Three-dimensional
-    turbulence-resolving simulations'
+  title:
+    "Plunging criterion for particle-laden flows over sloping bottoms: Three-dimensional
+    turbulence-resolving simulations"
   type: Artigo em Revista
   vehicle: Computers and Geosciences
   year: 2021
-- authors: SILVEIRA, Plinio; DE ROSE, Cesar A. F.; ZORZO, Avelino F.; XAVIER, Miguel
+- authors: Ricardo A.S. Frantz, Georgios Deskos, Sylvain Laizet, Jorge H. Silvestrini
+  doi: https://doi.org/10.1016/j.compfluid.2021.104902
+  title:
+    High-fidelity simulations of gravity currents using a high-orderfinite-difference
+    spectral vanishing viscosity approach
+  type: Artigo em Revista
+  vehicle: Computers and Fluids
+  year: 2021
+- authors:
+    SILVEIRA, Plinio; DE ROSE, Cesar A. F.; ZORZO, Avelino F.; XAVIER, Miguel
     G.; MILOJICIC, Dejan; CHALAMALASETTI, Sai, SEREBRYAKOV, Sergei
   doi: 10.1109/COMPSAC51774.2021.00020.
-  title: Resource Sharing and Security Implications on Machine Learning Inference
+  title:
+    Resource Sharing and Security Implications on Machine Learning Inference
     Accelerators
   type: "Artigo em Confer\xEAncia"
-  vehicle: Proceedings of IEEE Computers, Software, and Applications Conference (COMPSAC
+  vehicle:
+    Proceedings of IEEE Computers, Software, and Applications Conference (COMPSAC
     2021). QUALIS - A2
+  year: 2021
+- authors: MEYER, V.; KIRCHOFF, D.; DA SILVA, M.; DE ROSE, C. A. F.
+  doi: " "
+  title:
+    "Edge Computing and its Boundaries to IoT and Industry 4.0: A Systematic
+    Mapping Study"
+  type: Artigo em Revista
+  vehicle: International Journal of Grid and Utility Computing (IJGUC). QUALIS - B1
   year: 2021
 - authors: MEYER, V.; KIRCHOFF, D.; DA SILVA, M.; DE ROSE, C. A. F
   doi: https://doi.org/10.1016/j.sysarc.2021.102064
-  title: ML-driven Classification Scheme for Dynamic Interference-aware Resource Scheduling
+  title:
+    ML-driven Classification Scheme for Dynamic Interference-aware Resource Scheduling
     in Cloud Infrastructures
   type: Artigo em Revista
   vehicle: Journal of Systems Architecture (JSA). QUALIS - A2
   year: 2021
+- authors: Vinicius Meyer
+  doi: " "
+  title:
+    INTERFERENCE-AWARE CLOUD SCHEDULING ARCHITECTURE FOR DYNAMIC LATENCY-SENSITIVE
+    WORKLOADS
+  type: Tese de Doutorado
+  vehicle:
+    "Tese (Doutorado em Ci\xEAncia da Computa\xE7\xE3o) - Pontif\xEDcia Universidade\
+    \ Cat\xF3lica do Rio Grande do Sul"
+  year: 2021
 - authors: Vogel, Adriano; Griebler, Dalvan; Danelutto, Marco; Fernandes, Luiz Gustavo
   doi: 10.3233/APC200082
   title: Seamless Parallelism Management for Multi-core Stream
-  type: "Artigo cient\xEDfico"
-  vehicle: Processing Inproceedings Parallel Computing is Everywhere, Proceedings
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    Processing Inproceedings Parallel Computing is Everywhere, Proceedings
     of the International Conference on Parallel Computing (ParCo), pp. 10, IOS Press,
     Prague, Czech Republic, 2019.
   year: 2020
 - authors: Vogel, Adriano; Griebler, Dalvan; Danelutto, Marco; Fernandes, Luiz Gustavo
   doi: 10.1007/978-3-030-48340-1_3
   title: Minimizing Self-Adaptation Overhead in Parallel Stream Processing
-  type: "Artigo cient\xEDfico"
-  vehicle: "Multi-Cores Inproceedings Euro-Par 2019: Parallel Processing Workshops,\
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "Multi-Cores Inproceedings Euro-Par 2019: Parallel Processing Workshops,\
     \ pp. 12, Springer, G\xF6ttingen, Germany, 2019."
   year: 2020
-- authors: Griebler, Dalvan; Vogel, Adriano; Sensi, Daniele De; Danelutto, Marco;
+- authors:
+    Griebler, Dalvan; Vogel, Adriano; Sensi, Daniele De; Danelutto, Marco;
     Fernandes, Luiz Gustavo
   doi: 10.1007/s11227-019-02914-6
   title: Simplifying and implementing service level objectives for stream parallelism
-  type: "Artigo cient\xEDfico"
-  vehicle: 'Journal of Supercomputing, pp. 1-26, 2019, ISSN: 0920-8542.'
+  type: "Artigo Cient\xEDfico"
+  vehicle: "Journal of Supercomputing, pp. 1-26, 2019, ISSN: 0920-8542."
   year: 2020
-- authors: MARQUES, Wagner; RUBIN, Felipe; DE SOUZA, Paulo; DE OLIVEIRA, Romulo; FERRETO,
+- authors:
+    MARQUES, Wagner; RUBIN, Felipe; DE SOUZA, Paulo; DE OLIVEIRA, Romulo; FERRETO,
     Tiago. SABER
   doi: https://doi.org/10.1109/ICOIN48656.2020.9016485
-  title: An Infrastructure-Agnostic Benchmark Tool for Elasticity Evaluation on Cloud
+  title:
+    An Infrastructure-Agnostic Benchmark Tool for Elasticity Evaluation on Cloud
     Foundry Based Platforms
   type: "Artigo em Confer\xEAncia"
-  vehicle: International Conference on Information Networking (ICOIN), 2020, Barcelona.
+  vehicle:
+    International Conference on Information Networking (ICOIN), 2020, Barcelona.
     (QUALIS A3)
   year: 2020
-- authors: "RUBIN, Felipe; SOUZA, Paulo; MARQUES, Wagner; REIS, R\xF4mulo; ROSSI,\
-    \ F\xE1bio; FERRETO, Tiago"
-  doi: ' https://doi.org/10.1109/ICOIN48656.2020.9016420'
-  title: Evaluating Energy and Thermal Efficiency of Anomaly Detection Algorithms
+- authors:
+    "RUBIN, Felipe; SOUZA, Paulo; MARQUES, Wagner; REIS, R\xF4mulo; ROSSI,\
+    \ F\xE1bio; FERRETO, Tiago "
+  doi: " https://doi.org/10.1109/ICOIN48656.2020.9016420"
+  title:
+    Evaluating Energy and Thermal Efficiency of Anomaly Detection Algorithms
     in Edge Devices.
   type: "Artigo em Confer\xEAncia"
-  vehicle: International Conference on Information Networking (ICOIN), 2020, Barcelona.
+  vehicle:
+    International Conference on Information Networking (ICOIN), 2020, Barcelona.
     (QUALIS A3)
   year: 2020
-- authors: "SOUZA, Paulo; VIEIRA, \xC2ngelo; FERRETO, Tiago; BOEIRA, Conrado; NASCIMENTO,\
+- authors:
+    "SOUZA, Paulo; VIEIRA, \xC2ngelo; FERRETO, Tiago; BOEIRA, Conrado; NASCIMENTO,\
     \ Jo\xE3o; RUBIN, Felipe; REIS, R\xF4mulo. ISABEL"
-  doi: ' https://doi.org/10.5220/0009581004820489'
+  doi: " https://doi.org/10.5220/0009581004820489"
   title: Infrastructure-Agnostic Benchmark Framework for Cloud-Native Platforms
   type: "Artigo em Confer\xEAncia"
-  vehicle: International Conference on Cloud Computing and Services Science, 2020,
+  vehicle:
+    International Conference on Cloud Computing and Services Science, 2020,
     Prague (QUALIS A4)
   year: 2020
-- authors: "REIS, R\xF4mulo; FERRETO, Tiago; VIEIRA, \xC2ngelo; ROSSI, F\xE1bio; BOEIRA,\
+- authors:
+    "REIS, R\xF4mulo; FERRETO, Tiago; VIEIRA, \xC2ngelo; ROSSI, F\xE1bio; BOEIRA,\
     \ Conrado; RUBIN, Felipe; SOUZA, Paulo; NASCIMENTO, Jo\xE3o. IRENE"
-  doi: ' https://doi.org/10.5220/0009581604900497'
-  title: Interference and High Availability Aware Microservice-based Applications
+  doi: " https://doi.org/10.5220/0009581604900497"
+  title:
+    Interference and High Availability Aware Microservice-based Applications
     Placement for Edge Computing
   type: "Artigo em Confer\xEAncia"
-  vehicle: International Conference on Cloud Computing and Services Science (CLOSER),
+  vehicle:
+    International Conference on Cloud Computing and Services Science (CLOSER),
     2020, Prague (QUALIS A4)
   year: 2020
-- authors: "DE SOUZA, Paulo Silas Severo; RUBIN, Felipe Pfeifer; HOHEMBERGER, Rumenigue;\
+- authors:
+    "DE SOUZA, Paulo Silas Severo; RUBIN, Felipe Pfeifer; HOHEMBERGER, Rumenigue;\
     \ FERRETO, Tiago Coelho; LORENZON, Arthur Francisco; LUIZELLI, Marcelo Caggiani;\
-    \ ROSSI, F\xE1bio Diniz"
-  doi: ' http://dx.doi.org/10.1016/j.measurement.2020.108042'
-  title: 'Detecting abnormal sensors via machine learning: An IoT farming WSN-based
-    architecture case study'
+    \ ROSSI, F\xE1bio Diniz "
+  doi: " http://dx.doi.org/10.1016/j.measurement.2020.108042"
+  title:
+    "Detecting abnormal sensors via machine learning: An IoT farming WSN-based
+    architecture case study"
   type: Artigo em Revista
   vehicle: MEASUREMENT, v. 164, p. 108042, 2020  (QUALIS A1)
   year: 2020
-- authors: ' NUNES, Magda Lahorgue; ESPER, Nathalia Bianchini; FRANCO, Alexandre Rosa;
-    RADAELLI, Graciane; SODER, Ricardo Bernanrdi; BOMFIM, Rodrigo; NETO, Felipe Kalil;
-    GAMELEIRA, Fernando; PORTUGUEZ, MIRNA Wetters; COSTA, Jaderson Costa'
-  doi: 10.1016/j.seizure.2020.11.004
-  title: 'Epilepsy after zika virus congenital infection: EEG and neuroimaging features'
-  type: "Artigo Cient\xEDfico"
-  vehicle: 'Seizure - European Journal of Epilepsy (fator de impacto: 2.522)'
+- authors: DE SOUZA, Paulo Silas Severo, FERRETO, Tiago Coelho
+  doi: " http://tede2.pucrs.br/tede2/handle/tede/9522"
+  title:
+    A Heuristic Algorithm for Minimizing Server Maintenance Time and Vulnerability
+    Surface on Data Centers
+  type: "Disserta\xE7\xE3o de Mestrado"
+  vehicle:
+    "Disserta\xE7\xE3o (Mestrado em Ci\xEAncia da Computa\xE7\xE3o) - Pontif\xED\
+    cia Universidade Cat\xF3lica do Rio Grande do Sul"
   year: 2020
-- authors: "OS\xD3RIO, Joana Borges; PEREIRA, Leandro de Mattos; GIONGO, Adriana;\
+- authors: MARQUES, Wagner dos Santos, FERRETO, Tiago Coelho
+  doi: " (Sem link)"
+  title: UniFaaS - Um framework para Serverless Computing baseado em Unikernels
+  type: "Disserta\xE7\xE3o de Mestrado"
+  vehicle:
+    "Disserta\xE7\xE3o (Mestrado em Ci\xEAncia da Computa\xE7\xE3o) - Pontif\xED\
+    cia Universidade Cat\xF3lica do Rio Grande do Sul"
+  year: 2020
+- authors: " ESPER, Nathalia Bianchini, BUCHWEITZ, Augusto "
+  doi: (Sem link)
+  title:
+    "Zika Virus and the brain: a functional and structural magnetic resonance
+    imaging study of infants with congenital microcephaly associated to zika virus
+    exposure"
+  type: Tese de Doutorado
+  vehicle: "Ainda n\xE3o est\xE1 dispon\xEDvel na biblioteca"
+  year: 2020
+- authors:
+    " NUNES, Magda Lahorgue; ESPER, Nathalia Bianchini; FRANCO, Alexandre Rosa;
+    RADAELLI, Graciane; SODER, Ricardo Bernanrdi; BOMFIM, Rodrigo; NETO, Felipe Kalil;
+    GAMELEIRA, Fernando; PORTUGUEZ, MIRNA Wetters; COSTA, Jaderson Costa"
+  doi: 10.1016/j.seizure.2020.11.004
+  title: "Epilepsy after zika virus congenital infection: EEG and neuroimaging features"
+  type: "Artigo Cient\xEDfico"
+  vehicle: "Seizure - European Journal of Epilepsy (fator de impacto: 2.522)"
+  year: 2020
+- authors:
+    " ESPER, Nathalia Bianchini; FRANCO, Alexandre Rosa; NUNES, Magda Lahorgue;
+    KOTOSKI, Aline; ESPER, Katherine Bianchini; PRIPP, Willian; RADAELLI, Graciane;
+    PORTUGUEZ, Mirna Wetters; COSTA, Jaderson Costa; BUCHWEITZ, Augusto"
+  doi: (Sem link)
+  title:
+    Functional connectivity in infants with congenital microcephaly associated
+    with the Zika Virus infection
+  type: "Apresenta\xE7\xE3o em Congresso"
+  vehicle: "confer\xEAncia sem qualis (World Congress on Brain, Behavior and Emotions"
+  year: 2020
+- authors:
+    "OS\xD3RIO, Joana Borges; PEREIRA, Leandro de Mattos; GIONGO, Adriana;\
     \ MARCONATTO, Let\xEDcia; POTRIQUET, Jeremy; CANDIDO, Renata Russo Frasca; MULVENA,\
     \ Jason; GRAEFF-TEIXEIRA, Malcolm Jones Carlos; MORASSUTTI, Alessandra Loureiro"
   doi: https://doi.org/10.1007/s00436-020-06743-y
-  title: Mollusk microbiota shift during Angiostrongylus cantonensis infection in
+  title:
+    Mollusk microbiota shift during Angiostrongylus cantonensis infection in
     the freshwater snail Biomphalaria glabrata and the terrestrial slug Phillocaulis
     soleiformis. Parasitology Research.
   type: "Artigo Cient\xEDfico"
-  vehicle: ' Parasitology Research'
+  vehicle: " Parasitology Research"
   year: 2020
-- authors: "M\xDCLLERA, Carla Aristonara; PEREIRA, Leandro de Mattos; LOPES, Carina;\
+- authors:
+    "M\xDCLLERA, Carla Aristonara; PEREIRA, Leandro de Mattos; LOPES, Carina;\
     \ CARES Juvenil; BORGES, Luiz Gustavo dos Anjos; GIONGO, Adriana; GRAEFF-TEIXEIRA,\
     \ Carlos; MORASSUTTI, Alessandra Loureiro"
   doi: https://www.sciencedirect.com/science/article/abs/pii/S0378112719312873
-  title: 'Meiofaunal diversity in the Atlantic Forest soil: A quest for nematodes
-    in anative reserve using eukaryotic metabarcoding analysis'
+  title:
+    "Meiofaunal diversity in the Atlantic Forest soil: A quest for nematodes
+    in anative reserve using eukaryotic metabarcoding analysis"
   type: "Artigo Cient\xEDfico"
-  vehicle: ' Forest Ecology and Management 453 (2019) 117591'
+  vehicle: " Forest Ecology and Management 453 (2019) 117591"
   year: 2020
-- authors: "DAME-TEIXEIRA, Naile; CENA, J\xE9ssica Alves; C\xD4RTES, D\xE9bora Azevedo;\
+- authors:
+    "DAME-TEIXEIRA, Naile; CENA, J\xE9ssica Alves; C\xD4RTES, D\xE9bora Azevedo;\
     \ BELMOK, Aline; BORGES, Luiz Gustavo dos Anjos; MARCONATTO, Let\xEDcia; GIONGO,\
     \ Adriana; KYAW, Cynthia Maria"
   doi: 10.1016/j.archoralbio.2019.104606
   title: Presence of Archaea in dental caries biofilms
   type: "Artigo Cient\xEDfico"
-  vehicle: ' Archives of Oral Biology 110: 104606'
+  vehicle: " Archives of Oral Biology 110: 104606"
   year: 2020
-- authors: "LUIZ, Cristina de Almeida Silva; MONTEGGIA, Luiz Olinto; J\xDANIOR, Jos\xE9\
+- authors:
+    "LUIZ, Cristina de Almeida Silva; MONTEGGIA, Luiz Olinto; J\xDANIOR, Jos\xE9\
     \ Carlos Alves; GRANADA, Camille Eichelberger; GIONGO, Adriana"
   doi: 10.1016/j.renene.2020.01.152
-  title: Evaluation of semi-continuous operation to hydrogen and volatile fatty acids
+  title:
+    Evaluation of semi-continuous operation to hydrogen and volatile fatty acids
     production using raw glycerol as substrate
   type: "Artigo Cient\xEDfico"
-  vehicle: 'Renewable Energy 153: 701-710'
+  vehicle: "Renewable Energy 153: 701-710"
   year: 2020
-- authors: "GIONGO, Adriana; GRANADA, Camille E.; BORGES, Luiz G. A.; PEREIRA, Leandro\
+- authors:
+    "GIONGO, Adriana; GRANADA, Camille E.; BORGES, Luiz G. A.; PEREIRA, Leandro\
     \ M.; TRINDADE, Fernanda J.; MATTIELLO, Shaiana P.; OLIVEIRA, Rafael R.; SHUBEITA;\
     \ Fauzi M.; LOVATO, Adalberto; MARCON, C\xE9sar; MEDINA-SILVA, Renata"
   doi: 10.1007/s42770-020-00272-7
-  title: Microbial communities in anaerobic digesters change over time and sampling
+  title:
+    Microbial communities in anaerobic digesters change over time and sampling
     depth
   type: "Artigo Cient\xEDfico"
   vehicle: Brazilian Journal of Microbiology
   year: 2020
-- authors: GIAGNONI, Laura; BORGES, Luiz Gustavo dos Anjos; GIONGO, Adriana; SILVEIRA,
+- authors:
+    GIAGNONI, Laura; BORGES, Luiz Gustavo dos Anjos; GIONGO, Adriana; SILVEIRA,
     Andressa de Oliveira; ARDISSONE, Alexandria N.; TRIPLETT, Eric W.; MENCH, Michel;
     RENELLA, Giancarlo
   doi: 10.3390/agronomy10050719
-  title: Dolomite and compost amendments enhance Cu phytostabilization and increase
+  title:
+    Dolomite and compost amendments enhance Cu phytostabilization and increase
     microbiota of the leachetes from a Cu-contaminated soil
   type: "Artigo Cient\xEDfico"
-  vehicle: 'Agronomy 10: 719'
+  vehicle: "Agronomy 10: 719"
   year: 2020
-- authors: "GIONGO, Adriana; BORGES, Luiz Gustavo dos Anjos; MARCONATTO, Let\xEDcia;\
+- authors:
+    "GIONGO, Adriana; BORGES, Luiz Gustavo dos Anjos; MARCONATTO, Let\xEDcia;\
     \ PALHANO, P\xE2mela de Lara; SERBENT, Maria Pilar; MOREIRA-SILVA, Eduardo; SIQUEIRA,\
     \ Tiago de Abreu; MARTINHO, Caroline Thais; BARILI, Rosalia; PAZ, Lisi\xEA Val\xE9\
     ria; MOSER, Let\xEDcia Isabela; VER\xCDSSIMO, Carolina de Marco; KETZER, Jo\xE3\
     o Marcelo Medina; MEDINA-SILVA, Renata"
   doi: 10.1016/j.heliyon.2020.e04778
-  title: Adaption of microbial communities to the hostile environment in the Doce
+  title:
+    Adaption of microbial communities to the hostile environment in the Doce
     River the collapse of two iron ore tailing dams
   type: "Artigo Cient\xEDfico"
-  vehicle: 'Heliyon 6: e04778'
+  vehicle: "Heliyon 6: e04778"
   year: 2020
-- authors: "SERBENT, Maria Pilar; BORGES, Luiz Gustavo dos Anjos; QUADROS, Aline;\
+- authors:
+    "SERBENT, Maria Pilar; BORGES, Luiz Gustavo dos Anjos; QUADROS, Aline;\
     \ MARCONATTO, Let\xEDcia; TAVARES, Lorena Benathar Balload; GIONGO, Adriana"
   doi: 10.1007/s11356-020-10614-5
-  title: Prokaryotic and eukaryotic communities in an experimental rice plantation
+  title:
+    Prokaryotic and eukaryotic communities in an experimental rice plantation
     under long-term use of pesticides
   type: "Artigo Cient\xEDfico"
   vehicle: Environmental Science and Pollution Research
   year: 2020
-- authors: "Juliana A. Vianna, Fl\xE1via A. N. Fernandes, Mar\xEDa Jos\xE9 Frugone\
+- authors:
+    "Juliana A. Vianna, Fl\xE1via A. N. Fernandes, Mar\xEDa Jos\xE9 Frugone\
     \ , Henrique V. Figueir\xF3, Luis R. Pertierra, Daly Noll, Ke Bi, Cynthia Y. Wang-Claypool,\
     \ Andrew Lowther, Patricia Parker, Celine Le Bohec, Francesco Bonadonna, Barbara\
     \ Wienecke, Pierre Pistorius, Antje Steinfurth, Christopher P. Burridge, Gisele\
@@ -711,210 +1070,322 @@
     \ Mariana F. Nery e Rauri C. K. Bowie"
   doi: https://doi.org/10.1073/pnas.2006659117
   title: Genome-wide analyses reveal drivers of penguin diversification
-  type: "Artigo cient\xEDfico"
-  vehicle: 'Proceedings of the National Academy of Sciences (PNAS), Qualis: A1'
+  type: "Artigo Cient\xEDfico"
+  vehicle: "Proceedings of the National Academy of Sciences (PNAS), Qualis: A1"
   year: 2020
-- authors: COLISSI, Mateus da Silveira; VIEIRA, Renata; MASCARDI, Viviana; BORDINI,
+- authors:
+    COLISSI, Mateus da Silveira; VIEIRA, Renata; MASCARDI, Viviana; BORDINI,
     Rafael H.
   doi: (Sem link)
   title: A Chatbot that Uses a Multi-Agent Organization to Support Collaborative Learning
   type: "Artigo Cient\xEDfico"
-  vehicle: "Confer\xEAncia Human-Computer Interaction (HCI) International, com indica\xE7\
+  vehicle:
+    "Confer\xEAncia Human-Computer Interaction (HCI) International, com indica\xE7\
     \xE3o de Qualis B1"
   year: 2020
-- authors: COLISSI, Mateus da Silveira; VIEIRA, Renata; MASCARDI, Viviana; BORDINI,
+- authors:
+    COLISSI, Mateus da Silveira; VIEIRA, Renata; MASCARDI, Viviana; BORDINI,
     Rafael H.
   doi: (Sem link)
-  title: 'Team Up: Conversational Agents to Support the Coordination of Group Work'
-  type: "Disserta\xE7\xE3o"
+  title: "Team Up: Conversational Agents to Support the Coordination of Group Work"
+  type: "Disserta\xE7\xE3o de Mestrado"
   vehicle: "N\xE3o h\xE1"
   year: 2020
-- authors: "FERNANDES, Ramon; SANCHEZ, Gustavo; CATALDO, Rodrigo; AGOSTINI, Luciano;\
+- authors: "ROSSATO, Guilherme Miranda, FERNANDES, D\xEAnis"
+  doi: (Sem link)
+  title:
+    The Implementation of Autoencoder in Embedded Systems to Attenuate Non-Stationary
+    Noise in Audio Signal
+  type: "Trabalho de conclus\xE3o de curso de gradua\xE7\xE3o"
+  vehicle: "N\xE3o h\xE1"
+  year: 2020
+- authors: "FERNANDES, Ramon Costi, MARCON, C\xE9sar"
+  doi: http://tede2.pucrs.br/tede2/handle/tede/9589
+  title: Exploring Curve-Based Prediction Models for Intra-Frame Prediction
+  type: Tese de Doutorado
+  vehicle:
+    "Tese (Doutorado em Ci\xEAncia da Computa\xE7\xE3o) - Pontif\xEDcia Universidade\
+    \ Cat\xF3lica do Rio Grande do Sul"
+  year: 2020
+- authors:
+    "FERNANDES, Ramon; SANCHEZ, Gustavo; CATALDO, Rodrigo; AGOSTINI, Luciano;\
     \ MARCON, C\xE9sar"
   doi: (Sem link)
   title: Using Curved Angular Intra-Frame Prediction to Improve Video Coding Efficiency
-  type: "Peri\xF3dico (submiss\xE3o)"
-  vehicle: ' Journal of Visual Communication and Image Representation (Qualis A2)'
+  type: "Artigo Cient\xEDfico"
+  vehicle: " Journal of Visual Communication and Image Representation (Qualis A2)"
   year: 2020
-- authors: "Felipe S Costa, Silvia M Nassar, Sergio Gusmeroli, Ralph Schultz, Andr\xE9\
+- authors: Maria Laura de Souza Delapieve, Roberto E. dos Reis
+  doi: http://hdl.handle.net/10923/16653
+  title:
+    "Cascudinhos do sul do Brasil: sistem\xE1tica, endemismo e rela\xE7\xF5es\
+    \ usando novas abordagens (Loricariidae: Hypoptopomatinae)"
+  type: Tese de Doutorado
+  vehicle: " "
+  year: 2020
+- authors: Vanessa Meza Vargas, Roberto E. dos Reis
+  doi: https://tede2.pucrs.br/tede2/handle/tede/10004
+  title: "Filogenia e revis\xE3o taxan\xF4mica de Hemiancistrus (Silutiformes: Loricariidae)"
+  type: Tese de Doutorado
+  vehicle: TEDE PUCRS
+  year: 2020
+- authors:
+    "Felipe S Costa, Silvia M Nassar, Sergio Gusmeroli, Ralph Schultz, Andr\xE9\
     \ G S Concei\xE7\xE3o, Miguel Xavier, Fabiano Hessel, Mario A R Dantas"
   doi: https://doi.org/10.3390/s20195499
-  title: 'FASTEN IIoT: An Open Real-Time Platform for Vertical, Horizontal and End-To-End
-    Integration'
-  type: Artigo em revista
+  title:
+    "FASTEN IIoT: An Open Real-Time Platform for Vertical, Horizontal and End-To-End
+    Integration"
+  type: Artigo em Revista
   vehicle: Sensors 2020, 20(19), 5499
   year: 2020
 - authors: Pieper, Ricardo; Griebler, Dalvan; Fernandes, Luiz G.
   doi: 10.1145/3355378.3355384
   title: Structured Stream Parallelism for Rust
-  type: "Artigo cient\xEDfico"
-  vehicle: Inproceedings 23st Brazilian Symposium on Programming Languages (SBLP),
-    pp. 8, ACM, Salvador, Brazil, 2019.
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "Inproceedings 23st Brazilian Symposium on Programming Languages (SBLP),
+    pp. 8, ACM, Salvador, Brazil, 2019. "
   year: 2019
 - authors: Vogel, Adriano; Griebler, Dalvan; Fernandes, Luiz G.
   doi: https://www.researchgate.net/publication/332529423_Adaptando_o_Paralelismo_em_Aplicacoes_de_Stream_Conforme_Objetivos_de_Throughput
-  title: "Adaptando o Paralelismo em Aplica\xE7\xF5es de Stream Conforme Objetivos\
+  title:
+    "Adaptando o Paralelismo em Aplica\xE7\xF5es de Stream Conforme Objetivos\
     \ de Throughput"
-  type: "Artigo cient\xEDfico"
-  vehicle: "Inproceedings Escola Regional de Alto Desempenho (ERAD/RS), pp. 4, Sociedade\
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "Inproceedings Escola Regional de Alto Desempenho (ERAD/RS), pp. 4, Sociedade\
     \ Brasileira de Computa\xE7\xE3o (SBC), Tr\xEAs de Maio, BR, 2019."
   year: 2019
 - authors: Maron, Carlos A F; Griebler, Dalvan; Fernandes, Luiz G.
   doi: http://hdl.handle.net/10923/15465
-  title: "Benchmark Param\xE9trico para o Dom\xEDnio do Paralelismo de Stream: Um\
+  title:
+    "Benchmark Param\xE9trico para o Dom\xEDnio do Paralelismo de Stream: Um\
     \ Estudo de Caso com o Ferret da Su\xEDte PARSEC"
   type: "Apresenta\xE7\xE3o em Evento"
-  vehicle: "Inproceedings Escola Regional de Alto Desempenho (ERAD/RS), pp. 4, Sociedade\
+  vehicle:
+    "Inproceedings Escola Regional de Alto Desempenho (ERAD/RS), pp. 4, Sociedade\
     \ Brasileira de Computa\xE7\xE3o (SBC), Tr\xEAs de Maio, BR, 2019."
   year: 2019
 - authors: Rista, Cassiano; Griebler, Dalvan; Fernandes, Luiz G.
   doi: http://hdl.handle.net/10923/15464
   title: Proposta de Grau de Paralelismo Autoadaptativo com MPI-2 para a DSL SPar
   type: "Apresenta\xE7\xE3o em Evento"
-  vehicle: "Inproceedings Escola Regional de Alto Desempenho (ERAD/RS), pp. 4, Sociedade\
+  vehicle:
+    "Inproceedings Escola Regional de Alto Desempenho (ERAD/RS), pp. 4, Sociedade\
     \ Brasileira de Computa\xE7\xE3o (SBC), Tr\xEAs de Maio, BR, 2019."
   year: 2019
 - authors: Araujo, Gabriell A; Griebler, Dalvan; Fernandes, Luiz G.
   doi: https://www.researchgate.net/publication/332529275_Avaliando_o_Paralelismo_de_Stream_com_Pthreads_OpenMP_e_SPar_em_Aplicacoes_de_Video
-  title: "Avaliando o Paralelismo de Stream com Pthreads, OpenMP e SPar em Aplica\xE7\
+  title:
+    "Avaliando o Paralelismo de Stream com Pthreads, OpenMP e SPar em Aplica\xE7\
     \xF5es de V\xEDdeo"
-  type: "Artigo cient\xEDfico"
-  vehicle: "Inproceedings Escola Regional de Alto Desempenho (ERAD/RS), pp. 4, Sociedade\
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "Inproceedings Escola Regional de Alto Desempenho (ERAD/RS), pp. 4, Sociedade\
     \ Brasileira de Computa\xE7\xE3o (SBC), Tr\xEAs de Maio, BR, 2019."
   year: 2019
 - authors: Justo, Gabriel B; Vogel, Adriano; Griebler, Dalvan; Fernandes, Luiz G.
   doi: https://www.researchgate.net/publication/332529317_Acelerando_o_Reconhecimento_de_Pessoas_em_Videos_com_MPI
   title: "Acelerando o Reconhecimento de Pessoas em V\xEDdeos com MPI"
-  type: "Artigo cient\xEDfico"
-  vehicle: "Inproceedings Escola Regional de Alto Desempenho (ERAD/RS), pp. 4, Sociedade\
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "Inproceedings Escola Regional de Alto Desempenho (ERAD/RS), pp. 4, Sociedade\
     \ Brasileira de Computa\xE7\xE3o (SBC), Tr\xEAs de Maio, BR, 2019."
   year: 2019
 - authors: Maron, Carlos A F; Vogel, Adriano; Griebler, Dalvan; Fernandes, Luiz Gustavo
   doi: http://hdl.handle.net/10923/15458
   title: Should PARSEC Benchmarks be More Parametric? A Case Study with Dedup
   type: "Apresenta\xE7\xE3o em Evento"
-  vehicle: Inproceedings 27th Euromicro International Conference on Parallel, Distributed
+  vehicle:
+    Inproceedings 27th Euromicro International Conference on Parallel, Distributed
     and Network-Based Processing (PDP), pp. 217-221, IEEE, Pavia, Italy, 2019.
   year: 2019
-- authors: Marcelo Conterato, Tiago Ferreto, Fabio Rossi, Wagner Marques e Paulo de
+- authors:
+    Marcelo Conterato, Tiago Ferreto, Fabio Rossi, Wagner Marques e Paulo de
     Souza
   doi: https://dl.acm.org/doi/abs/10.1145/3297280.3297420
-  title: Reducing Energy Consumption in SDN-based Data Center Networks through Flow
+  title:
+    Reducing Energy Consumption in SDN-based Data Center Networks through Flow
     Consolidation Strategies
-  type: "artigo em confer\xEAncia"
-  vehicle: 'SAC ''19: Proceedings of the 34th ACM/SIGAPP Symposium on Applied Computing
-    (Qualis A1)'
+  type: "Artigo em Confer\xEAncia"
+  vehicle:
+    "SAC '19: Proceedings of the 34th ACM/SIGAPP Symposium on Applied Computing
+    (Qualis A1)"
   year: 2019
-- authors: Angelo Crestani, Paulo de Souza, Wagner Marques, Marcelo Conterato, Tiago
+- authors:
+    Angelo Crestani, Paulo de Souza, Wagner Marques, Marcelo Conterato, Tiago
     Ferreto, Marcelo Luizelli, Arthur Lorenzon, Antonio Carlos Filho, Fabio Rossi,
     Jorji Nonaka
   doi: https://ieeexplore.ieee.org/abstract/document/8702116/
-  title: The Impact of Parallel Programming Interfaces on the Aging of a Multicore
+  title:
+    The Impact of Parallel Programming Interfaces on the Aging of a Multicore
     Embedded Processor
-  type: "artigo em confer\xEAncia"
-  vehicle: S2019 IEEE International Symposium on Circuits and Systems (ISCAS) (Qualis
+  type: "Artigo em Confer\xEAncia"
+  vehicle:
+    S2019 IEEE International Symposium on Circuits and Systems (ISCAS) (Qualis
     A1)
   year: 2019
 - authors: "Paulo Souza, Wagner Marques, R\xF4mulo Reis, Tiago Ferreto"
   doi: https://pdfs.semanticscholar.org/739e/31d533e263d01fec8a30e1b481142412925d.pdf
-  title: 'IAGREE: Infrastructure-Agnostic Resilience Benchmark Tool For Cloud Native
-    Platforms'
-  type: "artigo em confer\xEAncia"
-  vehicle: 9th International Conference on Cloud Computing and Services Science, CLOSER
+  title:
+    "IAGREE: Infrastructure-Agnostic Resilience Benchmark Tool For Cloud Native
+    Platforms"
+  type: "Artigo em Confer\xEAncia"
+  vehicle:
+    9th International Conference on Cloud Computing and Services Science, CLOSER
     2019 (Qualis A2)
   year: 2019
 - authors: "R\xF4mulo Reis, Paulo Souza, Wagner Marques, Tiago Ferreto e Fabio Rossi"
   doi: https://pdfs.semanticscholar.org/1313/b8703a803b876a08585609283d8720d2bf8a.pdf
-  title: Improving the Trade-Off Between Performance and Energy Saving in Mobile Devices
+  title:
+    Improving the Trade-Off Between Performance and Energy Saving in Mobile Devices
     through a Transparent Code Offloading Technique
-  type: "artigo em confer\xEAncia"
-  vehicle: 9th International Conference on Cloud Computing and Services Science, CLOSER
+  type: "Artigo em Confer\xEAncia"
+  vehicle:
+    9th International Conference on Cloud Computing and Services Science, CLOSER
     2019 (Qualis A2)
   year: 2019
-- authors: Fabio Rossi, Tiago Ferreto, Marcelo Conterato, Paulo Souza, Wagner Marques,
+- authors:
+    Fabio Rossi, Tiago Ferreto, Marcelo Conterato, Paulo Souza, Wagner Marques,
     Rodrigo Calheiros, Guilherme Rodrigues
   doi: https://pdfs.semanticscholar.org/d1dc/77ec6b4b4494e93f25008ad5d17918479ca5.pdf
-  title: Towards balancing energy savings and performance for volunteer computing
+  title:
+    Towards balancing energy savings and performance for volunteer computing
     through virtualized approach
-  type: "artigo em confer\xEAncia"
-  vehicle: 9th International Conference on Cloud Computing and Services Science, CLOSER
+  type: "Artigo em Confer\xEAncia"
+  vehicle:
+    9th International Conference on Cloud Computing and Services Science, CLOSER
     2019 (Qualis A2)
   year: 2019
 - authors: Kairo Tavares, Tiago Ferreto
   doi: https://doi.org/10.5753/sbrc.2019.7404
-  title: 'DDoS on Sketch: Spoofed DDoS attack defense with programmable data planes
-    using sketches in SDN'
-  type: "artigo em confer\xEAncia"
-  vehicle: "SIMP\xD3SIO BRASILEIRO DE REDES DE COMPUTADORES E SISTEMAS DISTRIBU\xCD\
+  title:
+    "DDoS on Sketch: Spoofed DDoS attack defense with programmable data planes
+    using sketches in SDN"
+  type: "Artigo em Confer\xEAncia"
+  vehicle:
+    "SIMP\xD3SIO BRASILEIRO DE REDES DE COMPUTADORES E SISTEMAS DISTRIBU\xCD\
     DOS (SBRC) 2019 (Qualis B2)"
   year: 2019
-- authors: Fabio Rossi, Paulo Souza, Wagner Marques, Marcelo Conterato, Tiago Ferreto,
+- authors:
+    Fabio Rossi, Paulo Souza, Wagner Marques, Marcelo Conterato, Tiago Ferreto,
     Arthur Lorenzon, Marcelo Luizelli
   doi: 10.1109/ISCC47284.2019.8969751
-  title: Multilevel Resource Allocation for Performance-Aware Energy-Efficient Cloud
+  title:
+    Multilevel Resource Allocation for Performance-Aware Energy-Efficient Cloud
     Data Centers
-  type: "artigo em confer\xEAncia"
+  type: "Artigo em Confer\xEAncia"
   vehicle: IEEE Symposium on Computers and Communications (ISCC) 2019 (Qualis A2)
   year: 2019
 - authors: Rojas-Runjaic, F. J. M.
   doi: http://tede2.pucrs.br/tede2/handle/tede/8853
-  title: "Sistem\xE1tica filogen\xE9tica dos sapos-cuidadores Aromobates e Mannophryne\
+  title:
+    "Sistem\xE1tica filogen\xE9tica dos sapos-cuidadores Aromobates e Mannophryne\
     \ (Aromobatinae) inferida mediante evid\xEAncia total"
   type: Tese de Doutorado
-  vehicle: "Tese de Doutorado Pontif\xEDcia Universidade Cat\xF3lica do Rio Grande\
+  vehicle:
+    "Tese de Doutorado Pontif\xEDcia Universidade Cat\xF3lica do Rio Grande\
     \ do Sul (PUCRS). 402 p."
   year: 2019
-- authors: "Augusto Buchweitz, Adriana Corr\xEAa Costa, Rudineia Toazza, Ana Bass\xF4\
+- authors:
+    "Augusto Buchweitz, Adriana Corr\xEAa Costa, Rudineia Toazza, Ana Bass\xF4\
     a, Valentina Metsavaht Cara, Nathalia Bianchini Esper, Cristiano Aguzzoli, Bruna\
     \ Gregolim, Luiz Fernando Dresch, Matheus Dorigatti Soldateli, Jaderson Costa\
     \ da Costa, Mirna Wetters Portuguez, Alexandre Rosa Franco"
   doi: https://www.tandfonline.com/doi/full/10.1080/87565641.2017.1292516
-  title: 'Decoupling of the Occipitotemporal Cortez and the Brain''s Default-Mode
+  title: "Decoupling of the Occipitotemporal Cortez and the Brain's Default-Mode
     Network in Dyslexia and a Role for the Cingulate Cortez in Good Readers: A Brain
-    Imaging Study of Brazilian Children'
-  type: Artigo de revista
-  vehicle: "Developmental Neuropsychology - Fator de Impacto: 1.344 - Qualis A1 (\xC1\
+    Imaging Study of Brazilian Children"
+  type: Artigo em Revista
+  vehicle:
+    "Developmental Neuropsychology - Fator de Impacto: 1.344 - Qualis A1 (\xC1\
     rea de Avalia\xE7\xE3o: Psicologia)"
   year: 2019
-- authors: "Augusto Buchweitz, Lucas Ara\xFAjo de Azeredo, Valentina Metsavaht Cara,\
+- authors:
+    "Augusto Buchweitz, Lucas Ara\xFAjo de Azeredo, Valentina Metsavaht Cara,\
     \ Nathalia Bianchini Esper, Ricardo Bernardi Soder, Jaderson Costa da Costa, Mirna\
     \ Wetters Portuguez, Alexandre Rosa Franco, Rodrigo Grassi-Oliveira"
   doi: https://onlinelibrary.wiley.com/doi/full/10.1111/desc.12799
-  title: 'Violence and Latin-American preadolescents: A Study of Social Brain Function
-    and Cortisol Levels'
-  type: Artigo de revista
-  vehicle: "Developmental Science - Fator de Impacto: 4.096 - Qualis A1 (\xC1rea de\
+  title:
+    "Violence and Latin-American preadolescents: A Study of Social Brain Function
+    and Cortisol Levels"
+  type: Artigo em Revista
+  vehicle:
+    "Developmental Science - Fator de Impacto: 4.096 - Qualis A1 (\xC1rea de\
     \ Avalia\xE7\xE3o: Interdisciplinar)"
   year: 2019
-- authors: "Valentina Metsavaht Cara, Nathalia Bianchini Esper, Lucas Ara\xFAjo de\
+- authors:
+    "Valentina Metsavaht Cara, Nathalia Bianchini Esper, Lucas Ara\xFAjo de\
     \ Azeredo, Victoria Iochpe, Nicole Prigol Dalfovo, Rhan\xE1 Carolina Santos, Breno\
     \ Sanvicente-Vieira, Rodrigo Grassi-Oliveira, Alexandre Rosa Franco, Augusto Buchweitz"
   doi: https://doi.org/10.1093/scan/nsz092
-  title: 'An fMRI study of inhibitory control and the effects of exposure to violence
+  title:
+    "An fMRI study of inhibitory control and the effects of exposure to violence
     in Latin-American early adolescents: alterations in frontoparietal activation
-    and performance'
-  type: Artigo de revista
-  vehicle: "Social Cognitive and Affective Neuroscience - Fator de Impacto: 3.5 -\
+    and performance"
+  type: Artigo em Revista
+  vehicle:
+    "Social Cognitive and Affective Neuroscience - Fator de Impacto: 3.5 -\
     \ Qualis A2 (\xC1rea de Avalia\xE7\xE3o: Medicina II)"
   year: 2019
-- authors: "GIONGO, Adriana; HAAG, Taiana; MEDINA-SILVA, Renata; HEEMANN, Roberto;\
+- authors:
+    Nathalia Bianchini Esper, Aline Kotoski, Graciane Radaelli, Felipe Kalil
+    Neto, Daniele Irigoyen Costa, Mirna Wetters Portuguez, Magda Lahorgue Nunes, Augusto
+    Buchweitz, Jaderson Costa da Costa
+  doi: " "
+  title:
+    "Auditory task in infants with congenital microcephaly associated to Zika
+    Virus: a functional near-infrared spectroscopy study"
+  type: "Artigo em Confer\xEAncia"
+  vehicle: Congress on Brain, Behavior and Emotions
+  year: 2019
+- authors:
+    "Nathalia Bianchini Esper, Maicon Diogo Much, Dario Francisco Guimar\xE3\
+    es de Azevedo, Augusto Buchweitz, Michael Milham, Alexandre Rosa Franco"
+  doi: " "
+  title: "Real-time fMRI Motion Tracking: Should I Stop and Restart the Scan?"
+  type: "Artigo em Confer\xEAncia"
+  vehicle: 25th Annual Meeting of the Organization for Human Brain Mapping
+  year: 2019
+- authors: Aline Kotoski
+  doi: " "
+  title:
+    "Classifica\xE7\xE3o Cerebral entre Disl\xE9xicos e N\xE3o-Disl\xE9xicos\
+    \ utilizando Resson\xE2ncia Magn\xE9tica e Support Vector Machine"
+  type: "Trabalho de Conclus\xE3o de Curso"
+  vehicle: " "
+  year: 2019
+- authors: "Wyllians Jos\xE9 Vendramini Borelli"
+  doi: http://hdl.handle.net/10923/16495
+  title:
+    "Correla\xE7\xE3o entre neuroimagem molecular, estrutural e funcional em\
+    \ SuperIdosos"
+  type: Tese de Doutorado
+  vehicle: " "
+  year: 2019
+- authors:
+    "GIONGO, Adriana; HAAG, Taiana; MEDINA-SILVA, Renata; HEEMANN, Roberto;\
     \ PEREIRA, Leandro M.; ZAMBERLAN, Priscilla M.; VALDEZ, Fernanda P.; OLIVEIRA,\
     \ Rafael R.; EIZIRIK, Eduardo; VIANA, Adriano R.; KETZER, Jo\xE3o Marcelo M."
   doi: 10.1007/s12303-019-0028-5
-  title: Distinct deep subsurface microbial communities in two sandstone units separated
+  title:
+    Distinct deep subsurface microbial communities in two sandstone units separated
     by a mudstone layer
   type: "Artigo Cient\xEDfico"
   vehicle: Geosciences Journal
   year: 2019
 - authors: "Gang Li, Henrique V Figueir\xF3, Eduardo Eizirik e William J Murphy"
   doi: https://doi.org/10.1093/molbev/msz139
-  title: Recombination-Aware Phylogenomics Reveals the Structured Genomic Landscape
+  title:
+    Recombination-Aware Phylogenomics Reveals the Structured Genomic Landscape
     of Hybridizing Cat Species
-  type: "Artigo cient\xEDfico"
-  vehicle: "Molecular Biology and Evolution, Volume 36, Issue 10, October 2019, Pages\
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "Molecular Biology and Evolution, Volume 36, Issue 10, October 2019, Pages\
     \ 2111\u20132126, Qualis: A1"
   year: 2019
-- authors: Sarah Helen Dias dos Santos
+- authors: "Sarah Helen Dias dos Santos "
   doi: https://tede2.pucrs.br/tede2/handle/tede/8747
   title: "Filogen\xF4mica do g\xEAnero Panthera (mammalia, felidae)"
   type: "Disserta\xE7\xE3o de Mestrado"
@@ -922,171 +1393,262 @@
   year: 2019
 - authors: "Pi\xF1a, Gustavo Pablo Lorenzana e Eizirik, Eduardo"
   doi: http://tede2.pucrs.br/tede2/handle/tede/8737
-  title: 'Population genomics of jaguars (Panthera onca) : comparative assessment
-    of diversity on different genomic and spatio-temporal scales'
+  title:
+    "Population genomics of jaguars (Panthera onca) : comparative assessment
+    of diversity on different genomic and spatio-temporal scales"
   type: Tese de Doutorado
   vehicle: TEDE PUCRS
   year: 2019
 - authors: "Shirley Soares de Oliveira, C\xE1ssio Stein Moura, Ivi Valentini Lara"
   doi: https://editora.pucrs.br/edipucrs/acessolivre/anais/sic/assets/edicoes/2019/arquivos/555.pdf
-  title: "Estudo da intera\xE7\xE3o de herbicidas com grafeno para produ\xE7\xE3o\
+  title:
+    "Estudo da intera\xE7\xE3o de herbicidas com grafeno para produ\xE7\xE3o\
     \ de agentes filtrantes"
-  type: "Artigo cient\xEDfico"
-  vehicle: "Anais da 20\xBA edi\xE7\xE3o do Sal\xE3o de Inicia\xE7\xE3o Cient\xED\
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "Anais da 20\xBA edi\xE7\xE3o do Sal\xE3o de Inicia\xE7\xE3o Cient\xED\
     fica [/Carla Denise Bonan, Fernanda Bueno Morrone, J\xFAlio C\xE9sar Bicca Marques\
     \ - Coordenadores. - Dados eletr\xF4nicos. - Porto Alegre: EDIPUCRS, 2019. Recurso\
     \ on-line"
   year: 2019
-- authors: "N\xEDcollas Gon\xE7alves Cavedini, Caroline Machado Dartora, Ana Maria\
+- authors:
+    "N\xEDcollas Gon\xE7alves Cavedini, Caroline Machado Dartora, Ana Maria\
     \ Marques da Silva"
   doi: 10.1007/s00259-019-04486-2
   title: Iodine Internal Dosimetry using Anthropomorphic Voxelized Phantom in GATE
-  type: Resumo de congresso internacional
-  vehicle: 'Eur J Nucl Med Mol Imaging (2019) 46 (Suppl 1): S952.'
+  type: "Apresenta\xE7\xE3o em Congresso"
+  vehicle: "Eur J Nucl Med Mol Imaging (2019) 46 (Suppl 1): S952."
   year: 2019
-- authors: "Caroline Machado Dartora, N\xEDcollas Gon\xE7alves Cavedini, Lu\xEDs Vinicius\
+- authors:
+    "Caroline Machado Dartora, N\xEDcollas Gon\xE7alves Cavedini, Lu\xEDs Vinicius\
     \ de Moura, Ana Maria Marques da Silva"
   doi: 10.29384/rbfm.2018.v12.n3.p39-44
-  title: "Dosimetria Interna em Medicina Nuclear com o Aplicativo Gate: Avalia\xE7\
+  title:
+    "Dosimetria Interna em Medicina Nuclear com o Aplicativo Gate: Avalia\xE7\
     \xE3o do Impacto do Elemento de Dose e do Tipo de Fonte"
-  type: Artigo completo
-  vehicle: "Revista Brasileira de F\xEDsica M\xE9dica, vol. 12, n.3, p.39-44. QUALIS:\
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "Revista Brasileira de F\xEDsica M\xE9dica, vol. 12, n.3, p.39-44. QUALIS:\
     \ B5"
   year: 2019
-- authors: "Lu\xEDs Vin\xEDcius de Moura, Caroline Machado Dartora e Ana Maria Marques\
+- authors:
+    "Lu\xEDs Vin\xEDcius de Moura, Caroline Machado Dartora e Ana Maria Marques\
     \ da Silva"
   doi: 10.5281/zenodo.3460912
   title: Skin Lesions Classification using Multichannel Dermoscopic Image
-  type: Artigo completo publicado em anais de congresso nacional
-  vehicle: "Anais do XII Simp\xF3sio de Engenharia Biom\xE9dica;Anais do XII Simp\xF3\
+  type: "Apresenta\xE7\xE3o em Congresso"
+  vehicle:
+    "Anais do XII Simp\xF3sio de Engenharia Biom\xE9dica;Anais do XII Simp\xF3\
     sio de Engenharia Biom\xE9dica - IX Simp\xF3sio de Instrumenta\xE7\xE3o e Imagens\
     \ M\xE9dicas, Uberl\xE2ndia, MG (ISSN: 2358-3568)."
   year: 2019
-- authors: "Caroline Machado Dartora, Lu\xEDs Vin\xEDcius de Moura e Ana Maria Marques\
+- authors:
+    "Caroline Machado Dartora, Lu\xEDs Vin\xEDcius de Moura e Ana Maria Marques\
     \ da Silva"
   doi: 10.5281/zenodo.3460912
-  title: Feature Selection And Classification Of Multichannel Skin Lesion Dermoscopic
+  title:
+    Feature Selection And Classification Of Multichannel Skin Lesion Dermoscopic
     Color Images
-  type: "Apresenta\xE7\xE3o de trabalho"
-  vehicle: Congresso anual da European Society of Medical Imaging Informatics (EuSoMII
+  type: "Apresenta\xE7\xE3o em Evento"
+  vehicle:
+    Congresso anual da European Society of Medical Imaging Informatics (EuSoMII
     Annual Meeting, october 2019, Valencia, Spain)
   year: 2019
-- authors: "Lu\xEDs Vin\xEDcius de Moura, Caroline Machado Dartora e Ana Maria Marques\
+- authors: "Lu\xEDs Vin\xEDcius de Moura e Ana Maria Marques da Silva"
+  doi: https://editora.pucrs.br/edipucrs/acessolivre/anais/sic/assets/edicoes/2019/arquivos/391.pdf
+  title:
+    "Radi\xF4mica baseada em Deep Learning: Extraindo Informa\xE7\xF5es de Imagens\
+    \ M\xE9dicas"
+  type: "Apresenta\xE7\xE3o em Evento"
+  vehicle:
+    "Anais de evento do Sal\xE3o de Inicia\xE7\xE3o Cient\xEDfica da PUCRS\
+    \ 2019 - Trabalho Premiado como Destaque"
+  year: 2019
+- authors:
+    "Lu\xEDs Vin\xEDcius de Moura, Caroline Machado Dartora e Ana Maria Marques\
     \ da Silva"
   doi: 10.29384/rbfm.2019.v13.n3.p38-42.p38-42
   title: Lung nodules classification in CT images  using texture descriptors
-  type: Artigo completo
-  vehicle: "Revista Brasileira de F\xEDsica M\xE9dica, vol. 13, n.3, p.38-42, 2019.\
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "Revista Brasileira de F\xEDsica M\xE9dica, vol. 13, n.3, p.38-42, 2019.\
     \ QUALIS: B5"
   year: 2019
-- authors: "Renata Medina-Silva, Rafael R. de Oliveira, Maria A.G. Pivel, Luiz G.A.\
+- authors: G. Sanchez, R. Fernandes, R. Cataldo, L. Sousa, L. Agostini, C. Marcon
+  doi: 10.1109/MDAT.2019.2952342
+  title: Multicore Parallelism Exploration Targeting 3D-HEVC Intra-Frame Prediction
+  type: "Artigo Cient\xEDfico"
+  vehicle: "IEEE Design & Test of Computers (IEDT) \u2013 Qualis A2"
+  year: 2019
+- authors: G. Sanchez, M. Saldanha, R. Fernandes, R. Cataldo, L. Agostini, C. Marcon
+  doi: 10.1109/TCSI.2019.2929977
+  title:
+    3D-HEVC Bipartition Modes Encoder and Decoder Design Targeting High Resolution
+    Videos
+  type: "Artigo Cient\xEDfico"
+  vehicle: "IEEE Transactions on Circuits and Systems I (TCAS-I) \u2013 Qualis A1"
+  year: 2019
+- authors:
+    "Renata Medina-Silva, Rafael R. de Oliveira, Maria A.G. Pivel, Luiz G.A.\
     \ Borges, Taiz L.L. Sim\xE3o, Leandro M. Pereira, Fernanda J. Trindade, Adolpho\
     \ H. Augustin, Fernanda P. Valdez, Eduardo Eizirik, Laura R.P. Utz, Claudia Groposo,\
     \ Dennis J. Miller, Adriano R. Viana, Jo\xE3o M.M. Ketzer, Adriana Giongo"
   doi: http://dx.doi.org/10.1016/j.jmarsys.2017.10.008
-  title: Microbial diversity from chlorophyll maximum, oxygen minimum and bottom zones
+  title:
+    Microbial diversity from chlorophyll maximum, oxygen minimum and bottom zones
     in the  Southwestern Atlantic Ocean
-  type: "Artigo cient\xEDfico"
+  type: "Artigo Cient\xEDfico"
   vehicle: Journal of Marine Systems
   year: 2018
-- authors: Camille E. Granada, Camila Hasan, Munique Marder, Odorico Konrad, Luciano
+- authors:
+    "Renata Medina-Silva, Rafael R. Oliveira, Fernanda J. Trindade, Luiz G.\
+    \ A. Borges, Taiz L. Lopes Sim\xE3o, Adolpho H. Augustin, Fernanda P. Valdez .\
+    \ Marcelo J. Constant, Carolina L. Simundi, Eduardo Eizirik, Claudia Groposo,\
+    \ Dennis J. Miller, Priscila Reis da Silva, Adriano R. Viana, Jo\xE3o M. M. Ketzer,\
+    \ Adriana Giongo"
+  doi: https://doi.org/10.1007/s10482-017-0975-7
+  title:
+    Microbiota associated with tubes of Escarpia sp. from cold seeps in the outhwestern
+    Atlantic Ocean constitutes a community distinct from That of surrounding marine
+    sediment and water
+  type: "Artigo Cient\xEDfico"
+  vehicle: Journal of Microbiology Antonie van Leeuwenhock
+  year: 2018
+- authors:
+    Camille E. Granada, Camila Hasan, Munique Marder, Odorico Konrad, Luciano
     K. Vargas, Luciane M.P. Passaglia, Adriana Giongo, Rafael R. de Oliveira, Leandro
     de M. Pereira, Fernanda de Jesus Trindade, Raul A. Sperotto
   doi: https://doi.org/10.1016/j.renene.2017.11.077
-  title: Biogas from slaughterhouse wastewater anaerobic digestion is driven by the
+  title:
+    "Biogas from slaughterhouse wastewater anaerobic digestion is driven by the
     archaeal family Methanobacteriaceae And bacterial families Porphyromonadaceae
-    and Tissierellaceae
-  type: "Artigo cient\xEDfico"
+    and Tissierellaceae "
+  type: "Artigo Cient\xEDfico"
   vehicle: Journal Renewable Energy
   year: 2018
-- authors: "Luiz Gustavo dos Anjos Borges, Adriana Giongo, Leandro de Mattos Pereira,\
+- authors:
+    "Luiz Gustavo dos Anjos Borges, Adriana Giongo, Leandro de Mattos Pereira,\
     \ Fernanda J. Trindade, Tatiana Sch\xE4ffer Gregianini, Fabr\xEDcio Souza Campos,\
     \ Elodie Ghedin, Ana Beatriz Gorini da Veiga"
   doi: https://doi.org/10.1002/hsr2.47
-  title: "Comparison of the nasopharynx microbiome between  influenza and non\u2010\
+  title:
+    "Comparison of the nasopharynx microbiome between  influenza and non\u2010\
     influenza cases of severe  Acute respiratory infections: A pilot study"
-  type: "Artigo cient\xEDfico"
+  type: "Artigo Cient\xEDfico"
   vehicle: Wiley Online Library
   year: 2018
-- authors: "Caroline Krug Vieira, Luiz Gustavo dos Anjos Borges, Leticia Marconatto,\
+- authors:
+    "Caroline Krug Vieira, Luiz Gustavo dos Anjos Borges, Leticia Marconatto,\
     \ Adriana Giongo, Sidney Luiz St\xFCrmer"
   doi: https://doi.org/10.1016/j.apsoil.2018.07.011
-  title: Microbiome of a revegetated iron-mining site And pristine ecosystems from
+  title:
+    Microbiome of a revegetated iron-mining site And pristine ecosystems from
     the Brazilian Cerrado
-  type: "Artigo cient\xEDfico"
+  type: "Artigo Cient\xEDfico"
   vehicle: Journal Applied Soil Ecology
   year: 2018
-- authors: "Alexandre Kleber Silveira, Karla Suzana Moresco, Henrique Mautone Gomes,\
+- authors:
+    "Alexandre Kleber Silveira, Karla Suzana Moresco, Henrique Mautone Gomes,\
     \ Maur\xEDlio da Silva Morrone, Lucas Kich Grun, Daniel Pens Gelain, Leandro de\
     \ Mattos Pereira, Adriana Giongo, Rafael Rodrigues De Oliveira, Jos\xE9 Cl\xE1\
     udio Fonseca Moreira"
   doi: 10.1002/ptr.6185
-  title: Guarana (Paullinia cupana Mart.) alters gut microbiota And modulates redox
+  title:
+    Guarana (Paullinia cupana Mart.) alters gut microbiota And modulates redox
     status, partially via caffeine in Wistar rats
-  type: "Artigo cient\xEDfico"
+  type: "Artigo Cient\xEDfico"
   vehicle: Wiley Online Library
   year: 2018
-- authors: "Cl\xE1udio Marcos Lauer J\xFAnior, Aline Weber Medeiros, Adriana Giongo,\
+- authors:
+    "Cl\xE1udio Marcos Lauer J\xFAnior, Aline Weber Medeiros, Adriana Giongo,\
     \ Luiz Gustavo dos Anjos Borges, Derek Blaese de Amorin, Maur\xEDcio Tavares,\
     \ Jeverson Frazzon, Ana Paula Guedes Frazzon"
   doi: https://doi.org/10.1093/femsec/fiw029
-  title: Fecal eukaryotic community of wild young South American  (Arctocephalus australis)
+  title:
+    Fecal eukaryotic community of wild young South American  (Arctocephalus australis)
     and subantarctic fur seals (Arctocephalus tropicalis)
-  type: "Artigo cient\xEDfico"
+  type: "Artigo Cient\xEDfico"
   vehicle: Annals of Marine Biology and Research
   year: 2018
 - authors: "Alice Bordignon Vian, C\xE1ssio Stein Moura, Ivi Valentini Lara"
   doi: http://www.pucrs.br/edipucrs/ISSN:2175-6465
-  title: "Estudo de primeiros princ\xEDpios de nanoestruturas do tipo 2D como sensores\
+  title:
+    "Estudo de primeiros princ\xEDpios de nanoestruturas do tipo 2D como sensores\
     \ biol\xF3gicos"
   type: "Apresenta\xE7\xE3o em Evento"
-  vehicle: "Anais de 19\xBA edi\xE7\xE3o do Sal\xE3o de Inicia\xE7\xE3o Cient\xED\
+  vehicle:
+    "Anais de 19\xBA edi\xE7\xE3o do Sal\xE3o de Inicia\xE7\xE3o Cient\xED\
     fica [/Carla Denise Bonan, Fernanda Bueno Morrone, J\xFAlio C\xE9sar Bicca Marques\
     \ - Coordenadores. - Dados eletr\xF4nicos. - Porto Alegre: EDIPUCRS, 2019. Recurso\
     \ on-line."
   year: 2018
-- authors: "Nicollas Gon\xE7alves Cavedini, Caroline Machado Dartora, Ana Maria Marques\
+- authors:
+    "Nicollas Gon\xE7alves Cavedini, Caroline Machado Dartora, Ana Maria Marques\
     \ da Silva"
   doi: http://sisconev.com.br/uploads/CBFM2018/20180402194936000000203.pdf
-  title: "Estudo computacional de dosimetria interna em imagens e terapia com radiof\xE1\
+  title:
+    "Estudo computacional de dosimetria interna em imagens e terapia com radiof\xE1\
     rmacos"
-  type: Artigo Completo em Anais de Evento
-  vehicle: "Anais do Congresso Brasileiro de F\xEDsica M\xE9dica CBFM2018 (Meio eletr\xF4\
+  type: "Apresenta\xE7\xE3o em Congresso"
+  vehicle:
+    "Anais do Congresso Brasileiro de F\xEDsica M\xE9dica CBFM2018 (Meio eletr\xF4\
     nico)"
   year: 2018
-- authors: "Nicollas Gon\xE7alves Cavedini, Caroline Machado Dartora, Ana Maria Marques\
+- authors:
+    "Nicollas Gon\xE7alves Cavedini, Caroline Machado Dartora, Ana Maria Marques\
     \ da Silva"
   doi: http://doi.org/10.1007/978-981-10-9035-6_135
-  title: Radionuclide Internal Dosimetry Using GATE and PENELOPE for Experimental
+  title:
+    Radionuclide Internal Dosimetry Using GATE and PENELOPE for Experimental
     Validation in Geometrical Phantoms
-  type: Artigo Completo em Anais de Evento
-  vehicle: "IFMBE Proceedings, vol.68, n. 1, p. 731-735 (Meio eletr\xF4nico); World\
+  type: "Apresenta\xE7\xE3o em Congresso"
+  vehicle:
+    "IFMBE Proceedings, vol.68, n. 1, p. 731-735 (Meio eletr\xF4nico); World\
     \ Congress on Medical Physics and Biomedical Engineering 2018, Prague."
   year: 2018
 - authors: "Nicollas Gon\xE7alves Cavedini"
   doi: Artigo Impresso
-  title: Modelagem de um fantoma para dosimetria interna em iodoterapia no aplicativo
+  title:
+    Modelagem de um fantoma para dosimetria interna em iodoterapia no aplicativo
     GATE
   type: "Trabalho de Conclus\xE3o de Curso de Gradua\xE7\xE3o"
-  vehicle: "Em papel, apresentado em dezembro de 2018 (ser\xE1 enviado para a Revista\
+  vehicle:
+    "Em papel, apresentado em dezembro de 2018 (ser\xE1 enviado para a Revista\
     \ Brasileira de F\xEDsica M\xE9dica)"
   year: 2018
 - authors: R. Fernandes, G. Sanchez, R. Cataldo, T. Webber, C. Marcon
   doi: 10.1049/el.2018.6051
   title: Efficient HEVC intra-frame prediction using curved angular modes
-  type: "Artigo em peri\xF3dico"
+  type: "Artigo Cient\xEDfico"
   vehicle: Electronics Letters, 54 (21), pp. 1214-1216. (Qualis A1)
   year: 2018
-- authors: "K\xE1ssia G. H. Heinz, Patr\xEDcia R. S. Zanoni, Rafael R. Oliveira, Renata\
+- authors: R. Fernandes
+  doi: " "
+  title: Improving H.265 HEVC Encoding with Refined Intra-Frame Prediction Modes
+  type: Proposta de Tese
+  vehicle: " "
+  year: 2018
+- authors:
+    "F\xE1bio D.Rossi, Miguel G.Xavier, C\xE9sar A.F.De Rose, Rodrigo N.Calheiros\
+    \ e  RajkumarBuyyb"
+  doi: https://doi.org/10.1016/j.jnca.2016.10.024 / https://www.sciencedirect.com/science/article/pii/S1084804516302569?via%3Dihub
+  title: "E-eco: Performance-Aware Energy-Efficient Cloud Data Center Orchestration"
+  type: "Artigo Cient\xEDfico"
+  vehicle: "Journal of Network and Computer Applications. Qualis \u2013 A2"
+  year: 2017
+- authors:
+    "K\xE1ssia G. H. Heinz, Patr\xEDcia R. S. Zanoni, Rafael R. Oliveira, Renata\
     \ Medina-Silva, Taiz L. L. Sim\xE3o, Fernanda J. Trindade, Leandro M. Pereira,\
-    \ Lorena B. B. Tavares & Adriana Giongo"
+    \ Lorena B. B. Tavares & Adriana Giongo "
   doi: https://link.springer.com/article/10.1007/s12649-016-9792-x
-  title: Recycled Paper Sludge Microbial Community as a Potential Source of Cellulase
+  title:
+    Recycled Paper Sludge Microbial Community as a Potential Source of Cellulase
     and Xylanase Enzymes
-  type: "Artigo cient\xEDfico"
+  type: "Artigo Cient\xEDfico"
   vehicle: "Waste and Biomass Valorization volume 8, pages1907\u20131917 (2017)"
   year: 2017
-- authors: "Henrique V. Figueir\xF3, Gang Li, Fernanda J. Trindade, Juliana Assis,\
+- authors:
+    "Henrique V. Figueir\xF3, Gang Li, Fernanda J. Trindade, Juliana Assis,\
     \ Fabiano Pais, Gabriel Fernandes, Sarah H. D. Santos, Graham, M. Hughes, Aleksey\
     \ Komissarov, Agostinho Antunes, Cristine S. Trinca, Ma\xEDra R. Rodrigues, Tyler\
     \ Linderoth, Ke Bi, Leandro Silveira, Fernando C. C. Azevedo, Daniel Kantek ,\
@@ -1095,57 +1657,144 @@
     \ Sarag\xFCeta, Toni Gabald\xF3n, Emma C. Teeling, Stephen J. O\u2019Brien, Rasmus\
     \ Nielsen, Luiz L. Coutinho, Guilherme Oliveira, William J. Murphy e Eduardo Eizirik"
   doi: https://doi.org/10.1126/sciadv.1700299
-  title: Genome-wide signatures of complex introgression and adaptive evolution in
+  title:
+    Genome-wide signatures of complex introgression and adaptive evolution in
     the big cats
-  type: "Artigo cient\xEDfico"
+  type: "Artigo Cient\xEDfico"
   vehicle: SCIENCE ADVANCES, 19 Jul 2017, Vol 3, Issue 7, Qualis A1
   year: 2017
 - authors: Ezequiel P.Francisco, L.F.R.Espath, J.H.Silvestrini
   doi: https://www.sciencedirect.com/science/article/pii/S0307904X17301476
-  title: Direct numerical simulation of bi-disperse particle-laden gravity currents
+  title:
+    Direct numerical simulation of bi-disperse particle-laden gravity currents
     in the channel configuration
-  type: "Artigo cient\xEDfico"
+  type: "Artigo Cient\xEDfico"
   vehicle: Applied Mathematical Modelling
   year: 2017
-- authors: CALLEGARI, DANIEL ANTONIO; DIAS, Raquel. L. ; FEOLI, Ana. Maria ; ARAUJO,
+- authors:
+    CALLEGARI, DANIEL ANTONIO; DIAS, Raquel. L. ; FEOLI, Ana. Maria ; ARAUJO,
     M. O. ; HOFMEISTER, L.
   doi: https://sol.sbc.org.br/index.php/sbcas/article/view/3720
-  title: "NUTRIMOB KIDS - UM APLICATIVO PARA AVALIA\xC7\xC3O, PRESCRI\xC7\xC3O E MONITORAMENTO\
+  title:
+    "NUTRIMOB KIDS - UM APLICATIVO PARA AVALIA\xC7\xC3O, PRESCRI\xC7\xC3O E MONITORAMENTO\
     \ DA TERAPIA NUTRICIONAL ENTERAL DOMICILIAR EM PEDIATRIA"
-  type: "Artigo cient\xEDfico"
-  vehicle: "XXXVII Congresso da Sociedade Brasileira de Computa\xE7\xE3o - WIM - Workshop\
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "XXXVII Congresso da Sociedade Brasileira de Computa\xE7\xE3o - WIM - Workshop\
     \ de Inform\xE1tica M\xE9dica, 2017, S\xE3o Paulo. Anais do XXXVII congresso da\
     \ sociedade brasileira de computa\xE7\xE3o, 2017. p. 2030-2033."
   year: 2017
-- authors: DIAS, Raquel. L. ; FEOLI, Ana. Maria ; CALLEGARI, DANIEL ANTONIO ; ARAUJO,
+- authors:
+    DIAS, Raquel. L. ; FEOLI, Ana. Maria ; CALLEGARI, DANIEL ANTONIO ; ARAUJO,
     M. O.
   doi: https://www.researchgate.net/project/NutriMob-an-e-Health-system-to-support-Home-Enteral-Nutrition
-  title: 'NutriMob: An e-Health System to Support Home Enteral Nutrition Programs'
-  type: "Artigo cient\xEDfico"
-  vehicle: E-Health 2017 Annual Conference & Tradeshow, 2017, Toronto. E-Health 2017
+  title: "NutriMob: An e-Health System to Support Home Enteral Nutrition Programs"
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    E-Health 2017 Annual Conference & Tradeshow, 2017, Toronto. E-Health 2017
     Annual Conference & Tradeshow, 2017.
   year: 2017
-- authors: "Miguel G. Xavier,  F\xE1bio D. Rossi,  C\xE9sar A. F. De Rose,Rodrigo\
+- authors:
+    DARAUJO, M. O. ; FEOLI, Ana. Maria ; DIAS, Raquel. L. ; CALLEGARI, DANIEL
+    ANTONIO
+  doi: 10.5753/sbcas.2017.3720
+  title:
+    "NutriMob Kids - Um aplicativo para avalia\xE7\xE3o, prescri\xE7\xE3o e monitoramento\
+    \ da terapia nutricional enteral domiciliar em pediatria"
+  type: "Apresenta\xE7\xE3o em Evento"
+  vehicle: " "
+  year: 2017
+- authors:
+    "Miguel G. Xavier,  F\xE1bio D. Rossi,  C\xE9sar A. F. De Rose,Rodrigo\
     \ N. Calheiros e  Danielo G. Gomes"
   doi: http://onlinelibrary.wiley.com/doi/10.1002/cpe.3839/full
   title: Modeling and Simulation of ACPI G/S-states in Cloud Computing Environments
-  type: "Artigo cient\xEDfico"
+  type: "Artigo Cient\xEDfico"
   vehicle: "Wiley Online Library. Qualis \u2013 A1"
   year: 2016
-- authors: "Giongo, Adriana;  Haag, Taiana;  Sim\xE3o, Taiz L. Lopes;  Medina-Silva,\
+- authors:
+    "Giongo, Adriana;  Haag, Taiana;  Sim\xE3o, Taiz L. Lopes;  Medina-Silva,\
     \ Renata;  Utz, Laura R. P.; Bogo, Maur\xEDcio R.;  Bonatto, Sandro L.;  Zamberlan,\
     \ Priscilla M.;  Augustin, Adolpho H.; Lourega, Rog\xE9rio V.;  Rodrigues, Luiz\
     \ F.;  Sbrissa, Gesiane F.;  Kowsmann, Renato O.; Freire, Antonio F. M.;  Miller,\
     \ Dennis J.;  Viana, Adriano R.;  Ketzer, Jo\xE3o M. M.;  Eizirik, Eduardo"
   doi: http://adsabs.harvard.edu/abs/2016DSRI..112...45G
-  title: Discovery of a chemosynthesis-based community in the western South Atlantic
+  title:
+    Discovery of a chemosynthesis-based community in the western South Atlantic
     Ocean
-  type: "Artigo cient\xEDfico"
+  type: "Artigo Cient\xEDfico"
   vehicle: Deep-Sea Research Part I, Volume 112, p. 45-56.
+  year: 2016
+- authors:
+    "HEINZ, K\xC1SSIA G. H.; ZANONI, PATR\xCDCIA R. S.; OLIVEIRA, RAFAEL R.;\
+    \ MEDINA-SILVA, RENATA; SIM\xC3O, TAIZ L. L.; TRINDADE, FERNANDA J.; PEREIRA,\
+    \ LEANDRO M.; TAVARES, LORENA B. B.; GIONGO, ADRIANA."
+  doi: " "
+  title:
+    Recycled Paper Sludge Microbial Community as a Potential Source of Cellulase
+    and Xylanase Enzymes
+  type: "Artigo Cient\xEDfico"
+  vehicle: "Waste and Biomass Valorization, v. x, p. 1-11, 2016.  "
+  year: 2016
+- authors:
+    "TRINDADE, F. J.; RODRIGUES, M. R.; FIGUEIRO, H. V.; LI, G.; MURPHY, W.;
+    EIZIRIK, E. "
+  doi: " "
+  title:
+    "Hibrida\xE7\xE3o e rela\xE7\xF5es filogen\xE9ticas em felinos neotropicais\
+    \ do g\xEAnero Leopardus"
+  type: "Apresenta\xE7\xE3o em Evento"
+  vehicle: " "
+  year: 2016
+- authors:
+    MEDINA-SILVA, R.; GIONGO, A.; HEINZ, K. G. H.; ZANONI, P. R. S.; OLIVEIRA,
+    R. R.; PEREIRA, L. M.; TRINDADE, F. J.; SIMAO, T. L. L.; TAVARES, L. B. B.
+  doi: " "
+  title: "Fungi community from paper and pulp industry sludge: a metabarcoding approach. "
+  type: "Apresenta\xE7\xE3o em Congresso"
+  vehicle: " "
+  year: 2016
+- authors: "SANTOS, S. H. D.; EIZIRIK, E.   "
+  doi: " "
+  title:
+    "An\xE1lise comparativa de m\xE9todos de montagem do genoma mitocondrial\
+    \ aplicados a estudos com on\xE7a-pintada.  "
+  type: "Apresenta\xE7\xE3o em Evento"
+  vehicle: " "
+  year: 2016
+- authors: "SANTOS, S. H. D.; EIZIRIK, E.    "
+  doi: " "
+  title:
+    "Montagem e an\xE1lise do genoma mitocondrial de indiv\xEDduos de on\xE7\
+    a-pintada (Panthera onca)   "
+  type: "Apresenta\xE7\xE3o em Evento"
+  vehicle: " "
+  year: 2016
+- authors: "Henrique Vieira Figueir\xF3, Rasmus Nielsen"
+  doi: " "
+  title:
+    " Hist\xF3ria Evolutiva e Diversidade Gen\xF4mica de Panthera onca (Linnaeus,\
+    \ 1758). "
+  type: "Doutorado em Bioci\xEAncias (Zoologia) - (Conceito CAPES 6) /"
+  vehicle:
+    "Pontif\xEDcia Universidade Cat\xF3lica do Rio Grande do Sul, PUCRS, Brasil.\
+    \ Per\xEDodo sandu\xEDche em University of California, Berkeley"
+  year: 2016
+- authors: "Ta\xEDz Lopes, Eric Triplett  "
+  doi: " "
+  title:
+    " Caracteriza\xE7\xE3o por DNA metabarcoding da biodiversidade de ambientes\
+    \ neotropicais: investiga\xE7\xE3o das comunidades presentes em fitotelmos de\
+    \ brom\xE9lias e sedimentos marinhos. "
+  type: "Doutorado em Bioci\xEAncias (Zoologia) - (Conceito CAPES 6) /"
+  vehicle:
+    "Pontif\xEDcia Universidade Cat\xF3lica do Rio Grande do Sul, PUCRS, Brasil.\
+    \ Per\xEDodo sandu\xEDche em University of Florida. "
   year: 2016
 - authors: "Figueir\xF3, Henrique Vieira e Eizirik, Eduardo"
   doi: https://tede2.pucrs.br/tede2/handle/tede/7248
-  title: "An\xE1lises gen\xF4micas da on\xE7a-pintada (Panthera onca) : caracteriza\xE7\
+  title:
+    "An\xE1lises gen\xF4micas da on\xE7a-pintada (Panthera onca) : caracteriza\xE7\
     \xE3o do genoma completo e investiga\xE7\xE3o de regi\xF5es sob sele\xE7\xE3o\
     \ atrav\xE9s de compara\xE7\xF5es interespec\xEDficas e populacionais"
   type: Tese de Doutorado
@@ -1153,193 +1802,399 @@
   year: 2016
 - authors: Martins, Jefferson Santana
   doi: http://repositorio.pucrs.br/dspace/handle/10923/8176?locale=en / http://hdl.handle.net/10923/8176
-  title: 'Image Reconstruction Using Simulated Annealing in Electrical Impedance Tomography:
-    A New Approach Inverse Problems in Science and Engineering'
+  title:
+    "Image Reconstruction Using Simulated Annealing in Electrical Impedance Tomography:
+    A New Approach Inverse Problems in Science and Engineering"
   type: Tese Doutorado
   vehicle: Instituitional Repository PUCRS
   year: 2016
 - authors: Schuch, Felipe Nornberg
   doi: http://repositorio.pucrs.br/dspace/handle/10923/9584 / http://hdl.handle.net/10923/9584
-  title: "An\xE1lise de pluma hiperpicnal poli-disoersa por simula\xE7\xE3o num\xE9\
+  title:
+    "An\xE1lise de pluma hiperpicnal poli-disoersa por simula\xE7\xE3o num\xE9\
     rica direta"
   type: "Disserta\xE7\xE3o de Mestrado"
   vehicle: Instituitional Repository PUCRS
   year: 2016
-- authors: ' Farenzena, Bruno Avila'
+- authors: " Farenzena, Bruno Avila"
   doi: http://tede2.pucrs.br/tede2/handle/tede/6729
   title: "An\xE1lise de estabilidade linear em plumas hipopicnais"
   type: "Disserta\xE7\xE3o de Mestrado"
-  vehicle: "Tede \u2013 Sistema de Publica\xE7\xE3o Elet\xF4nica de Teses e Disserta\xE7\
+  vehicle:
+    "Tede \u2013 Sistema de Publica\xE7\xE3o Elet\xF4nica de Teses e Disserta\xE7\
     \xF5es"
   year: 2016
 - authors: CALLEGARI, DANIEL ANTONIO; DIAS, Raquel. L. ; FEOLI, Ana. Maria
   doi: https://www.nutrimob.com.br/sobre.html
-  title: "NutriMob - WebSite e Aplicativo para Avalia\xE7\xE3o, Prescri\xE7\xE3o e\
+  title:
+    "NutriMob - WebSite e Aplicativo para Avalia\xE7\xE3o, Prescri\xE7\xE3o e\
     \ Monitoramento da Terapia Nutricional Enteral Domiciliar"
-  type: "Artigo cient\xEDfico"
-  vehicle: "IV ERCAS - Escola Regional de Computa\xE7\xE3o Aplicada \xE0 Sa\xFAde,\
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "IV ERCAS - Escola Regional de Computa\xE7\xE3o Aplicada \xE0 Sa\xFAde,\
     \ 2016. Anais IV ERCAS - Escola Regional de Computa\xE7\xE3o Aplicada \xE0 Sa\xFA\
     de, 2016."
   year: 2016
+- authors:
+    DARAUJO, M. O. ; FEOLI, Ana. Maria ; DIAS, Raquel. L. ; CALLEGARI, DANIEL
+    ANTONIO
+  doi: " "
+  title:
+    "NutriMob - Aplicativo para Avalia\xE7\xE3o, Prescri\xE7\xE3o e Monitoramento\
+    \ da Terapia Nutricional Enteral Domiciliar"
+  type: "Apresenta\xE7\xE3o em Evento"
+  vehicle: "17o Sal\xE3o de Inicia\xE7\xE3o Cient\xEDfica da PUCRS, 2016."
+  year: 2016
+- authors:
+    DARAUJO, M. O. ; FEOLI, Ana. Maria ; DIAS, Raquel. L. ; CALLEGARI, DANIEL
+    ANTONIO
+  doi: " "
+  title:
+    "NutriMob - WebSite e Aplicativo para Avalia\xE7\xE3o, Prescri\xE7\xE3o e\
+    \ Monitoramento da Terapia Nutricional Enteral Domiciliar"
+  type: "Apresenta\xE7\xE3o em Evento"
+  vehicle:
+    "IV ERCAS - Escola Regional de Computa\xE7\xE3o Aplicada \xE0 Sa\xFAde,\
+    \ 2016."
+  year: 2016
 - authors: "Fran\xE7a, Rodrigo Paz"
   doi: http://repositorio.pucrs.br:8080/dspace/handle/10923/8346 / http://hdl.handle.net/10923/8346
-  title: "T\xE9cnicas de localiza\xE7\xE3o para um ve\xEDculo aqu\xE1tico baseadas\
+  title:
+    "T\xE9cnicas de localiza\xE7\xE3o para um ve\xEDculo aqu\xE1tico baseadas\
     \ em mapas batim\xE9tricos e filtro de part\xEDculas"
-  type: "Disserta\xE7\xE3o mestrado"
+  type: "Disserta\xE7\xE3o de Mestrado"
   vehicle: Instituitional Repository PUCRS
   year: 2016
 - authors: Carlos Moser, Andrea Da Ronch
   doi: https://www.eccomas2016.org/proceedings/pdf/8111.pdf
   title: An outflow buffer zone based on the jet mean flow self-similarity
-  type: "Artigo cient\xEDfico"
+  type: "Artigo Cient\xEDfico"
   vehicle: ECCOMAS Congress 2016
   year: 2016
-- authors: ' L. Espath, E. Francisco, C. Moser, S. Laizet e  J. Silvestrini'
+- authors: " L. Espath, E. Francisco, C. Moser, S. Laizet e  J. Silvestrini"
   doi: http://www.earthdoc.org/publication/publicationdetails/?publication=84372
   title: Particle-laden Gravity Currents in Non-axisymmetric Lock-exchange Configurations
-  type: "Artigo cient\xEDfico"
+  type: "Artigo Cient\xEDfico"
   vehicle: Second Conference on Forward Modelling of Sedimentary Systems
   year: 2016
-- authors: "Pedro Costa Klein, Ricardo Bernardi Soder, Jefferson Becker, Alexandre\
+- authors:
+    "Pedro Costa Klein, Ricardo Bernardi Soder, Jefferson Becker, Alexandre\
     \ Rosa Franco e M\xE1rcio Sarroglia Pinho"
   doi: https://doi.org/10.1145/2851613.2851938 / https://dl.acm.org/citation.cfm?doid=2851613.2851938
-  title: An automatic method for multiple sclerosis lesion detection in fluid attenuated
-    inversion recovery magnetic resonance images
-  type: "Artigo cient\xEDfico"
+  title:
+    "An automatic method for multiple sclerosis lesion detection in fluid attenuated
+    inversion recovery magnetic resonance images "
+  type: "Artigo Cient\xEDfico"
   vehicle: SAC '16 Proceedings of the 31st Annual ACM Symposium on Applied Computing
   year: 2016
+- authors:
+    Fabiano Ricardo Farias,  Pedro Costa Klein, Ricardo Bernardi Soder,  Jefferson
+    Becker e Marcio Sarroglia Pinho
+  doi: https://doi.org/10.1109/COMPSAC.2016.159 / https://ieeexplore.ieee.org/document/7552297/authors#authors
+  title: MRI Interpolation for Multiple Sclerosis Lesion Quantification
+  type: "Artigo Cient\xEDfico"
+  vehicle: 2016 IEEE 40th Annual Computer Software and Applications Conference (COMPSAC)
+  year: 2016
 - authors: Marcelo Veiga Neves,  Cesar A.F. De Rose e Kostas Katrinis
-  doi: https://doi.org/10.1109/MASCOTS.2015.36) / https://ieeexplore.ieee.org/document/7330188?arnumber=7330188
-  title: 'MRemu: An Emulation-based Framework for Datacenter Network Experimentation
-    using Realistic MapReduce Traffic'
-  type: "Artigo cient\xEDfico"
-  vehicle: "23rd International Symposium on Modeling, Analysis, and Simulation of\
+  doi: https://doi.org/10.1109/MASCOTS.2015.36 / https://ieeexplore.ieee.org/document/7330188?arnumber=7330188
+  title:
+    "MRemu: An Emulation-based Framework for Datacenter Network Experimentation
+    using Realistic MapReduce Traffic"
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "23rd International Symposium on Modeling, Analysis, and Simulation of\
     \ Computer and Telecommunication Systems. Qualis \u2013 B1"
   year: 2015
-- authors: "F\xE1bio Diniz Rossi, Mauro Storch, Israel de Oliveira e C\xE9sar A.F.\
+- authors: "Mauro Storch, C\xE9sar de Rose, Avelino Zorzo e R\xE9gio Michelin"
+  doi: http://www.thinkmind.org/index.php?view=article&articleid=icn_2015_6_50_30156
+  title: Multi channel Secure Interconnection Design for Hybrid Clouds
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "ICN 2015, The Fourteenth International Conference on Networks. Qualis\
+    \ \u2013 B1"
+  year: 2015
+- authors:
+    "F\xE1bio Diniz Rossi, Mauro Storch, Israel de Oliveira e C\xE9sar A.F.\
     \ De Rose"
   doi: http://ieeexplore.ieee.org/document/7169024/?arnumber=7169024
   title: Modeling Power Consumption for DVFS Policies
-  type: "Artigo cient\xEDfico"
-  vehicle: " 2015 IEEE International Symposium on Circuits and Systems (ISCAS). Qualis\
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    " 2015 IEEE International Symposium on Circuits and Systems (ISCAS). Qualis\
     \ \u2013 B1"
   year: 2015
 - authors: "F\xE1bio D. Rossi, Miguel G. Xavier, Yuri J. Monti, C\xE9sar A.F. De Rose"
   doi: http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7092694
   title: On the impact of energy-efficient strategies in HPC clusters
-  type: "Artigo cient\xEDfico"
-  vehicle: "23rd Euromicro International Conference on Parallel, Distributed, and\
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "23rd Euromicro International Conference on Parallel, Distributed, and\
     \ Network-Based Processing. Qualis \u2013 B1"
   year: 2015
-- authors: "F\xE1bio Rossi, Israel de Oliveira, C\xE9sar De Rose, Rodrigo Calheiros\
+- authors:
+    "F\xE1bio Rossi, Israel de Oliveira, C\xE9sar De Rose, Rodrigo Calheiros\
     \ e Rajkumar Buyya"
   doi: http://www.thinkmind.org/index.php?view=article&articleid=icn_2015_7_30_30151
-  title: Non-Invasive Estimation of Cloud Applications Performance via Hypervisor's
+  title:
+    Non-Invasive Estimation of Cloud Applications Performance via Hypervisor's
     Operating Systems Counters
-  type: "Artigo cient\xEDfico"
-  vehicle: " ICN 2015, The Fourteenth International Conference on Networks . Qualis\
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    " ICN 2015, The Fourteenth International Conference on Networks . Qualis\
     \ \u2013 A1"
+  year: 2015
+- authors: "FIGUEIRO, H. V.; TRINDADE, F. J.; LI, G.; MURPHY, W.; EIZIRIK, E. "
+  doi: " "
+  title: Evolutionary Analysis of the Jaguar Genome
+  type: "Apresenta\xE7\xE3o em Congresso"
+  vehicle: " "
+  year: 2015
+- authors: "TRINDADE, F. J. "
+  doi: " "
+  title:
+    "An\xE1lise computacional de resultados de metagen\xF4mica obtidos atrav\xE9\
+    s de sequenciamento de alto desempenho. "
+  type: "Apresenta\xE7\xE3o em Evento"
+  vehicle: " "
+  year: 2015
+- authors: "TRINDADE, F. J.; FIGUEIRO, H. V.; EIZIRIK, E. "
+  doi: " "
+  title:
+    "Abordagem gen\xF4mica aplicada ao estudo da evolu\xE7\xE3o adaptativa dos\
+    \ grandes felinos (Panthera spp.)"
+  type: "Apresenta\xE7\xE3o em Evento"
+  vehicle: " "
+  year: 2015
+- authors: "TRINDADE, F. J.; FIGUEIRO, H. V.; EIZIRIK, E. "
+  doi: " "
+  title:
+    "Discord\xE2ncia geneal\xF3gica e evolu\xE7\xE3o adaptativa dos grandes felinos\
+    \ (Panthera spp.) "
+  type: "Apresenta\xE7\xE3o em Evento"
+  vehicle: " "
+  year: 2015
+- authors: "TRINDADE, F. J.; FIGUEIRO, H. V.; EIZIRIK, E. "
+  doi: " "
+  title:
+    "Estrutura e hist\xF3ria evolutiva da maior transloca\xE7\xE3o de mtDNA para\
+    \ o genoma nuclear dos grandes felinos (Panthera spp.)"
+  type: "Apresenta\xE7\xE3o em Evento"
+  vehicle: " "
+  year: 2015
+- authors: "SANTOS, S. H. D.; EIZIRIK, E.   "
+  doi: " "
+  title:
+    " Investiga\xE7\xE3o de Assinaturas de Sele\xE7\xE3o no Genoma de Esp\xE9\
+    cies do G\xEAnero Panthera  "
+  type: "Apresenta\xE7\xE3o em Evento"
+  vehicle: " "
+  year: 2015
+- authors: Manuel Escalona
+  doi: " "
+  title:
+    " Hist\xF3ria evolutiva e din\xE2mica demogr\xE1fica de Cavia intermedia\
+    \ e de sua esp\xE9cie-irm\xE3 Cavia magna atrav\xE9s de abordagem gen\xF4mica"
+  type: "Mestrado em Bioci\xEAncias (Zoologia) - (Conceito CAPES 6) /"
+  vehicle: "Pontif\xEDcia Universidade Cat\xF3lica do Rio Grande do Sul, PUCRS, Brasil"
   year: 2015
 - authors: L. F. R. Espath, L. C. Pinto, S. Laizet, e  J. H. Silvestrini
   doi: https://doi.org/10.1063/1.4921191
-  title: High-fidelity simulations of the lobe-and-cleft structures and the deposition
+  title:
+    High-fidelity simulations of the lobe-and-cleft structures and the deposition
     map in particle-driven gravity currents
-  type: "Artigo cient\xEDfico"
+  type: "Artigo Cient\xEDfico"
   vehicle: Physics of Fluids 27, 056604 (2015)
+  year: 2015
+- authors: Dr Andrea da Ronch e Prof Carlos Moser
+  doi: http://www.fapesp.br/en/9894
+  title:
+    An outflow buffer zone based on the far-field self-similarity of high-Reynolds-number
+    subsonic turbulent jet flows
+  type: "Artigo Cient\xEDfico"
+  vehicle: The UK Academies/CONFAP - Fellowship and Research Mobility
   year: 2015
 - authors: "Vanderson Dill, Alexandre Rosa Franco e  M\xE1rcio Sarroglia Pinho"
   doi: https://doi.org/10.1007/s12021-014-9243-4 / https://link.springer.com/article/10.1007%2Fs12021-014-9243-4#aboutcontent
-  title: 'Automated Methods for Hippocampus Segmentation: the Evolution and a Review
-    of the State of the Art'
-  type: "Artigo cient\xEDfico"
+  title:
+    "Automated Methods for Hippocampus Segmentation: the Evolution and a Review
+    of the State of the Art"
+  type: "Artigo Cient\xEDfico"
   vehicle: Springer Link
   year: 2015
-- authors: R. Dias, M. G. Xavier, F. D. Rossi, M. V. Neves, T. A. P. Lange, A. Giongo,
+- authors:
+    "Miguel G. Xavier, Israel C. De Oliveira, Fabio D. Rossi, Robson D. Dos\
+    \ Passos, Kassiano J. Matteussi e C\xE9sar A.F. De Rose"
+  doi: http://ieeexplore.ieee.org/document/7092729
+  title:
+    A Performance Isolation Analysis of Disk-intensive Workloads on Container-based
+    Clouds
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "2015 23rd Euromicro International Conference on Parallel, Distributed,\
+    \ and Network-Based Processing. Qualis \u2013 B1"
+  year: 2015
+- authors:
+    R. Dias, M. G. Xavier, F. D. Rossi, M. V. Neves, T. A. P. Lange, A. Giongo,
     C. A. F. De Rose and E. W. Triplett
   doi: http://www.worldscientific.com/doi/abs/10.1142/S0219720014500139
-  title: 'MPI-blastn and NCBI-TaxCollector: Improving metagenomic analysis with high
-    performance classification and wide taxonomic attachment'
-  type: "Artigo cient\xEDfico"
+  title:
+    "MPI-blastn and NCBI-TaxCollector: Improving metagenomic analysis with high
+    performance classification and wide taxonomic attachment"
+  type: "Artigo Cient\xEDfico"
   vehicle: "Journal of Bioinformatics and Computational Biology. Qualis \u2013 B1"
   year: 2014
-- authors: "F\xE1bio Diniz Rossi, Miguel Gomes Xavier, Endrigo D\u2019Agosini Conte,\
+- authors:
+    "F\xE1bio Diniz Rossi, Miguel Gomes Xavier, Endrigo D\u2019Agosini Conte,\
     \ Tiago Ferreto e C\xE9sar A.F. De Rose"
   doi: http://dx.doi.org/10.1109/ISCC.2014.6912565 / https://ieeexplore.ieee.org/document/6912565
   title: Green software development for multicore architectures
-  type: "Artigo cient\xEDfico"
-  vehicle: "2014 IEEE Symposium on Computers and Communications (ISCC). Qualis \u2013\
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "2014 IEEE Symposium on Computers and Communications (ISCC). Qualis \u2013\
     \ A2"
   year: 2014
 - authors: "R\xE9gio A. Michelin,  Avelino F. Zorzo e  Cesar A. De Rose"
   doi: https://doi.org/10.1109/ICITST.2014.7038787 / https://ieeexplore.ieee.org/document/7038787
   title: Mitigating DoS to authenticated cloud REST APIs
-  type: "Artigo cient\xEDfico"
-  vehicle: " The 9th International Conference for Internet Technology and Secured\
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    " The 9th International Conference for Internet Technology and Secured\
     \ Transactions (ICITST-2014). Qualis \u2013 A1"
   year: 2014
-- authors: "Marcelo Veiga Neves,  C\xE9sar A.F. De Rose,  Kostas Katrinis e  Hubertus\
+- authors:
+    "Marcelo Veiga Neves,  C\xE9sar A.F. De Rose,  Kostas Katrinis e  Hubertus\
     \ Franke"
   doi: http://dx.doi.org/10.1109/IPDPS.2014.20 / https://ieeexplore.ieee.org/document/6877244?arnumber=6877244
-  title: 'Pythia: Faster Big Data in Motion through Predictive Software-Defined Network
-    Optimization at Runtime'
-  type: "Artigo cient\xEDfico"
-  vehicle: "2014 IEEE 28th International Parallel and Distributed Processing Symposium.\
+  title:
+    "Pythia: Faster Big Data in Motion through Predictive Software-Defined Network
+    Optimization at Runtime"
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "2014 IEEE 28th International Parallel and Distributed Processing Symposium.\
     \ Qualis \u2013 B1"
   year: 2014
-- authors: "F\xE1bio Diniz Rossi, Marcelo da Silva Conterato, Tiago Coelho Ferreto\
+- authors:
+    "F\xE1bio Diniz Rossi, Marcelo da Silva Conterato, Tiago Coelho Ferreto\
     \ e C\xE9sar Augusto Fonticielha De Rose"
-  doi: http://www.thinkmind.org/index.php?view=article&articleid=icn_2014_11_40_30196
+  doi:
+    http://www.thinkmind.org/index.php?view=article&articleid=icn_2014_11_40_30196
     / http://www.thinkmind.org/index.php?view=article&articleid=icn_2014_11_40_30196
-  title: Evaluating the trade-off between DVFS energy-savings and virtual networks
+  title:
+    Evaluating the trade-off between DVFS energy-savings and virtual networks
     performance
-  type: "Artigo cient\xEDfico"
-  vehicle: " ICN 2014, The Thirteenth International Conference on Networks . Qualis\
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    " ICN 2014, The Thirteenth International Conference on Networks . Qualis\
     \ \u2013 B1"
   year: 2014
-- authors: Miguel Gomes Xavier,  Marcelo Veiga Neves e  Cesar Augusto Fonticielha
+- authors:
+    Miguel Gomes Xavier,  Marcelo Veiga Neves e  Cesar Augusto Fonticielha
     De Rose
   doi: http://ieeexplore.ieee.org/document/6787290/
-  title: A performance comparison of container-based virtualization systems for MapReduce
+  title:
+    A performance comparison of container-based virtualization systems for MapReduce
     clusters
-  type: "Artigo cient\xEDfico"
-  vehicle: " 2014 22nd Euromicro International Conference on Parallel, Distributed,\
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    " 2014 22nd Euromicro International Conference on Parallel, Distributed,\
     \ and Network-Based Processing. Qualis \u2013 B1"
   year: 2014
 - authors: "Taciano Perez,  Ney Laert Vilar Calazans e  C\xE9sar A.F.De Rose"
-  doi: https://ieeexplore.ieee.org/document/6787290http://www.sciencedirect.com/science/article/pii/S0026269213002589
+  doi:
+    https://ieeexplore.ieee.org/document/6787290http://www.sciencedirect.com/science/article/pii/S0026269213002589
     / https://www.sciencedirect.com/science/article/pii/S0026269213002589
   title: System-level Impacts of Persistent Main Memory Using a Search Engine
-  type: "Artigo cient\xEDfico"
+  type: "Artigo Cient\xEDfico"
   vehicle: " Microelectronics Journal. Qualis \u2013 B1"
+  year: 2014
+- authors: "TRINDADE, F. J.; HEIDTMANN, L. M.; FIGUEIRO, H. V.; EIZIRIK, E. "
+  doi: " "
+  title:
+    "Valida\xE7\xE3o da Utiliza\xE7\xE3o de Dados de RNA-Seq para Montagem de\
+    \ Genomas Mitocondriais. "
+  type: "Apresenta\xE7\xE3o em Evento"
+  vehicle: " "
+  year: 2014
+- authors: "TRINDADE, F. J.; FIGUEIRO, H. V.; EIZIRIK, E. "
+  doi: " "
+  title:
+    "Investiga\xE7\xE3o de assinaturas de sele\xE7\xE3o natural em regi\xF5es\
+    \ codificantes do genoma da on\xE7a-pintada (Panthera onca)"
+  type: "Apresenta\xE7\xE3o em Evento"
+  vehicle: " "
   year: 2014
 - authors: Francisco, Ezequiel Pelisoli
   doi: http://repositorio.pucrs.br/dspace/handle/10923/5812 / http://hdl.handle.net/10923/5812
-  title: "Simula\xE7\xE3o Matem\xE1tica e simula\xE7\xE3o num\xE9rica direta de correntes\
+  title:
+    "Simula\xE7\xE3o Matem\xE1tica e simula\xE7\xE3o num\xE9rica direta de correntes\
     \ de gravidade poli-dispersas"
   type: "Disserta\xE7\xE3o de Mestrado"
   vehicle: Instituitional Repository PUCRS
   year: 2014
 - authors: L.F.R.Espatha, L.C.Pinto, S.Laizet e J.H.Silvestrinia
   doi: https://doi.org/10.1016/j.cageo.2013.10.006
-  title: Two- and three-dimensional Direct Numerical Simulation of particle-laden
+  title:
+    Two- and three-dimensional Direct Numerical Simulation of particle-laden
     gravity currents
-  type: "Artigo cient\xEDfico"
+  type: "Artigo Cient\xEDfico"
   vehicle: Computers & Geosciences
   year: 2014
+- authors:
+    "HEIDTMANN, L. M.; FIGUEIR\xD3, Henrique Vieira; COUTINHO, L. L.; Eizirik,\
+    \ E."
+  doi: " "
+  title:
+    THE COMPLETE MITOCHONDRIAL GENOME OF THE JAGUAR (PANTHERA ONCA) ENABLES COMPARATIVE
+    ANALYSES ACROSS ALL SPECIES IN GENUS PANTHERA
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "Congresso Brasileiro de Gen\xE9tica, 2013, \xC1guas de Lind\xF3ia. Resumos\
+    \ do 59\xBA Congresso Brasileiro de Gen\xE9tica, 2013. "
+  year: 2013
+- authors:
+    "TRINDADE, F. J.; FIGUEIR\xD3, Henrique Vieira; VILLELA, P. M. S.; GASPARIN,\
+    \ G.; ANDRADE, S. C. S.; COUTINHO, L. L.; Eizirik, E. "
+  doi: " "
+  title:
+    INVESTIGATION OF NATURAL SELECTION SIGNATURES IN CODING REGIONS OF THE JAGUAR
+    (PANTHERA ONCA) GENOME
+  type: "Artigo Cient\xEDfico"
+  vehicle:
+    "Congresso Brasileiro de Gen\xE9tica, 2013, \xC1guas de Lind\xF3ia. Resumos\
+    \ do 59\xBA Congresso Brasileiro de Gen\xE9tica, 2013. "
+  year: 2013
+- authors: "TRINDADE, F. J.; FIGUEIRO, H. V.; EIZIRIK, E.  "
+  doi: " "
+  title: "Caracteriza\xE7\xE3o Gen\xF4mica da On\xE7a-pintada (Panthera onca)"
+  type: "Apresenta\xE7\xE3o em Evento"
+  vehicle: " "
+  year: 2013
+- authors: "TRINDADE, F. J.; FIGUEIRO, H. V.; EIZIRIK, E.  "
+  doi: " "
+  title:
+    "Desenvolvimento de pipeline para Investiga\xE7\xE3o de Sele\xE7\xE3o Natural\
+    \ em Regi\xF5es Gen\xF4micas Codificantes. "
+  type: "Apresenta\xE7\xE3o em Evento"
+  vehicle: " "
+  year: 2013
 - authors: Carlos A.S. Moser e Marcello A.F. Medeiros
   doi: http://www.abcm.org.br/anais/cobem/2013/PDF/1538.pdf
-  title: Analysis of jet shear layer self-sustained instability effects on the inflow
+  title:
+    Analysis of jet shear layer self-sustained instability effects on the inflow
     condition
-  type: "Artigo cient\xEDfico"
+  type: "Artigo Cient\xEDfico"
   vehicle: 22nd International Congress of Mechanical Engineering (COBEM 2013)
   year: 2013
-- authors: Zaher, Hussam; GRAZZIOTIN, Felipe Gobbi; Cadle, John E.; Murphy, Robert
-    W.; Moura-Leite, Julio Cesar de; Bonatto, Sandro L.
+- authors:
+    "Zaher, Hussam; GRAZZIOTIN, Felipe Gobbi; Cadle, John E.; Murphy, Robert
+    W.; Moura-Leite, Julio Cesar de; Bonatto, Sandro L.    "
   doi: https://doi.org/10.1590/S0031-10492009001100001
-  title: ' Molecular phylogeny of advanced snakes (Serpentes, Caenophidia) with an
+  title:
+    " Molecular phylogeny of advanced snakes (Serpentes, Caenophidia) with an
     emphasis on South American Xenodontines: a revised classification and descriptions
-    of new taxa.'
+    of new taxa."
   type: "Artigo Cient\xEDfico"
-  vehicle: "Pap\xE9is Avulsos de Zoologia (USP. Museu de Zoologia. Impresso), v. 49,\
+  vehicle:
+    "Pap\xE9is Avulsos de Zoologia (USP. Museu de Zoologia. Impresso), v. 49,\
     \ p. 115-153, 2009."
   year: 2009

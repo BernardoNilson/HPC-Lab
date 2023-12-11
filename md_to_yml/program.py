@@ -8,13 +8,12 @@ def extract_publications(markdown_file):
     publications = []
     publication_pattern = re.compile(
         r'• Tipo de produção: (.+) \((\d{4})\)\n'
-        # r'• Tipo de produção: (.+)\n'
         r'• Autor\(es\): (.+)\n'
         r'• Título do trabalho: (.+)\n'
         r'• Veículo de publicação com indicação de Qualis: (.+)\n'
         r'• Link DOI: (.+)\n'
     )
-
+    # • Tipo de produção: (.+) \((\d{4})\)\n• Autor\(es\): (.+)\n• Título do trabalho: (.+)\n• Veículo de publicação com indicação de Qualis: (.+)\n• Link DOI: (.+)\n
     # print(publication_pattern.findall(content))
 
     for publication in publication_pattern.findall(content):
