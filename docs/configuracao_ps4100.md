@@ -221,3 +221,30 @@ Trocamos o IP Address do membro pelo IP Address do grupo, e vice-versa.
   
 Vídeos:
 Configura o Storage pelo KITTY
+
+Adicionar ISCSI > Datacenter > Storage > Add > ISCSI
+ID: ps4100
+Portal: 172.17.1.82
+Target: Único disponível > Add
+
+Adicionar LVM > Datacenter > Storage > Add > LVM
+ID: vgps4100
+Base storage: ps4100 (ISCSI)
+Base volume: Unico disponivel
+Volume group: vgps4100
+Content: Disk Image, Container > Add
+
+Criar VM > Botão direiro na "nimbus04" : Create VM
+Name: KNetData > Next
+Seleciona a ISO desejada no Storage local > Next
+System: Tudo padrão > Next
+Storage: vgps4100
+Disk size: 250GB > Next
+Sockets: 1
+Cores: 2 
+Type: host > Next
+Memory: 8192 > Next
+Bridge: vmbr2 (dmz) > Next > Finish
+
+
+
