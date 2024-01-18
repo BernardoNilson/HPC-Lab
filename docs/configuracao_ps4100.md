@@ -244,7 +244,8 @@ Sockets: 1
 Cores: 2 
 Type: host > Next
 Memory: 8192 > Next
-Bridge: vmbr2 (dmz) > Next > Finish
+Bridge: vmbr2 (dmz) > Next > Finishg
+
 
 
 
