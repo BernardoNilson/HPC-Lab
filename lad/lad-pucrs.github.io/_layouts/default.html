@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- HEAD DA PÁGINA -->
+{% include head.html %}
+
+<body>
+
+    <!-- NAVEGAÇÃO DO SITE -->
+    {% include header.html %}
+
+    <!-- CORPO PRINCIPAL -->
+    <div class="main mx-auto py-3">
+        {{ content }}
+    </div>
+
+    <!-- INFORMAÇÕES DE CONTATO -->
+    {% include footer.html %}
+
+</body>
+</html>

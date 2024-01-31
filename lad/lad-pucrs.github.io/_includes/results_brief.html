@@ -1,0 +1,100 @@
+<hr />
+<!-- RESUMO DAS PRODUÇÕES CIENTÍFICAS -->
+<div class="card shadow-sm p-3 my-3">
+    <div class="card-body">
+        <h4 class="card-title fw-bold">Resumo</h4>
+        <ul>
+            {% assign productions = site.data.production.export %}
+            <li>
+                No total, foram <b>{{ productions.size }} publicações</b> que
+                contaram com o apoio dos recursos de processamento de alto desempenho do
+                LabLAD. Entre elas, destacam-se artigos científicos e publicações acadêmicas.
+            </li>
+
+            {% assign last_year = productions.first.year %}
+            {% assign sec_last = last_year | minus: 1 %}
+            {% assign trd_last = last_year | minus: 2 %}
+
+            {% assign count_last_sctf = 0 %}
+            {% assign count_last_acad = 0 %}
+
+            {% assign count_sec_sctf = 0 %}
+            {% assign count_sec_acad = 0 %}
+
+            {% assign count_trd_sctf = 0 %}
+            {% assign count_trd_acad = 0 %}
+
+            {% assign count_others_sctf = 0 %}
+            {% assign count_others_acad = 0 %}
+
+            {% for production in productions %}
+                {% assign year = production.year %}
+                {% case year %}
+                    {% when last_year %}
+                        
+                        {% if production.type == "Artigo Científico" or production.type == "Artigo em Conferência" or production.type == "Artigo em Revista" or production.type == "Apresentação em Evento" or production.type == "Apresentação em Congresso" %}
+                            {% assign count_last_sctf = count_last_sctf | plus: 1 %}
+                        {% else %}
+                            {% assign count_last_acad = count_last_acad | plus: 1 %}
+                        {% endif %}
+
+                    {% when sec_last %}
+                        
+                        {% if production.type == "Artigo Científico" or production.type == "Artigo em Conferência" or production.type == "Artigo em Revista" or production.type == "Artigo em Evento" %}
+                            {% assign count_sec_sctf = count_sec_sctf | plus: 1 %}
+                        {% else %} {% assign count_sec_acad = count_sec_acad | plus: 1 %}
+                        {% endif %}
+
+                    {% when trd_last %}
+                        
+                        {% if production.type == "Artigo Científico" or production.type == "Artigo em Conferência" or production.type == "Artigo em Revista" or production.type == "Artigo em Evento" %}
+                            {% assign count_trd_sctf = count_trd_sctf | plus: 1 %}
+                        {% else %} {% assign count_trd_acad = count_trd_acad | plus: 1 %}
+                        {% endif %}
+
+                    {% else %}
+                        
+                        {% if production.type == "Artigo Científico" or production.type == "Artigo em Conferência" or production.type == "Artigo em Revista" or production.type == "Artigo em Evento" %}
+                            {% assign count_others_sctf = count_others_sctf | plus: 1 %}
+                        {% else %} {% assign count_others_acad = count_others_acad | plus: 1 %}
+                        {% endif %}
+
+                {% endcase %}
+            {% endfor %}
+
+            <ul>
+                <li>
+                    No ano de <b>{{ last_year }}</b>, foram
+                    <b>{{ count_last_sctf | plus: count_last_acad }}</b> publicações! Sendo
+                    <b>{{ count_last_sctf }}</b> artigos e
+                    <b>{{ count_last_acad }}</b> publicações acadêmicas.
+                </li>
+                <li>
+                    No ano de <b>{{ sec_last }}</b>, foram
+                    <b>{{ count_sec_sctf | plus: count_sec_acad }}</b> publicações! Sendo
+                    <b>{{ count_sec_sctf }}</b> artigos e
+                    <b>{{ count_sec_acad }}</b> publicações acadêmicas.
+                </li>
+                <li>
+                    No ano de <b>{{ trd_last }}</b>, foram
+                    <b>{{ count_trd_sctf | plus: count_trd_acad }}</b> publicações! Sendo
+                    <b>{{ count_trd_sctf }}</b> artigos e
+                    <b>{{ count_trd_acad }}</b> publicações acadêmicas.
+                </li>
+                <li>
+                    Nos outros anos apoiamos <b>{{ count_others_sctf | plus: count_others_acad }}</b>
+                    publicações! Sendo
+                    <b>{{ count_others_sctf }}</b> artigos e
+                    <b>{{ count_others_acad }}</b> publicações acadêmicas.
+                </li>
+            </ul>
+        </ul>
+
+        <p><b>Artigos</b> são trabalhos acadêmicos publicados em periódicos científicos ou conferências, 
+            enquanto <b>publicações acadêmicas</b> incluem teses de doutorado, dissertações de mestrado 
+            e trabalhos de conclusão de curso (TCC) de graduação.
+        </p>
+    </div>
+</div>
+
+<hr />

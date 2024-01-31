@@ -1,0 +1,23 @@
+<!-- BREVE EXPLICAÇÃO -->
+<section class="about my-3 mx-auto container justify-content-start mw-100 p-0">
+    <div class="align-items-start d-flex flex-row gap-4">
+        <div class="col p-0">
+            <div class="card shadow-sm">
+                <img src="{{ '/assets/img/lad-front.jpg' | relative_url }}" class="card-img-top" alt="lad-front">
+                <div class="card-body">
+                    <h5 class="card-title my-3 fw-bold">Qual é o foco do LabLAD?</h5>
+                    <p class="card-text">{{ site.brief.focus }}</p>
+                </div>
+            </div>
+        </div>
+        <div class="col p-0">
+            <div class="card shadow-sm">
+                <img src="{{ '/assets/img/lad-pantanal.jpg' | relative_url }}" class="card-img-top" alt="lad-cluster">
+                <div class="card-body">
+                    <h5 class="card-title my-3 fw-bold">Quais são os produtos / serviços oferecidos?</h5>
+                    <p class="card-text">{{ site.brief.services }}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

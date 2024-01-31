@@ -1,0 +1,65 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: LabLAD
+site-icon: /assets/img/icon-lablad.gif
+brand-image: /assets/img/brand-lablad.png
+email: 
+  support: suporte.lad@pucrs.br
+  contact: contato.lad@pucrs.br
+phone: +55 51 3353-8001
+social:
+  youtube: https://www.youtube.com/@laboratoriodealtodesempenh6855/featured
+institutional: https://www.pucrs.br/ideia/laboratorios-ideia/lablad/
+
+description: >- # this means to ignore newlines until "brief:"
+  O Laboratório de Alto Desempenho (LAD) tem como função o provimento de recursos computacionais de alto desempenho para pesquisadores, professores e alunos da Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS).
+
+brief:
+  focus: O Laboratório de Alto Desempenho (LAD) tem como função o provimento de recursos computacionais de alto desempenho para pesquisadores, professores e alunos da Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS). Os recursos também estão disponíveis para utilização por empresas de diversos portes, estabelecidas, ou não, no parque tecnológico da PUCRS (TecnoPUC). O LAD disponibiliza uma grande capacidade computacional através de servidores e dispositivos de armazenamento com diferentes configurações visando a execução eficiente de aplicações que possuem alta demanda computacional.
+  services: Serviços com capacidade computacional na forma de horas-máquina para a execução de aplicações de alto desempenho para aquisição (24x7). Suporte na definição de infraestrutura de alto desempenho para aquisição. Instalação, configuração, otimização e gerenciamento de versões das aplicações paralelas para uso no LAD. Área de armazenamento para hospedar dados de pesquisa. Cursos de capacitação na área de PAD para pesquisadores, técnicos e alunos.
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "lad-pucrs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

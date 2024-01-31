@@ -1,0 +1,25 @@
+<div class="menu card rounded shadow-sm overflow-y-auto">
+    <div class="card-body" id="menu-body">
+        <ul class="list-unstyled">
+            <!-- docs recebe todas as páginas que usam o layout "docs", em ordem -->
+            {% assign docs = site.pages | where: "layout", "docs" | sort: "order" %}
+            {% for doc in docs %}
+                {% if doc.category == "docs" %} <!-- ou seja, se ela é um overview daquela seção-->
+                <li class="my-1 nav-item">
+                    <a href="{{ doc.url | relative_url }}" class="nav-link fw-bolder">{{ doc.title }}</a>
+                </li>
+                {% endif %}
+                {% if doc.children %}
+                <ul>
+                    {% for child in doc.children %}
+                        {% assign subpage = site.pages | where: "url", child.url | first %}
+                        <li class="my-1 nav-item">
+                            <a href="{{ subpage.url | relative_url }}" class="nav-link">{{ subpage.title }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+</div>

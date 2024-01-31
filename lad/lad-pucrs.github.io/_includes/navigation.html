@@ -1,0 +1,40 @@
+<!-- docs recebe todos as páginas em que a url dela contém "docs", em ordem -->
+{% assign docs = site.pages | where_exp: "item", "item.url contains 'docs'" | sort: "order" %}
+
+<!-- se tiver mais que um, sempre tem :) -->
+{% if docs.size > 1 %}
+
+    <!-- busca o index da página atual -->
+    {% for doc in docs %}
+        {% if doc.title == page.title %}
+            {% assign page_index = forloop.index %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+
+    {% assign prev_index = page_index | minus: 1 %}
+    {% assign next_index = page_index | plus: 1 %}
+
+    <!-- define a página referente ao anterior ou próximo -->
+    {% for doc in docs %}
+        {% if forloop.index == prev_index %}
+            {% assign prev = doc %}
+        {% endif %}
+        {% if forloop.index == next_index %}
+            {% assign next = doc %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+
+<div class="navigation d-flex justify-content-end">
+    {% if prev %}
+    <a href="{{ prev.url }}" class="prev" title="{{ prev.title }}">&lt; Anterior</a>
+    {% endif %}
+    {% if prev and next %}
+    <span class="text-primary">&ensp;|&ensp;</span>
+    {% endif %}
+    {% if next %}
+    <a href="{{ next.url }}" class="next" title="{{ next.title }}">Próximo &gt;</a>
+    {% endif %}
+</div>
+{% endif %}

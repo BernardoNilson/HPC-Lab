@@ -1,0 +1,52 @@
+<!-- CARROUSEL DE FOTOS DO LABORATÓRIO -->
+<section class="shadow-sm my-3">
+    <div id="carousel" class="carousel slide">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carousel" data-bs-slide-to="0" class="active"
+                aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carousel" data-bs-slide-to="1"
+                aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carousel" data-bs-slide-to="2"
+                aria-label="Slide 3"></button>
+                <button type="button" data-bs-target="#carousel" data-bs-slide-to="3"
+                aria-label="Slide 4"></button>
+        </div>
+        <div class="carousel-inner rounded" id="section">
+            <div class="carousel-item active">
+                <img src="{{ '/assets/img/lad-external.jpg' | relative_url }}" class="d-block w-100" alt="lad-external">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5 class="fw-bold">Entrada do LabLAD - Prédio 32</h5>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="{{ '/assets/img/lad-fibre.jpg' | relative_url }}" class="d-block w-100" alt="lad-fibre">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5 class="fw-bold">Servidores FIBRE</h5>
+                    <p class="fw-bold">Plataforma de Edge Computing. Ambiente de teste e experimentação de novas aplicações.</p>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="{{ '/assets/img/lad-rede.jpg' | relative_url }}" class="d-block w-100" alt="lad-rede">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5 class="fw-bold">Rack de redes - PUCRSnet</h5>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="{{ '/assets/img/lad-entrance.jpg' | relative_url }}" class="d-block w-100" alt="lad-entrance">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5 class="fw-bold">Entrada do LabLAD - Prédio 32</h5>
+                </div>
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carousel"
+            data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carousel"
+            data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+</section>
