@@ -2,12 +2,9 @@
 
 > Manual do EqualLogic PS4100: [https://dl.dell.com/manuals/all-products/esuprt_ser_stor_net/esuprt_equallogic/equallogic-ps4100x_setup-guide_en-us.pdf](https://dl.dell.com/manuals/all-products/esuprt_ser_stor_net/esuprt_equallogic/equallogic-ps4100x_setup-guide_en-us.pdf)
 
-Estamos configurando em uma máquina qualquer com o "Try Ubuntu 22.04"
+Estamos configurando em uma máquina qualquer com o "Try Ubuntu 22.04". Precisamos ativar as bibliotecas no app "Software and Update"
 
-Precisamos ativar as bibliotecas no app "Software and Update"
-
-
-
+~~~
 sudo apt update
 sudo apt install minicom
 sudo minicom -s -c on
@@ -24,7 +21,7 @@ sudo minicom -s -c on
             | Exit from Minicom        |
             +--------------------------+
             
-Usamos as seguintes configurações:
+> Serial port setup:
 
     +-----------------------------------------------------------------------+
     | A -    Serial Device      : /dev/ttyS0                                |
@@ -44,6 +41,7 @@ Usamos as seguintes configurações:
     |                                                                       |
     |    Change which setting?                                              |
     +-----------------------------------------------------------------------+
+~~~
 
 Acesso padrão ao Storage, segundo o manual:
 - login: grpadmin
@@ -144,50 +142,55 @@ ProxGroup>
 ~~~
 
 ## Instalando Java JRE SE 8
+<details>
+            
 [https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html)
 [https://download.oracle.com/otn/java/jdk/8u241-b07/1f5b5a70bf22433b84d0e960903adac8/jre-8u241-linux-x64.tar.gz](https://download.oracle.com/otn/java/jdk/8u241-b07/1f5b5a70bf22433b84d0e960903adac8/jre-8u241-linux-x64.tar.gz)
 
-
 Change to the directory in which you want to install. Type:
 
-cd directory_path_name
+`cd directory_path_name`
     
 For example, to install the software in the /usr/java/ directory, Type:
 
-cd /usr/java/
+`cd /usr/java/`
     
 Move the .tar.gz archive binary to the current directory. Unpack the tarball and install Java
 
-sudo tar zxvf jre-8u241-linux-x64.tar.gz
+`sudo tar zxvf jre-8u241-linux-x64.tar.gz`
 
 The Java files are installed in a directory called jre1.8.0_241 in the current directory. In this example, it is installed in the /usr/java/jre1.8.0_241 directory. When the installation has completed, you will see the word Done.
-    Delete the .tar.gz file if you want to save disk space.
+
+Delete the .tar.gz file if you want to save disk space.
 
 Set environment variables
 
-ubuntu@ubuntu:/usr/bin/java/jre1.8.0_241$ export JAVA_HOME=/usr/bin/java/jre1.8.0_241
-ubuntu@ubuntu:/usr/bin/java/jre1.8.0_241$ export PATH=$JAVA_HOME/bin/:$PATH
+`ubuntu@ubuntu:/usr/bin/java/jre1.8.0_241$ export JAVA_HOME=/usr/bin/java/jre1.8.0_241`
 
-ubuntu@ubuntu:/usr/bin/java/jre1.8.0_241$ java -version
+`ubuntu@ubuntu:/usr/bin/java/jre1.8.0_241$ export PATH=$JAVA_HOME/bin/:$PATH`
+
+`ubuntu@ubuntu:/usr/bin/java/jre1.8.0_241$ java -version`
 
     java version "1.8.0_241"
     Java(TM) SE Runtime Environment (build 1.8.0_241-b07)
     Java HotSpot(TM) 64-Bit Server VM (build 25.241-b07, mixed mode)
     ubuntu@ubuntu:/usr/bin/java/jre1.8.0_241$ 
 
-Os comandos foram adicionamos manualmente de forma temporária, para adicionar ao iniciar o shell adcionei direto no .bashrc
+Os comandos foram adicionamos manualmente de forma temporária, para adicionar ao iniciar o shell adcionei direto no .bashrc. Para usar somente a versão de Java temporária, pode usar direto o caminho para o comando: `/usr/java/jre1.8.0_241/bin/javaws`
+
+</details>
+
+## Interface Web - Group Manager
 
 Ao acessar o endereço web http://192.168.1.82/ e cancelar a operação. Podemos lançar como uma aplicação Java, ele baixa um arquivo groupmgr.jnlp
 
 Antes, precisamos adicionar os sites na nossa lista de site sem restrição do Java. Para isso:
 
-/usr/bin/java/jre1.8.0_241$ ./bin/ControlPanel 
+`/usr/bin/java/jre1.8.0_241$ ./bin/ControlPanel`
 
-Vamos em Security > Edit Site List > Add e colocamos o nosso endereço.
+Vamos em _Security_ > _Edit Site List_ > _Add_ e colocamos o nosso endereço.
 
-Com o Java SE 8 instalado no compuatador, executamos o seguinte comando javaws `javaws http://192.168.1.83/groupmgr.jnlp`.
-
-## Interface Web - Group Manager
+Com o Java SE 8 instalado no compuatador, executamos o seguinte comando javaws `javaws http://192.168.1.82/groupmgr.jnlp`.
 
 Finalizamos a criação do membro criado com as seguintes opções:
 
@@ -196,18 +199,20 @@ Finalizamos a criação do membro criado com as seguintes opções:
     Estimated member capacity	7.82 TB
     Expand group capacity	immediate
 
-ALguns pontos interessantes:
+Alguns pontos interessantes:
+<details>
 - https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi28_j41tiCAxWmqZUCHUZrCHEQtwJ6BAgPEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPBl2N5_QQkM&usg=AOvVaw03Ecxm85O18-pN_tWyy5vL&opi=89978449
 - https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi28_j41tiCAxWmqZUCHUZrCHEQFnoECAwQAQ&url=https%3A%2F%2Fforum.proxmox.com%2Fthreads%2Fproxmox-ve-and-dell-equallogic-storage-iscsi.90872%2F&usg=AOvVaw1dQ3vz-HUyYw5E5CrcMcjp&opi=89978449
 - https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjqp_3E19iCAxXxs5UCHatrA5QQFnoECAsQAQ&url=https%3A%2F%2Fcommunity.spiceworks.com%2Ftopic%2F322351-how-to-configure-a-dell-equalogic-ps4100-san&usg=AOvVaw1fc47ai8_4Db6pF63EcTKx&opi=89978449
 - https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjqp_3E19iCAxXxs5UCHatrA5QQtwJ6BAgNEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwY66t_Ut3gU&usg=AOvVaw2g0gBl5IDMknd0TT5WYEFL&opi=89978449
+</details>
 
 ## Executando no meu PC
 
 Assim como os passos anteriores, eu fiz a instalação do pacote jre1.8.0_241 no diretório /usr/java. E descompactei do arquivo.
 
 Sendo assim, para executar a aplicação:
-`/usr/java/jre1.8.0_241/bin/javaws http://192.168.1.83/groupmgr.jnlp`
+`/usr/java/jre1.8.0_241/bin/javaws http://192.168.1.82/groupmgr.jnlp`
 
 Para me facilitar, coloquei o comando em um arquivo bash oculto.
 
@@ -215,9 +220,61 @@ Para me facilitar, coloquei o comando em um arquivo bash oculto.
 
 [https://forum.proxmox.com/threads/lvm-thin-over-iscsi-and-live-migration.27638/](https://forum.proxmox.com/threads/lvm-thin-over-iscsi-and-live-migration.27638/)https://forum.proxmox.com/threads/lvm-thin-over-iscsi-and-live-migration.27638/
 
+Login: root
 Senha do ProxMox: L@bL@D2023
+Login: grpadmin
 Senha do Storage Dell: admin2204
-Trocamos o IP Address do membro pelo IP Address do grupo, e vice-versa.
+
+### Storage Configurações:
+Group name: ProxGroup
+Group IP Address: 172.17.183
+Rede de Management: 192.168.1.82
   
-Vídeos:
-Configura o Storage pelo KITTY
+## ProxMox - VM do GMAP (Exmplo)
+
+#### Como adicionar o Storage (ISCSI) ao Proxmox?
+Na tela principal > Datacenter > Storage > Add > ISCSI
+
+            ID: ps4100
+            Portal: 172.17.1.82
+            Target: Único disponível 
+            > Add
+
+#### Como adicionar LVM ao Proxmox?
+Na tela principal > Datacenter > Storage > Add > LVM
+
+            ID: vgps4100
+            Base storage: ps4100 (ISCSI)
+            Base volume: Unico disponivel
+            Volume group: vgps4100
+            Content: Disk Image, Container
+            > Add
+#### Como criar uma VM?
+Na tela principal > Botão direiro na "nimbus04" : Create VM
+
+            Name: KNetData
+            > Next
+            Seleciona a ISO desejada no Storage local
+            > Next
+            System: Tudo padrão
+            > Next
+            Storage: vgps4100
+            Disk size: 250GB
+            > Next
+            Sockets: 1
+            Cores: 2 
+            Type: host
+            > Next
+            Memory: 8192
+            > Next
+            Bridge: vmbr2 (dmz) 
+            > Next
+            > Finishg
+
+#### Como criar um bridge de rede?
+Na tela principal > nimbus04 > Network > Create > Linux Bridge
+
+            Name: padrão
+            Bridge ports: nome da rede (Ex. eno1)
+
+
